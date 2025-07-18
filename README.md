@@ -21,7 +21,7 @@ Objective:
 #MLTeam3 will develop a Machine Learning model to predict the top 3 best sellers and aid the dealer's inventory decsions to ensure model avilablity for customers to purchase with the aim of increasing sales volume and driving profitability. 
 
 # Note about the dataset
-#MLTeam3 is leveraging the Car Sales Report data from Kaggle for training and testing the ML model. The base dataset contains sales data with over 2000 samples within 16 features. The dataset contains historical sales data for peroid of 24 months starting from Jan 1, 2022 and concluding by Dec 2023. The key features in the data are:
+#MLTeam3 is leveraging the Car Sales Report data from Kaggle for training and testing the ML model. The base dataset contains sales data with over 20000 samples within 16 features. The dataset contains historical sales data for peroid of 24 months starting from Jan 1, 2022 and concluding by Dec 2023. The key features in the data are:
 
 - Car_ID - A unique identifer for each car 
 - Date - Date of the sale transaction 

@@ -1,5 +1,4 @@
-# dealerships_sales_forecasting
-ML Team 3 project
+# DSI - Project 
 
 # Car sales forecasting - ML Team 3 
 

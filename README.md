@@ -42,7 +42,7 @@ Objective:
 ## Syntetic Additions
 Along with the base dataset, we have chosen to include additional features to enhance the dataset focused on real-world metrics. After much consideration, we have chosen to add the following features:
 
-- Family Size - Feature to capute the size of the purchasers family as that is a key buying consideration 
+- Family Size - size of the purchasers family as that is a key buying consideration 
 - Gas Milage - Fuel efficient is one of the top 5 decision factors when buying a vehicle 
 - Crash Test Score - Along with fuel efficiency, safety rating of a vehicle is a strong driver of purchasing decision
 

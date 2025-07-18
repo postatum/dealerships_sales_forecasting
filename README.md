@@ -39,7 +39,7 @@ Objective:
 - Phone - Phone number of the purchaser
 - Dealer Region - Geographic region of the dealer 
 
-## Syntetic Additoins
+## Syntetic Additions
 Along with the base dataset, we have chosen to include additional features to enhance the dataset focused on real-world metrics. After much consideration, we have chosen to add the following features:
 
 - Family Size - Feature to capute the size of the purchasers family as that is a key buying consideration 

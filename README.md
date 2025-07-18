@@ -44,7 +44,7 @@ Along with the base dataset, we have chosen to include additional features to en
 
 - Family Size - Feature to capute the size of the purchasers family as that is a key buying consideration 
 - Gas Milage - Fuel efficient is one of the top 5 decision factors when buying a vehicle 
-- Crash Test Score - Along with fuel efficiency, safecty rating of a vehicle is a strong driver of purchasing decision
+- Crash Test Score - Along with fuel efficiency, safety rating of a vehicle is a strong driver of purchasing decision
 
 # Methodology
 - (TBD) How are we going to perfrom each of the following

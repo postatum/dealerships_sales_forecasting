@@ -1,0 +1,12 @@
+categorical_columns:
+  - gender
+  - dealer_name
+  - company
+  - model
+  - engine
+  - transmission
+  - color
+  - dealer_no
+  - body_style
+  - dealer_region
+  - brand_model

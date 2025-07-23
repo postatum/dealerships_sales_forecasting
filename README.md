@@ -53,16 +53,49 @@ After much consideration, we have chosen to add the following features:
 - Crash Test Score - Along with fuel efficiency, safety rating of a vehicle is a strong driver of purchasing decision
 
 # Methodology
-- (TBD) How are we going to perfrom each of the following
 
-# Data Preperation 
+## Data Preperation 
 - (TBD) Along with data preperation techniques we also need to highlight how we plan to populate data for the three new features 
 
-# Model selection 
-- (TBD) 
+## Model selection 
+Considering we are trying to solve a classification problem, we considered the following classification models:
+* LogisticRegression;
+* RandomForestClassifier;
+* XGBClassifier;
+* LGBMClassifier;
 
-# Model Training and Evaluation 
-- (TBD)
+The reason we chose these particular models is - they were easy to understand, had a variety of hyperparameters to tune and our compute resources were enough to train them in a reasonable time.
+
+## Model Training and Evaluation 
+
+All the models we were working with were trained and evaluated in a similar matter.
+
+First we split all the features we had into numeric and categorical to apply distinct processing to each category down the line. In particular we had:
+* numeric features, e.g. year, month, number of sales in a current month, number of sales in previous 1-12 months;
+* categorical features, e.g. engine type, transmission type, color, body style.
+
+During data exploration and augmentation we noticed a disbalance in the data - non-best-sellers class was present in about 93% of the data, while best-seller only in around 7%. To address the issue and make sure models consider the imbalance, we calculated weights of the classes using sklearn tools and used them when training all the models.
+
+To train the models we split available data into training and test sets by choosing the last 3 month of available data to be test data. This made sure model evaluation represented a real world scenario - model predicting future events based on past data.
+
+Then we developed reusable functions to perform grid search of a model and evaluate a model. These functions accept parameters so they can be used to tune and evalute every model in a similar manner.
+
+The function that performs grid search uses the same one-hot encoding hyperparameters for all the models, allows to specify more hyperparameters to tune, prints some metrics and returns a best-performing model. It also aims to maximize F1 score, because this metric represents a balance of precision and recall.
+
+The function that evaluates a model performance, predicts classes using test dataset, compares them to actual classes and output a few metrics, such as: accuracy, precision, recall, F1 score, AUC and a confusion matrix. The matrix played a crucial role in our model selection process, because it allowed us to choose a model that satisfied business requirements the best. Here's an example of what it looks like:
+
+![Confusion matrix](./confusion-matrix.png)
+
+Next we configured a preprocessor pipeline, which is used by all the model. The pipeline does two things:
+1. Performs standard scaling of numeric features to make sure they all contribute equally to the model performance. We had to do this, because some of our features have very different scale;
+2. Performs One-Hot encoding of categorical features.
+
+Then we created pipelines using each type of classifier we previously selected and the preprocessor we developed previously. Next, for each model we ran grid search using a variety of hyperparameters and evaluated the results. Again, we were aiming for maximizing F1 score and a confusion matrix with the least confusion.
+
+Based on the evaluation we chose model ??????? and exported it into a pickle file so it can be loaded and reused down the line. The output model had the following performance metrics:
+1. ?????
+2. ?????
+
 
 # Key Findings 
 - (TBD)

@@ -12,14 +12,19 @@ Team members:
 - Zoe Ackah 
 
 # Business Problem and Objective 
-#MLTeam3 is a market leading reserach group focused on automative supply chain with data backed reporting and forecasting services for auto manufacturers, parts suppliers and dealership groups across the globe. #MLTeam3 provides AI backed market predictions and forecasts to optimize demand based decision making for all verticles in the industry. 
+#MLTeam3 is a market leading research group focused on automative supply chain with data backed reporting and forecasting services for auto manufacturers, parts suppliers and dealership groups across the globe. #MLTeam3 provides AI backed market predictions and forecasts to optimize demand based decision making for all verticles in the industry. 
 
-Business Problem:
+## Business Problem
 A large dealership network is seeking to optimize their sales forecast and engaged #MLTeam3 to boost their inventory management by identifying best selling vehicles within their competitve markets. 
 
-Objective:
-#MLTeam3 will develop a Machine Learning model to predict the top 3 best sellers and aid the dealer's inventory decsions to ensure model avilablity for customers to purchase with the aim of increasing sales volume and driving profitability. 
+## Objective
+#MLTeam3 will develop a Machine Learning model to predict the top 3 best sellers and aid the dealer's inventory decisions to ensure model avilablity for customers to purchase with the aim of increasing sales volume and driving profitability. Target variable for the machine learning model is binary classification of "best seller" - whether a car will be a best seller in a particular month based on the car's features and historical sales data. Car dealers will be able to use the model to make predictions about best sellers to adjust inventory.
 
+## Risks and unknowns
+Some of the risks we have identified are:
+* We have a limited amount of data - only ~28 thousand rows and 2 years of data - which limits our ability to well-tune a model. This will result in a sub-optimal model which will be prone to making mistakes;
+* Technological limitations (e.g. slow machines) may prevent us from choosing the best classification model, because training such a model would either be impossible or take hours. This will results is us choosing a simpler model that is realistic to train using our technological resources.
+ 
 # Note about the dataset
 #MLTeam3 is leveraging the Car Sales Report data from Kaggle for training and testing the ML model. The base dataset contains sales data with over 20000 samples within 16 features. The dataset contains historical sales data for peroid of 24 months starting from Jan 1, 2022 and concluding by Dec 2023. The key features in the data are:
 
@@ -39,9 +44,10 @@ Objective:
 - Phone - Phone number of the purchaser
 - Dealer Region - Geographic region of the dealer 
 
-## Syntetic Additions
-Along with the base dataset, we have chosen to include additional features to enhance the dataset focused on real-world metrics. After much consideration, we have chosen to add the following features:
+## Synthetic Additions
+Along with the base dataset, we have chosen to include additional features to enhance the dataset focused on real-world metrics. The features we added are completely synthetic, they do not represent the actual data and are not related to it. The only purpose they serve is making data richer.
 
+After much consideration, we have chosen to add the following features:
 - Family Size - size of the purchasers family as that is a key buying consideration 
 - Gas Milage - Fuel efficiency is one of the top 5 decision factors when buying a vehicle 
 - Crash Test Score - Along with fuel efficiency, safety rating of a vehicle is a strong driver of purchasing decision

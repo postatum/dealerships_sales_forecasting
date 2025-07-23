@@ -1,0 +1,20 @@
+numerical_columns:
+  - annual_income
+  - price
+  - mileage_km_total
+  - crash_test_score
+  - family_size
+
+
+categorical_columns:
+  - gender
+  - company
+  - model
+  - body_style
+  - color
+  - transmission
+  - dealer_region
+  - brand_model
+  - engine
+  - year
+  - month

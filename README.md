@@ -75,6 +75,10 @@ After much consideration, we have chosen to add the following features:
 ### Data Preparation 
 - (TBD) Along with data preparation techniques we also need to highlight how we plan to populate data for the three new features 
 
+During data preparation we also augmented data to introduce the actual label we want to predict and more features to have more accurate predictions. In particular:
+1. To add a label/class of "best seller" we aggregated the data by month, year, car model, calculated number of each car model sales within a period and labeled models with top 3 sales as "best sellers". Rest of the car models within each period were marked as non "best sellers";
+2. To have more features we introduced `last_N_months_sales` with N ranging from 1 to 12, where each feature represents number of sales of a particular car model in the last N month. This allowed us to include historical sales data and trends in the model training.
+
 ### Model selection 
 Considering we are trying to solve a classification problem, we considered the following classification models:
 * LogisticRegression;
@@ -102,7 +106,7 @@ The function that performs grid search uses the same one-hot encoding hyperparam
 
 The function that evaluates a model performance, predicts classes using test dataset, compares them to actual classes and outputs a few metrics, such as: accuracy, precision, recall, F1 score, AUC and a confusion matrix. The matrix played a crucial role in our model selection process, because it allowed us to choose a model that satisfied business requirements the best. Here's an example of what it looks like:
 
-![Confusion matrix](./confusion-matrix.png)
+![Confusion matrix example](./confusion-matrix.png)
 
 Next we configured a preprocessor pipeline, which is used by all the model. The pipeline does two things:
 1. Performs standard scaling of numeric features to make sure they all contribute equally to the model performance. We had to do this, because some of our features have very different scale;
@@ -110,9 +114,13 @@ Next we configured a preprocessor pipeline, which is used by all the model. The 
 
 Then we created pipelines using each type of classifier we previously selected and the preprocessor we developed previously. Next, for each model we ran grid search using a variety of hyperparameters and evaluated the results. Again, we were aiming for maximizing F1 score and a confusion matrix with the least confusion.
 
-Based on the evaluation we chose model ??????? and exported it into a pickle file so it can be loaded and reused down the line. The output model had the following performance metrics:
-1. ?????
-2. ?????
+Based on the evaluation we chose model using LGBMClassifier and exported it into a pickle file so it can be loaded and reused down the line. The output model had the following performance metrics:
+
+    * Accuracy: 0.95132186319765
+    * Precision: 0.5534441805225653
+    * Recall: 0.8411552346570397
+    * F1 Score: 0.667621776504298
+    * AUC: 0.9706575158047791
 
 
 ## Key Findings 

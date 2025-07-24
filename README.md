@@ -75,6 +75,10 @@ After much consideration, we have chosen to add the following features:
 ### Data Preparation 
 - (TBD) Along with data preparation techniques we also need to highlight how we plan to populate data for the three new features 
 
+During data preparation we also augmented data to introduce the actual label we want to predict and more features to have more accurate predictions. In particular:
+1. To add a label/class of "best seller" we aggregated the data by month, year, car model, calculated number of each car model sales within a period and labeled models with top 3 sales as "best sellers". Rest of the car models within each period were marked as non "best sellers";
+2. To have more features we introduced `last_N_months_sales` with N ranging from 1 to 12, where each feature represents number of sales of a particular car model in the last N month. This allowed us to include historical sales data and trends in the model training.
+
 ### Model selection 
 Considering we are trying to solve a classification problem, we considered the following classification models:
 * LogisticRegression;

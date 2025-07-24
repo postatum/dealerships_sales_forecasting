@@ -111,6 +111,7 @@ Next we configured a preprocessor pipeline, which is used by all the model. The 
 Then we created pipelines using each type of classifier we previously selected and the preprocessor we developed previously. Next, for each model we ran grid search using a variety of hyperparameters and evaluated the results. Again, we were aiming for maximizing F1 score and a confusion matrix with the least confusion.
 
 Based on the evaluation we chose model using LGBMClassifier and exported it into a pickle file so it can be loaded and reused down the line. The output model had the following performance metrics:
+
     * Best AUC: 0.6376160650240255
     * Accuracy: 0.95132186319765
     * Precision: 0.5534441805225653

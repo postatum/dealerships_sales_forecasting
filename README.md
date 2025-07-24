@@ -112,7 +112,6 @@ Then we created pipelines using each type of classifier we previously selected a
 
 Based on the evaluation we chose model using LGBMClassifier and exported it into a pickle file so it can be loaded and reused down the line. The output model had the following performance metrics:
 
-    * Best AUC: 0.6376160650240255
     * Accuracy: 0.95132186319765
     * Precision: 0.5534441805225653
     * Recall: 0.8411552346570397

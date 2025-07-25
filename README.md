@@ -60,6 +60,8 @@ Some of the risks we have identified are:
 - Phone - Phone number of the purchaser
 - Dealer Region - Geographic region of the dealer 
 
+You can find the original dataset on Kaggle here: [Car Sales Report Dataset](https://www.kaggle.com/datasets/missionjee/car-sales-report/data)
+
 ## Synthetic Additions
 To enhance the predictive power and real-world relevance of our dataset, we have introduced synthetic features that simulate critical variables often considered by consumers in the vehicle purchasing process. These additions aim to supplement the original data with practical and human-centered context.
 

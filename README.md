@@ -40,11 +40,18 @@ Objective:
 - Dealer Region - Geographic region of the dealer 
 
 ## Syntetic Additions
-Along with the base dataset, we have chosen to include additional features to enhance the dataset focused on real-world metrics. After much consideration, we have chosen to add the following features:
+To enhance the predictive power and real-world relevance of our dataset, we have introduced synthetic features that simulate critical variables often considered by consumers in the vehicle purchasing process. These additions aim to supplement the original data with practical and human-centered context.
 
-- Family Size - size of the purchasers family as that is a key buying consideration 
-- Gas Milage - Fuel efficiency is one of the top 5 decision factors when buying a vehicle 
-- Crash Test Score - Along with fuel efficiency, safety rating of a vehicle is a strong driver of purchasing decision
+- Family Size
+Reflects the number of people in the purchaser’s household. This is a key factor influencing the type of vehicle chosen (e.g., sedan vs. SUV). Estimated based on vehicle category and type. For example, larger vehicles like SUVs and minivans are assigned larger family sizes, while compact cars typically serve smaller households or individuals. This variable simulates one of the key factors in buyer decision-making.
+
+- Gas Mileage
+Represents the distance the vehicle has been driven so far, one of the most important criteria for buyers when selecting a car. Assigned in relation to the vehicle’s brand, type, and price, we have determined a arbitrary start point and generated a random number based on that start point using a random function.
+
+- Crash Test Score
+Indicates the vehicle’s safety rating, typically based on standardized crash testing. Safety is also a major component in purchase decisions. Generated within a realistic range based on assumed safety performance, based on the type of brand - which was split between luxury and safe brands and also using the price in order to randomly generate a classification. Note: This does not reflect the real crash test score of those vehicles and it can be improved by extracting real data from the government departments in charge of this measure.
+
+These synthetic enhancements were designed to align the dataset more closely with real-world buyer behavior, ultimately improving the performance and explainability of downstream forecasting models but are not trying to get a 100% accuracy to the data as all those synthetic data is randomly created based on values assigned by the group.
 
 # Methodology
 - (TBD) How are we going to perfrom each of the following

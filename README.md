@@ -39,7 +39,7 @@ Objective:
 - Phone - Phone number of the purchaser
 - Dealer Region - Geographic region of the dealer 
 
-## Syntetic Additions
+## Synthetic Additions
 To enhance the predictive power and real-world relevance of our dataset, we have introduced synthetic features that simulate critical variables often considered by consumers in the vehicle purchasing process. These additions aim to supplement the original data with practical and human-centered context.
 
 - Family Size

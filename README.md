@@ -71,7 +71,6 @@ After much consideration, we have chosen to add the following features:
 - Crash Test Score - Along with fuel efficiency, safety rating of a vehicle is a strong driver of purchasing decision
 
 ## Methodology
-
 ### Data Preparation 
 #### Exploratory Data Analysis (EDA) – Vehicle Sales Dataset
 
@@ -118,11 +117,8 @@ This section of notebook (`02_eda_analysis`) performs exploratory data analysis 
 **Requirements:** `pandas`, `matplotlib`, `seaborn`, `pyarrow`, `pyyaml`
 
 #### Data Augmentation and Label Creation
-
 During data preparation we also augmented data to introduce the actual label we want to predict and more features to have more accurate predictions. In particular:
-
 1. To add a label/class of "best seller" we aggregated the data by month, year, car model, calculated number of each car model sales within a period and labeled models with top 3 sales as "best sellers". Rest of the car models within each period were marked as non "best sellers";
-
 2. To have more features we introduced `last_N_months_sales` with N ranging from 1 to 12, where each feature represents number of sales of a particular car model in the last N month. This allowed us to include historical sales data and trends in the model training.
 
 ### Model selection 
@@ -170,11 +166,47 @@ Based on the evaluation we chose model using LGBMClassifier and exported it into
 
 
 ## Key Findings 
-- (TBD)
+Building upon the initial ML model results, our team conducted additional analysis to provide enhanced business insights for inventory planning. Through comprehensive evaluation, we identified several key findings:
+Model Performance Analysis
+The LGBMClassifier achieved strong overall metrics with 95% accuracy and high recall (84%), demonstrating effective identification of potential best sellers. However, deeper analysis revealed interesting patterns in model behavior across different vehicle brands:
+
+Brand-Specific Performance Variability: Individual model accuracy ranged from 0% to 100% across different brands, indicating the binary classification approach may be sensitive to brand-specific sales patterns.
+Seasonal Pattern Recognition: The model showed varying confidence levels throughout different months, suggesting seasonal factors significantly impact predictions.
+Volume-Confidence Relationship: Further investigation revealed opportunities to enhance business actionability by incorporating volume forecasting alongside probability scoring.
+
+Business Challenge: The "Borderline Brand" Phenomenon
+Our analysis identified that certain high-volume brands (such as Volkswagen-Passat, ranking 4th in annual sales) experience monthly fluctuations in and out of the top 3, creating a "borderline brand" challenge for binary classification. This finding highlighted the need for complementary forecasting approaches to provide more nuanced business guidance.
+Enhanced Methodology Development
+To address these findings and provide additional business value, we developed a supplementary Linear Regression approach
 
 ## Visualization and Observation 
-- (TBD)
+![Confusion matrix of our ML Model](model_eval.png)
+![ML model accuracy by car](ML_model_accuracy_by_car.png)
+![Here are the ML volume predictions and confidence levels against our traditional linear regression](ml_confidence_vs_lr_volume_rankings.png)
+![2024 annual forecast for top car models](2024_top_cars_forecast.png)
+![Example 2024 Q4 Top 3 Cars Forecast](Q4_2024_forecast.png)
+![Additional 2024 Forecast Vis](top_models_2024_forecast.png)
+
 
 ## Conclusion 
-- (TBD)
+Conclusion
+#MLTeam3 successfully delivered a comprehensive forecasting solution that addresses the dealership network's inventory optimization requirements through a multi-methodology approach.
+Primary Deliverables Achieved
 
+The machine learning model successfully identified monthly top 3 best sellers with strong performance metrics (95% accuracy, 84% recall), fulfilling the core business objective. Our analysis revealed that combining ML classification with linear regression forecasting delivers superior business actionability by providing both automated predictions and precise volume recommendations.
+Strategic Implementation
+
+Immediate Deployment: The ML model is production-ready for identifying top 3 monthly performers across the dealership network.
+
+Enhanced Planning: The supplementary linear regression methodology provides volume-specific guidance for procurement teams, enabling precise inventory allocation and reducing both stockout and overstock risks.
+
+Business Impact
+This forecasting solution directly supports the dealership network's core objectives:
+
+Increased Sales Volume: Accurate identification of high-demand models ensures product availability.
+
+Improved Profitability: Optimized inventory levels reduce carrying costs while maximizing revenue opportunities.
+
+Enhanced Customer Satisfaction: Reliable stock availability of top-performing models improves customer experience.
+
+#MLTeam3 has delivered a scalable, data-driven solution that transforms automotive inventory management from reactive to predictive, positioning the dealership network for sustained market leader

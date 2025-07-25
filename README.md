@@ -73,10 +73,56 @@ After much consideration, we have chosen to add the following features:
 ## Methodology
 
 ### Data Preparation 
-- (TBD) Along with data preparation techniques we also need to highlight how we plan to populate data for the three new features 
+#### Exploratory Data Analysis (EDA) – Vehicle Sales Dataset
+
+This section of notebook (`02_eda_analysis`) performs exploratory data analysis (EDA) on the processed vehicle sales dataset to prepare it for machine learning model training.
+
+**Objectives:**
+- Clean and transform raw features
+- Analyze data distributions and identify patterns
+- Detect outliers or low-value features
+- Identify relevant variables for modeling
+- Summarize actionable insights to inform feature selection
+
+**Key Steps:**
+
+1. **Data Loading & Cleaning**
+   - Loads the processed dataset from `../data/processed/car_sales_data_with_synthetic_features.csv`
+   - Drops unnecessary columns (`Customer Name`, `Phone`, `Car_id`)
+   - Normalizes and renames feature columns for consistency
+   - Removes encoding artifacts (e.g., stray characters in the `engine` column)
+
+2. **Feature Engineering**
+   - Converts date columns to datetime and extracts `year` and `month`
+   - Creates a combined `brand_model` feature
+   - Converts categorical columns to the `category` dtype using configuration from `properties/all_categorical_features.yaml`
+   - Bins annual income into groups for analysis
+
+3. **Data Visualization**
+   - Plots distributions for key numerical and categorical features
+   - Analyzes monthly trends in vehicle price and customer income
+   - Examines frequency of brand-model combinations
+   - Computes and visualizes the correlation matrix for numerical features
+
+4. **Insights & Feature Selection**
+   - Summarizes key findings from the EDA
+   - Selects features for model training based on data analysis and correlation
+
+5. **Exporting Model-Ready Data**
+   - Loads selected feature lists from `properties/selected_features.yaml`
+   - Filters the DataFrame to include only selected features
+   - Saves the model-ready dataset to `../data/processed/vehicle_sales_model_ready.parquet` in Parquet format for efficient downstream use
+
+**Output:** Model-ready dataset saved to `../data/processed/vehicle_sales_model_ready.parquet`
+
+**Requirements:** `pandas`, `matplotlib`, `seaborn`, `pyarrow`, `pyyaml`
+
+#### Data Augmentation and Label Creation
 
 During data preparation we also augmented data to introduce the actual label we want to predict and more features to have more accurate predictions. In particular:
+
 1. To add a label/class of "best seller" we aggregated the data by month, year, car model, calculated number of each car model sales within a period and labeled models with top 3 sales as "best sellers". Rest of the car models within each period were marked as non "best sellers";
+
 2. To have more features we introduced `last_N_months_sales` with N ranging from 1 to 12, where each feature represents number of sales of a particular car model in the last N month. This allowed us to include historical sales data and trends in the model training.
 
 ### Model selection 

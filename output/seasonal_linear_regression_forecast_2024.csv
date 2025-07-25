@@ -1,0 +1,1861 @@
+year,month,brand_model,forecast_units,has_seasonal_pattern
+2024,1,Acura-Integra,1,True
+2024,2,Acura-Integra,2,True
+2024,3,Acura-Integra,1,True
+2024,4,Acura-Integra,1,True
+2024,5,Acura-Integra,3,True
+2024,6,Acura-Integra,4,True
+2024,7,Acura-Integra,1,True
+2024,8,Acura-Integra,5,True
+2024,9,Acura-Integra,5,True
+2024,10,Acura-Integra,7,True
+2024,11,Acura-Integra,7,True
+2024,12,Acura-Integra,11,True
+2024,1,Acura-RL,11,True
+2024,2,Acura-RL,10,True
+2024,3,Acura-RL,25,True
+2024,4,Acura-RL,25,True
+2024,5,Acura-RL,26,True
+2024,6,Acura-RL,18,True
+2024,7,Acura-RL,22,True
+2024,8,Acura-RL,25,True
+2024,9,Acura-RL,45,True
+2024,10,Acura-RL,19,True
+2024,11,Acura-RL,54,True
+2024,12,Acura-RL,63,True
+2024,1,Acura-TL,7,True
+2024,2,Acura-TL,8,True
+2024,3,Acura-TL,12,True
+2024,4,Acura-TL,11,True
+2024,5,Acura-TL,18,True
+2024,6,Acura-TL,15,True
+2024,7,Acura-TL,20,True
+2024,8,Acura-TL,18,True
+2024,9,Acura-TL,41,True
+2024,10,Acura-TL,20,True
+2024,11,Acura-TL,45,True
+2024,12,Acura-TL,46,True
+2024,1,Audi-A4,4,True
+2024,2,Audi-A4,2,True
+2024,3,Audi-A4,5,True
+2024,4,Audi-A4,7,True
+2024,5,Audi-A4,10,True
+2024,6,Audi-A4,7,True
+2024,7,Audi-A4,3,True
+2024,8,Audi-A4,1,True
+2024,9,Audi-A4,8,True
+2024,10,Audi-A4,8,True
+2024,11,Audi-A4,10,True
+2024,12,Audi-A4,15,True
+2024,1,Audi-A6,9,True
+2024,2,Audi-A6,6,True
+2024,3,Audi-A6,19,True
+2024,4,Audi-A6,23,True
+2024,5,Audi-A6,24,True
+2024,6,Audi-A6,17,True
+2024,7,Audi-A6,19,True
+2024,8,Audi-A6,24,True
+2024,9,Audi-A6,55,True
+2024,10,Audi-A6,27,True
+2024,11,Audi-A6,51,True
+2024,12,Audi-A6,50,True
+2024,1,Audi-A8,1,True
+2024,2,Audi-A8,1,True
+2024,3,Audi-A8,1,True
+2024,4,Audi-A8,1,True
+2024,5,Audi-A8,1,True
+2024,6,Audi-A8,3,True
+2024,7,Audi-A8,3,True
+2024,8,Audi-A8,3,True
+2024,9,Audi-A8,5,True
+2024,10,Audi-A8,4,True
+2024,11,Audi-A8,4,True
+2024,12,Audi-A8,9,True
+2024,1,BMW-323i,4,True
+2024,2,BMW-323i,7,True
+2024,3,BMW-323i,14,True
+2024,4,BMW-323i,18,True
+2024,5,BMW-323i,14,True
+2024,6,BMW-323i,14,True
+2024,7,BMW-323i,17,True
+2024,8,BMW-323i,15,True
+2024,9,BMW-323i,39,True
+2024,10,BMW-323i,19,True
+2024,11,BMW-323i,38,True
+2024,12,BMW-323i,43,True
+2024,1,BMW-328i,6,True
+2024,2,BMW-328i,4,True
+2024,3,BMW-328i,13,True
+2024,4,BMW-328i,16,True
+2024,5,BMW-328i,14,True
+2024,6,BMW-328i,13,True
+2024,7,BMW-328i,13,True
+2024,8,BMW-328i,12,True
+2024,9,BMW-328i,28,True
+2024,10,BMW-328i,16,True
+2024,11,BMW-328i,35,True
+2024,12,BMW-328i,25,True
+2024,1,BMW-528i,10,True
+2024,2,BMW-528i,9,True
+2024,3,BMW-528i,25,True
+2024,4,BMW-528i,27,True
+2024,5,BMW-528i,29,True
+2024,6,BMW-528i,20,True
+2024,7,BMW-528i,20,True
+2024,8,BMW-528i,12,True
+2024,9,BMW-528i,39,True
+2024,10,BMW-528i,28,True
+2024,11,BMW-528i,44,True
+2024,12,BMW-528i,56,True
+2024,1,Buick-Century,1,True
+2024,2,Buick-Century,1,True
+2024,3,Buick-Century,1,True
+2024,4,Buick-Century,1,True
+2024,5,Buick-Century,1,True
+2024,6,Buick-Century,3,True
+2024,7,Buick-Century,4,True
+2024,8,Buick-Century,4,True
+2024,9,Buick-Century,9,True
+2024,10,Buick-Century,3,True
+2024,11,Buick-Century,7,True
+2024,12,Buick-Century,4,True
+2024,1,Buick-LeSabre,1,True
+2024,2,Buick-LeSabre,1,True
+2024,3,Buick-LeSabre,3,True
+2024,4,Buick-LeSabre,1,True
+2024,5,Buick-LeSabre,5,True
+2024,6,Buick-LeSabre,3,True
+2024,7,Buick-LeSabre,2,True
+2024,8,Buick-LeSabre,1,True
+2024,9,Buick-LeSabre,4,True
+2024,10,Buick-LeSabre,1,True
+2024,11,Buick-LeSabre,5,True
+2024,12,Buick-LeSabre,7,True
+2024,1,Buick-Park Avenue,6,True
+2024,2,Buick-Park Avenue,5,True
+2024,3,Buick-Park Avenue,5,True
+2024,4,Buick-Park Avenue,12,True
+2024,5,Buick-Park Avenue,10,True
+2024,6,Buick-Park Avenue,11,True
+2024,7,Buick-Park Avenue,15,True
+2024,8,Buick-Park Avenue,16,True
+2024,9,Buick-Park Avenue,23,True
+2024,10,Buick-Park Avenue,19,True
+2024,11,Buick-Park Avenue,35,True
+2024,12,Buick-Park Avenue,27,True
+2024,1,Buick-Regal,3,True
+2024,2,Buick-Regal,8,True
+2024,3,Buick-Regal,11,True
+2024,4,Buick-Regal,7,True
+2024,5,Buick-Regal,18,True
+2024,6,Buick-Regal,9,True
+2024,7,Buick-Regal,7,True
+2024,8,Buick-Regal,6,True
+2024,9,Buick-Regal,19,True
+2024,10,Buick-Regal,14,True
+2024,11,Buick-Regal,25,True
+2024,12,Buick-Regal,25,True
+2024,1,Cadillac-Catera,2,True
+2024,2,Cadillac-Catera,2,True
+2024,3,Cadillac-Catera,2,True
+2024,4,Cadillac-Catera,7,True
+2024,5,Cadillac-Catera,5,True
+2024,6,Cadillac-Catera,5,True
+2024,7,Cadillac-Catera,4,True
+2024,8,Cadillac-Catera,8,True
+2024,9,Cadillac-Catera,17,True
+2024,10,Cadillac-Catera,8,True
+2024,11,Cadillac-Catera,15,True
+2024,12,Cadillac-Catera,12,True
+2024,1,Cadillac-DeVille,1,True
+2024,2,Cadillac-DeVille,3,True
+2024,3,Cadillac-DeVille,8,True
+2024,4,Cadillac-DeVille,5,True
+2024,5,Cadillac-DeVille,4,True
+2024,6,Cadillac-DeVille,7,True
+2024,7,Cadillac-DeVille,2,True
+2024,8,Cadillac-DeVille,1,True
+2024,9,Cadillac-DeVille,9,True
+2024,10,Cadillac-DeVille,5,True
+2024,11,Cadillac-DeVille,15,True
+2024,12,Cadillac-DeVille,12,True
+2024,1,Cadillac-Eldorado,6,True
+2024,2,Cadillac-Eldorado,8,True
+2024,3,Cadillac-Eldorado,9,True
+2024,4,Cadillac-Eldorado,7,True
+2024,5,Cadillac-Eldorado,23,True
+2024,6,Cadillac-Eldorado,18,True
+2024,7,Cadillac-Eldorado,14,True
+2024,8,Cadillac-Eldorado,13,True
+2024,9,Cadillac-Eldorado,29,True
+2024,10,Cadillac-Eldorado,25,True
+2024,11,Cadillac-Eldorado,30,True
+2024,12,Cadillac-Eldorado,31,True
+2024,1,Cadillac-Escalade,2,True
+2024,2,Cadillac-Escalade,4,True
+2024,3,Cadillac-Escalade,10,True
+2024,4,Cadillac-Escalade,10,True
+2024,5,Cadillac-Escalade,8,True
+2024,6,Cadillac-Escalade,10,True
+2024,7,Cadillac-Escalade,9,True
+2024,8,Cadillac-Escalade,8,True
+2024,9,Cadillac-Escalade,33,True
+2024,10,Cadillac-Escalade,9,True
+2024,11,Cadillac-Escalade,30,True
+2024,12,Cadillac-Escalade,31,True
+2024,1,Cadillac-Seville,1,True
+2024,2,Cadillac-Seville,1,True
+2024,3,Cadillac-Seville,7,True
+2024,4,Cadillac-Seville,2,True
+2024,5,Cadillac-Seville,3,True
+2024,6,Cadillac-Seville,9,True
+2024,7,Cadillac-Seville,4,True
+2024,8,Cadillac-Seville,16,True
+2024,9,Cadillac-Seville,14,True
+2024,10,Cadillac-Seville,8,True
+2024,11,Cadillac-Seville,17,True
+2024,12,Cadillac-Seville,15,True
+2024,1,Chevrolet-Camaro,4,True
+2024,2,Chevrolet-Camaro,4,True
+2024,3,Chevrolet-Camaro,4,True
+2024,4,Chevrolet-Camaro,8,True
+2024,5,Chevrolet-Camaro,10,True
+2024,6,Chevrolet-Camaro,5,True
+2024,7,Chevrolet-Camaro,7,True
+2024,8,Chevrolet-Camaro,6,True
+2024,9,Chevrolet-Camaro,16,True
+2024,10,Chevrolet-Camaro,9,True
+2024,11,Chevrolet-Camaro,12,True
+2024,12,Chevrolet-Camaro,22,True
+2024,1,Chevrolet-Cavalier,2,True
+2024,2,Chevrolet-Cavalier,5,True
+2024,3,Chevrolet-Cavalier,13,True
+2024,4,Chevrolet-Cavalier,9,True
+2024,5,Chevrolet-Cavalier,13,True
+2024,6,Chevrolet-Cavalier,18,True
+2024,7,Chevrolet-Cavalier,5,True
+2024,8,Chevrolet-Cavalier,5,True
+2024,9,Chevrolet-Cavalier,24,True
+2024,10,Chevrolet-Cavalier,16,True
+2024,11,Chevrolet-Cavalier,35,True
+2024,12,Chevrolet-Cavalier,28,True
+2024,1,Chevrolet-Corvette,6,True
+2024,2,Chevrolet-Corvette,6,True
+2024,3,Chevrolet-Corvette,11,True
+2024,4,Chevrolet-Corvette,14,True
+2024,5,Chevrolet-Corvette,15,True
+2024,6,Chevrolet-Corvette,14,True
+2024,7,Chevrolet-Corvette,14,True
+2024,8,Chevrolet-Corvette,20,True
+2024,9,Chevrolet-Corvette,35,True
+2024,10,Chevrolet-Corvette,20,True
+2024,11,Chevrolet-Corvette,37,True
+2024,12,Chevrolet-Corvette,34,True
+2024,1,Chevrolet-Impala,3,True
+2024,2,Chevrolet-Impala,1,True
+2024,3,Chevrolet-Impala,2,True
+2024,4,Chevrolet-Impala,4,True
+2024,5,Chevrolet-Impala,8,True
+2024,6,Chevrolet-Impala,6,True
+2024,7,Chevrolet-Impala,7,True
+2024,8,Chevrolet-Impala,6,True
+2024,9,Chevrolet-Impala,9,True
+2024,10,Chevrolet-Impala,5,True
+2024,11,Chevrolet-Impala,13,True
+2024,12,Chevrolet-Impala,7,True
+2024,1,Chevrolet-Lumina,8,True
+2024,2,Chevrolet-Lumina,6,True
+2024,3,Chevrolet-Lumina,5,True
+2024,4,Chevrolet-Lumina,8,True
+2024,5,Chevrolet-Lumina,14,True
+2024,6,Chevrolet-Lumina,12,True
+2024,7,Chevrolet-Lumina,11,True
+2024,8,Chevrolet-Lumina,14,True
+2024,9,Chevrolet-Lumina,22,True
+2024,10,Chevrolet-Lumina,8,True
+2024,11,Chevrolet-Lumina,27,True
+2024,12,Chevrolet-Lumina,29,True
+2024,1,Chevrolet-Malibu,7,True
+2024,2,Chevrolet-Malibu,6,True
+2024,3,Chevrolet-Malibu,19,True
+2024,4,Chevrolet-Malibu,12,True
+2024,5,Chevrolet-Malibu,13,True
+2024,6,Chevrolet-Malibu,16,True
+2024,7,Chevrolet-Malibu,22,True
+2024,8,Chevrolet-Malibu,15,True
+2024,9,Chevrolet-Malibu,36,True
+2024,10,Chevrolet-Malibu,17,True
+2024,11,Chevrolet-Malibu,44,True
+2024,12,Chevrolet-Malibu,50,True
+2024,1,Chevrolet-Metro,11,True
+2024,2,Chevrolet-Metro,7,True
+2024,3,Chevrolet-Metro,10,True
+2024,4,Chevrolet-Metro,15,True
+2024,5,Chevrolet-Metro,23,True
+2024,6,Chevrolet-Metro,11,True
+2024,7,Chevrolet-Metro,22,True
+2024,8,Chevrolet-Metro,20,True
+2024,9,Chevrolet-Metro,34,True
+2024,10,Chevrolet-Metro,17,True
+2024,11,Chevrolet-Metro,44,True
+2024,12,Chevrolet-Metro,42,True
+2024,1,Chevrolet-Monte Carlo,2,True
+2024,2,Chevrolet-Monte Carlo,5,True
+2024,3,Chevrolet-Monte Carlo,10,True
+2024,4,Chevrolet-Monte Carlo,11,True
+2024,5,Chevrolet-Monte Carlo,16,True
+2024,6,Chevrolet-Monte Carlo,12,True
+2024,7,Chevrolet-Monte Carlo,8,True
+2024,8,Chevrolet-Monte Carlo,12,True
+2024,9,Chevrolet-Monte Carlo,20,True
+2024,10,Chevrolet-Monte Carlo,12,True
+2024,11,Chevrolet-Monte Carlo,17,True
+2024,12,Chevrolet-Monte Carlo,13,True
+2024,1,Chevrolet-Prizm,8,True
+2024,2,Chevrolet-Prizm,12,True
+2024,3,Chevrolet-Prizm,15,True
+2024,4,Chevrolet-Prizm,29,True
+2024,5,Chevrolet-Prizm,31,True
+2024,6,Chevrolet-Prizm,22,True
+2024,7,Chevrolet-Prizm,33,True
+2024,8,Chevrolet-Prizm,35,True
+2024,9,Chevrolet-Prizm,73,True
+2024,10,Chevrolet-Prizm,30,True
+2024,11,Chevrolet-Prizm,66,True
+2024,12,Chevrolet-Prizm,68,True
+2024,1,Chrysler-300M,7,True
+2024,2,Chrysler-300M,4,True
+2024,3,Chrysler-300M,14,True
+2024,4,Chrysler-300M,5,True
+2024,5,Chrysler-300M,19,True
+2024,6,Chrysler-300M,17,True
+2024,7,Chrysler-300M,18,True
+2024,8,Chrysler-300M,17,True
+2024,9,Chrysler-300M,34,True
+2024,10,Chrysler-300M,20,True
+2024,11,Chrysler-300M,28,True
+2024,12,Chrysler-300M,37,True
+2024,1,Chrysler-Cirrus,1,True
+2024,2,Chrysler-Cirrus,1,True
+2024,3,Chrysler-Cirrus,1,True
+2024,4,Chrysler-Cirrus,4,True
+2024,5,Chrysler-Cirrus,3,True
+2024,6,Chrysler-Cirrus,4,True
+2024,7,Chrysler-Cirrus,4,True
+2024,8,Chrysler-Cirrus,3,True
+2024,9,Chrysler-Cirrus,2,True
+2024,10,Chrysler-Cirrus,1,True
+2024,11,Chrysler-Cirrus,5,True
+2024,12,Chrysler-Cirrus,5,True
+2024,1,Chrysler-Concorde,3,True
+2024,2,Chrysler-Concorde,5,True
+2024,3,Chrysler-Concorde,10,True
+2024,4,Chrysler-Concorde,10,True
+2024,5,Chrysler-Concorde,20,True
+2024,6,Chrysler-Concorde,11,True
+2024,7,Chrysler-Concorde,22,True
+2024,8,Chrysler-Concorde,13,True
+2024,9,Chrysler-Concorde,39,True
+2024,10,Chrysler-Concorde,22,True
+2024,11,Chrysler-Concorde,28,True
+2024,12,Chrysler-Concorde,29,True
+2024,1,Chrysler-LHS,7,True
+2024,2,Chrysler-LHS,6,True
+2024,3,Chrysler-LHS,24,True
+2024,4,Chrysler-LHS,22,True
+2024,5,Chrysler-LHS,33,True
+2024,6,Chrysler-LHS,19,True
+2024,7,Chrysler-LHS,28,True
+2024,8,Chrysler-LHS,21,True
+2024,9,Chrysler-LHS,40,True
+2024,10,Chrysler-LHS,26,True
+2024,11,Chrysler-LHS,50,True
+2024,12,Chrysler-LHS,47,True
+2024,1,Chrysler-Sebring Conv.,1,True
+2024,2,Chrysler-Sebring Conv.,1,True
+2024,3,Chrysler-Sebring Conv.,1,True
+2024,4,Chrysler-Sebring Conv.,1,True
+2024,5,Chrysler-Sebring Conv.,1,True
+2024,6,Chrysler-Sebring Conv.,1,True
+2024,7,Chrysler-Sebring Conv.,1,True
+2024,8,Chrysler-Sebring Conv.,1,True
+2024,9,Chrysler-Sebring Conv.,1,True
+2024,10,Chrysler-Sebring Conv.,1,True
+2024,11,Chrysler-Sebring Conv.,1,True
+2024,12,Chrysler-Sebring Conv.,4,True
+2024,1,Chrysler-Sebring Coupe,8,True
+2024,2,Chrysler-Sebring Coupe,6,True
+2024,3,Chrysler-Sebring Coupe,14,True
+2024,4,Chrysler-Sebring Coupe,16,True
+2024,5,Chrysler-Sebring Coupe,14,True
+2024,6,Chrysler-Sebring Coupe,14,True
+2024,7,Chrysler-Sebring Coupe,15,True
+2024,8,Chrysler-Sebring Coupe,12,True
+2024,9,Chrysler-Sebring Coupe,34,True
+2024,10,Chrysler-Sebring Coupe,18,True
+2024,11,Chrysler-Sebring Coupe,34,True
+2024,12,Chrysler-Sebring Coupe,40,True
+2024,1,Chrysler-Town & Country,1,True
+2024,2,Chrysler-Town & Country,1,True
+2024,3,Chrysler-Town & Country,1,True
+2024,4,Chrysler-Town & Country,1,True
+2024,5,Chrysler-Town & Country,1,True
+2024,6,Chrysler-Town & Country,1,True
+2024,7,Chrysler-Town & Country,3,True
+2024,8,Chrysler-Town & Country,3,True
+2024,9,Chrysler-Town & Country,7,True
+2024,10,Chrysler-Town & Country,1,True
+2024,11,Chrysler-Town & Country,4,True
+2024,12,Chrysler-Town & Country,5,True
+2024,1,Dodge-Avenger,2,True
+2024,2,Dodge-Avenger,3,True
+2024,3,Dodge-Avenger,3,True
+2024,4,Dodge-Avenger,7,True
+2024,5,Dodge-Avenger,8,True
+2024,6,Dodge-Avenger,6,True
+2024,7,Dodge-Avenger,4,True
+2024,8,Dodge-Avenger,8,True
+2024,9,Dodge-Avenger,18,True
+2024,10,Dodge-Avenger,9,True
+2024,11,Dodge-Avenger,18,True
+2024,12,Dodge-Avenger,15,True
+2024,1,Dodge-Caravan,2,True
+2024,2,Dodge-Caravan,6,True
+2024,3,Dodge-Caravan,11,True
+2024,4,Dodge-Caravan,10,True
+2024,5,Dodge-Caravan,11,True
+2024,6,Dodge-Caravan,7,True
+2024,7,Dodge-Caravan,10,True
+2024,8,Dodge-Caravan,8,True
+2024,9,Dodge-Caravan,18,True
+2024,10,Dodge-Caravan,10,True
+2024,11,Dodge-Caravan,21,True
+2024,12,Dodge-Caravan,34,True
+2024,1,Dodge-Dakota,1,True
+2024,2,Dodge-Dakota,3,True
+2024,3,Dodge-Dakota,2,True
+2024,4,Dodge-Dakota,6,True
+2024,5,Dodge-Dakota,5,True
+2024,6,Dodge-Dakota,5,True
+2024,7,Dodge-Dakota,2,True
+2024,8,Dodge-Dakota,4,True
+2024,9,Dodge-Dakota,9,True
+2024,10,Dodge-Dakota,6,True
+2024,11,Dodge-Dakota,7,True
+2024,12,Dodge-Dakota,9,True
+2024,1,Dodge-Durango,9,True
+2024,2,Dodge-Durango,10,True
+2024,3,Dodge-Durango,12,True
+2024,4,Dodge-Durango,14,True
+2024,5,Dodge-Durango,17,True
+2024,6,Dodge-Durango,16,True
+2024,7,Dodge-Durango,11,True
+2024,8,Dodge-Durango,19,True
+2024,9,Dodge-Durango,44,True
+2024,10,Dodge-Durango,18,True
+2024,11,Dodge-Durango,40,True
+2024,12,Dodge-Durango,47,True
+2024,1,Dodge-Intrepid,2,True
+2024,2,Dodge-Intrepid,3,True
+2024,3,Dodge-Intrepid,2,True
+2024,4,Dodge-Intrepid,4,True
+2024,5,Dodge-Intrepid,6,True
+2024,6,Dodge-Intrepid,5,True
+2024,7,Dodge-Intrepid,5,True
+2024,8,Dodge-Intrepid,4,True
+2024,9,Dodge-Intrepid,6,True
+2024,10,Dodge-Intrepid,6,True
+2024,11,Dodge-Intrepid,13,True
+2024,12,Dodge-Intrepid,10,True
+2024,1,Dodge-Neon,1,True
+2024,2,Dodge-Neon,1,True
+2024,3,Dodge-Neon,2,True
+2024,4,Dodge-Neon,1,True
+2024,5,Dodge-Neon,1,True
+2024,6,Dodge-Neon,1,True
+2024,7,Dodge-Neon,2,True
+2024,8,Dodge-Neon,1,True
+2024,9,Dodge-Neon,5,True
+2024,10,Dodge-Neon,1,True
+2024,11,Dodge-Neon,5,True
+2024,12,Dodge-Neon,8,True
+2024,1,Dodge-Ram Pickup,9,True
+2024,2,Dodge-Ram Pickup,10,True
+2024,3,Dodge-Ram Pickup,16,True
+2024,4,Dodge-Ram Pickup,23,True
+2024,5,Dodge-Ram Pickup,26,True
+2024,6,Dodge-Ram Pickup,33,True
+2024,7,Dodge-Ram Pickup,24,True
+2024,8,Dodge-Ram Pickup,38,True
+2024,9,Dodge-Ram Pickup,71,True
+2024,10,Dodge-Ram Pickup,35,True
+2024,11,Dodge-Ram Pickup,64,True
+2024,12,Dodge-Ram Pickup,69,True
+2024,1,Dodge-Ram Van,5,True
+2024,2,Dodge-Ram Van,3,True
+2024,3,Dodge-Ram Van,8,True
+2024,4,Dodge-Ram Van,12,True
+2024,5,Dodge-Ram Van,15,True
+2024,6,Dodge-Ram Van,6,True
+2024,7,Dodge-Ram Van,15,True
+2024,8,Dodge-Ram Van,15,True
+2024,9,Dodge-Ram Van,28,True
+2024,10,Dodge-Ram Van,5,True
+2024,11,Dodge-Ram Van,32,True
+2024,12,Dodge-Ram Van,24,True
+2024,1,Dodge-Ram Wagon,3,True
+2024,2,Dodge-Ram Wagon,2,True
+2024,3,Dodge-Ram Wagon,7,True
+2024,4,Dodge-Ram Wagon,9,True
+2024,5,Dodge-Ram Wagon,5,True
+2024,6,Dodge-Ram Wagon,7,True
+2024,7,Dodge-Ram Wagon,7,True
+2024,8,Dodge-Ram Wagon,3,True
+2024,9,Dodge-Ram Wagon,18,True
+2024,10,Dodge-Ram Wagon,5,True
+2024,11,Dodge-Ram Wagon,16,True
+2024,12,Dodge-Ram Wagon,20,True
+2024,1,Dodge-Stratus,4,True
+2024,2,Dodge-Stratus,3,True
+2024,3,Dodge-Stratus,6,True
+2024,4,Dodge-Stratus,5,True
+2024,5,Dodge-Stratus,3,True
+2024,6,Dodge-Stratus,2,True
+2024,7,Dodge-Stratus,1,True
+2024,8,Dodge-Stratus,7,True
+2024,9,Dodge-Stratus,15,True
+2024,10,Dodge-Stratus,6,True
+2024,11,Dodge-Stratus,19,True
+2024,12,Dodge-Stratus,15,True
+2024,1,Dodge-Viper,6,True
+2024,2,Dodge-Viper,6,True
+2024,3,Dodge-Viper,13,True
+2024,4,Dodge-Viper,18,True
+2024,5,Dodge-Viper,20,True
+2024,6,Dodge-Viper,19,True
+2024,7,Dodge-Viper,16,True
+2024,8,Dodge-Viper,11,True
+2024,9,Dodge-Viper,37,True
+2024,10,Dodge-Viper,29,True
+2024,11,Dodge-Viper,34,True
+2024,12,Dodge-Viper,34,True
+2024,1,Ford-Contour,1,True
+2024,2,Ford-Contour,2,True
+2024,3,Ford-Contour,1,True
+2024,4,Ford-Contour,5,True
+2024,5,Ford-Contour,7,True
+2024,6,Ford-Contour,8,True
+2024,7,Ford-Contour,15,True
+2024,8,Ford-Contour,11,True
+2024,9,Ford-Contour,9,True
+2024,10,Ford-Contour,8,True
+2024,11,Ford-Contour,16,True
+2024,12,Ford-Contour,16,True
+2024,1,Ford-Crown Victoria,2,True
+2024,2,Ford-Crown Victoria,2,True
+2024,3,Ford-Crown Victoria,10,True
+2024,4,Ford-Crown Victoria,6,True
+2024,5,Ford-Crown Victoria,12,True
+2024,6,Ford-Crown Victoria,11,True
+2024,7,Ford-Crown Victoria,10,True
+2024,8,Ford-Crown Victoria,11,True
+2024,9,Ford-Crown Victoria,18,True
+2024,10,Ford-Crown Victoria,13,True
+2024,11,Ford-Crown Victoria,20,True
+2024,12,Ford-Crown Victoria,21,True
+2024,1,Ford-Escort,2,True
+2024,2,Ford-Escort,1,True
+2024,3,Ford-Escort,6,True
+2024,4,Ford-Escort,7,True
+2024,5,Ford-Escort,2,True
+2024,6,Ford-Escort,3,True
+2024,7,Ford-Escort,6,True
+2024,8,Ford-Escort,3,True
+2024,9,Ford-Escort,17,True
+2024,10,Ford-Escort,6,True
+2024,11,Ford-Escort,11,True
+2024,12,Ford-Escort,20,True
+2024,1,Ford-Expedition,7,True
+2024,2,Ford-Expedition,4,True
+2024,3,Ford-Expedition,14,True
+2024,4,Ford-Expedition,12,True
+2024,5,Ford-Expedition,18,True
+2024,6,Ford-Expedition,17,True
+2024,7,Ford-Expedition,13,True
+2024,8,Ford-Expedition,12,True
+2024,9,Ford-Expedition,28,True
+2024,10,Ford-Expedition,10,True
+2024,11,Ford-Expedition,31,True
+2024,12,Ford-Expedition,38,True
+2024,1,Ford-Explorer,5,True
+2024,2,Ford-Explorer,5,True
+2024,3,Ford-Explorer,16,True
+2024,4,Ford-Explorer,12,True
+2024,5,Ford-Explorer,10,True
+2024,6,Ford-Explorer,17,True
+2024,7,Ford-Explorer,17,True
+2024,8,Ford-Explorer,14,True
+2024,9,Ford-Explorer,34,True
+2024,10,Ford-Explorer,20,True
+2024,11,Ford-Explorer,36,True
+2024,12,Ford-Explorer,41,True
+2024,1,Ford-F-Series,1,True
+2024,2,Ford-F-Series,1,True
+2024,3,Ford-F-Series,5,True
+2024,4,Ford-F-Series,6,True
+2024,5,Ford-F-Series,9,True
+2024,6,Ford-F-Series,8,True
+2024,7,Ford-F-Series,8,True
+2024,8,Ford-F-Series,8,True
+2024,9,Ford-F-Series,18,True
+2024,10,Ford-F-Series,11,True
+2024,11,Ford-F-Series,15,True
+2024,12,Ford-F-Series,11,True
+2024,1,Ford-Focus,4,True
+2024,2,Ford-Focus,4,True
+2024,3,Ford-Focus,6,True
+2024,4,Ford-Focus,7,True
+2024,5,Ford-Focus,10,True
+2024,6,Ford-Focus,11,True
+2024,7,Ford-Focus,7,True
+2024,8,Ford-Focus,11,True
+2024,9,Ford-Focus,16,True
+2024,10,Ford-Focus,9,True
+2024,11,Ford-Focus,19,True
+2024,12,Ford-Focus,26,True
+2024,1,Ford-Mustang,5,True
+2024,2,Ford-Mustang,5,True
+2024,3,Ford-Mustang,14,True
+2024,4,Ford-Mustang,10,True
+2024,5,Ford-Mustang,5,True
+2024,6,Ford-Mustang,8,True
+2024,7,Ford-Mustang,9,True
+2024,8,Ford-Mustang,10,True
+2024,9,Ford-Mustang,29,True
+2024,10,Ford-Mustang,16,True
+2024,11,Ford-Mustang,29,True
+2024,12,Ford-Mustang,26,True
+2024,1,Ford-Ranger,4,True
+2024,2,Ford-Ranger,2,True
+2024,3,Ford-Ranger,5,True
+2024,4,Ford-Ranger,6,True
+2024,5,Ford-Ranger,5,True
+2024,6,Ford-Ranger,8,True
+2024,7,Ford-Ranger,16,True
+2024,8,Ford-Ranger,7,True
+2024,9,Ford-Ranger,18,True
+2024,10,Ford-Ranger,13,True
+2024,11,Ford-Ranger,20,True
+2024,12,Ford-Ranger,13,True
+2024,1,Ford-Taurus,3,True
+2024,2,Ford-Taurus,6,True
+2024,3,Ford-Taurus,9,True
+2024,4,Ford-Taurus,13,True
+2024,5,Ford-Taurus,11,True
+2024,6,Ford-Taurus,9,True
+2024,7,Ford-Taurus,10,True
+2024,8,Ford-Taurus,10,True
+2024,9,Ford-Taurus,19,True
+2024,10,Ford-Taurus,20,True
+2024,11,Ford-Taurus,24,True
+2024,12,Ford-Taurus,29,True
+2024,1,Ford-Windstar,2,True
+2024,2,Ford-Windstar,2,True
+2024,3,Ford-Windstar,9,True
+2024,4,Ford-Windstar,2,True
+2024,5,Ford-Windstar,4,True
+2024,6,Ford-Windstar,11,True
+2024,7,Ford-Windstar,5,True
+2024,8,Ford-Windstar,10,True
+2024,9,Ford-Windstar,17,True
+2024,10,Ford-Windstar,5,True
+2024,11,Ford-Windstar,17,True
+2024,12,Ford-Windstar,15,True
+2024,1,Honda-Accord,7,True
+2024,2,Honda-Accord,5,True
+2024,3,Honda-Accord,15,True
+2024,4,Honda-Accord,18,True
+2024,5,Honda-Accord,19,True
+2024,6,Honda-Accord,12,True
+2024,7,Honda-Accord,20,True
+2024,8,Honda-Accord,15,True
+2024,9,Honda-Accord,35,True
+2024,10,Honda-Accord,18,True
+2024,11,Honda-Accord,28,True
+2024,12,Honda-Accord,41,True
+2024,1,Honda-CR-V,1,True
+2024,2,Honda-CR-V,3,True
+2024,3,Honda-CR-V,8,True
+2024,4,Honda-CR-V,11,True
+2024,5,Honda-CR-V,7,True
+2024,6,Honda-CR-V,20,True
+2024,7,Honda-CR-V,10,True
+2024,8,Honda-CR-V,10,True
+2024,9,Honda-CR-V,20,True
+2024,10,Honda-CR-V,7,True
+2024,11,Honda-CR-V,26,True
+2024,12,Honda-CR-V,13,True
+2024,1,Honda-Civic,4,True
+2024,2,Honda-Civic,1,True
+2024,3,Honda-Civic,5,True
+2024,4,Honda-Civic,4,True
+2024,5,Honda-Civic,8,True
+2024,6,Honda-Civic,6,True
+2024,7,Honda-Civic,10,True
+2024,8,Honda-Civic,7,True
+2024,9,Honda-Civic,14,True
+2024,10,Honda-Civic,10,True
+2024,11,Honda-Civic,14,True
+2024,12,Honda-Civic,15,True
+2024,1,Honda-Odyssey,2,True
+2024,2,Honda-Odyssey,1,True
+2024,3,Honda-Odyssey,3,True
+2024,4,Honda-Odyssey,3,True
+2024,5,Honda-Odyssey,4,True
+2024,6,Honda-Odyssey,3,True
+2024,7,Honda-Odyssey,6,True
+2024,8,Honda-Odyssey,3,True
+2024,9,Honda-Odyssey,8,True
+2024,10,Honda-Odyssey,4,True
+2024,11,Honda-Odyssey,6,True
+2024,12,Honda-Odyssey,12,True
+2024,1,Honda-Passport,5,True
+2024,2,Honda-Passport,1,True
+2024,3,Honda-Passport,5,True
+2024,4,Honda-Passport,9,True
+2024,5,Honda-Passport,14,True
+2024,6,Honda-Passport,10,True
+2024,7,Honda-Passport,8,True
+2024,8,Honda-Passport,8,True
+2024,9,Honda-Passport,15,True
+2024,10,Honda-Passport,11,True
+2024,11,Honda-Passport,16,True
+2024,12,Honda-Passport,22,True
+2024,1,Hyundai-Accent,1,True
+2024,2,Hyundai-Accent,1,True
+2024,3,Hyundai-Accent,1,True
+2024,4,Hyundai-Accent,2,True
+2024,5,Hyundai-Accent,1,True
+2024,6,Hyundai-Accent,2,True
+2024,7,Hyundai-Accent,6,True
+2024,8,Hyundai-Accent,1,True
+2024,9,Hyundai-Accent,4,True
+2024,10,Hyundai-Accent,3,True
+2024,11,Hyundai-Accent,2,True
+2024,12,Hyundai-Accent,4,True
+2024,1,Hyundai-Elantra,1,True
+2024,2,Hyundai-Elantra,1,True
+2024,3,Hyundai-Elantra,3,True
+2024,4,Hyundai-Elantra,3,True
+2024,5,Hyundai-Elantra,2,True
+2024,6,Hyundai-Elantra,6,True
+2024,7,Hyundai-Elantra,2,True
+2024,8,Hyundai-Elantra,4,True
+2024,9,Hyundai-Elantra,7,True
+2024,10,Hyundai-Elantra,3,True
+2024,11,Hyundai-Elantra,9,True
+2024,12,Hyundai-Elantra,8,True
+2024,1,Hyundai-Sonata,5,True
+2024,2,Hyundai-Sonata,4,True
+2024,3,Hyundai-Sonata,11,True
+2024,4,Hyundai-Sonata,12,True
+2024,5,Hyundai-Sonata,2,True
+2024,6,Hyundai-Sonata,7,True
+2024,7,Hyundai-Sonata,9,True
+2024,8,Hyundai-Sonata,10,True
+2024,9,Hyundai-Sonata,21,True
+2024,10,Hyundai-Sonata,13,True
+2024,11,Hyundai-Sonata,23,True
+2024,12,Hyundai-Sonata,37,True
+2024,1,Infiniti-I30,3,True
+2024,2,Infiniti-I30,5,True
+2024,3,Infiniti-I30,20,True
+2024,4,Infiniti-I30,15,True
+2024,5,Infiniti-I30,17,True
+2024,6,Infiniti-I30,16,True
+2024,7,Infiniti-I30,13,True
+2024,8,Infiniti-I30,8,True
+2024,9,Infiniti-I30,22,True
+2024,10,Infiniti-I30,25,True
+2024,11,Infiniti-I30,31,True
+2024,12,Infiniti-I30,42,True
+2024,1,Jaguar-S-Type,5,True
+2024,2,Jaguar-S-Type,4,True
+2024,3,Jaguar-S-Type,7,True
+2024,4,Jaguar-S-Type,13,True
+2024,5,Jaguar-S-Type,19,True
+2024,6,Jaguar-S-Type,9,True
+2024,7,Jaguar-S-Type,13,True
+2024,8,Jaguar-S-Type,7,True
+2024,9,Jaguar-S-Type,29,True
+2024,10,Jaguar-S-Type,15,True
+2024,11,Jaguar-S-Type,25,True
+2024,12,Jaguar-S-Type,26,True
+2024,1,Jeep-Cherokee,1,True
+2024,2,Jeep-Cherokee,1,True
+2024,3,Jeep-Cherokee,5,True
+2024,4,Jeep-Cherokee,2,True
+2024,5,Jeep-Cherokee,6,True
+2024,6,Jeep-Cherokee,9,True
+2024,7,Jeep-Cherokee,4,True
+2024,8,Jeep-Cherokee,6,True
+2024,9,Jeep-Cherokee,8,True
+2024,10,Jeep-Cherokee,2,True
+2024,11,Jeep-Cherokee,10,True
+2024,12,Jeep-Cherokee,8,True
+2024,1,Jeep-Grand Cherokee,3,True
+2024,2,Jeep-Grand Cherokee,5,True
+2024,3,Jeep-Grand Cherokee,9,True
+2024,4,Jeep-Grand Cherokee,4,True
+2024,5,Jeep-Grand Cherokee,8,True
+2024,6,Jeep-Grand Cherokee,7,True
+2024,7,Jeep-Grand Cherokee,5,True
+2024,8,Jeep-Grand Cherokee,6,True
+2024,9,Jeep-Grand Cherokee,23,True
+2024,10,Jeep-Grand Cherokee,10,True
+2024,11,Jeep-Grand Cherokee,20,True
+2024,12,Jeep-Grand Cherokee,25,True
+2024,1,Jeep-Wrangler,1,True
+2024,2,Jeep-Wrangler,4,True
+2024,3,Jeep-Wrangler,8,True
+2024,4,Jeep-Wrangler,12,True
+2024,5,Jeep-Wrangler,7,True
+2024,6,Jeep-Wrangler,7,True
+2024,7,Jeep-Wrangler,16,True
+2024,8,Jeep-Wrangler,12,True
+2024,9,Jeep-Wrangler,32,True
+2024,10,Jeep-Wrangler,16,True
+2024,11,Jeep-Wrangler,23,True
+2024,12,Jeep-Wrangler,27,True
+2024,1,Lexus-ES300,3,True
+2024,2,Lexus-ES300,1,True
+2024,3,Lexus-ES300,6,True
+2024,4,Lexus-ES300,7,True
+2024,5,Lexus-ES300,5,True
+2024,6,Lexus-ES300,6,True
+2024,7,Lexus-ES300,8,True
+2024,8,Lexus-ES300,10,True
+2024,9,Lexus-ES300,15,True
+2024,10,Lexus-ES300,7,True
+2024,11,Lexus-ES300,17,True
+2024,12,Lexus-ES300,19,True
+2024,1,Lexus-GS300,1,True
+2024,2,Lexus-GS300,1,True
+2024,3,Lexus-GS300,4,True
+2024,4,Lexus-GS300,1,True
+2024,5,Lexus-GS300,6,True
+2024,6,Lexus-GS300,4,True
+2024,7,Lexus-GS300,5,True
+2024,8,Lexus-GS300,5,True
+2024,9,Lexus-GS300,6,True
+2024,10,Lexus-GS300,3,True
+2024,11,Lexus-GS300,9,True
+2024,12,Lexus-GS300,10,True
+2024,1,Lexus-GS400,7,True
+2024,2,Lexus-GS400,6,True
+2024,3,Lexus-GS400,12,True
+2024,4,Lexus-GS400,8,True
+2024,5,Lexus-GS400,6,True
+2024,6,Lexus-GS400,8,True
+2024,7,Lexus-GS400,2,True
+2024,8,Lexus-GS400,11,True
+2024,9,Lexus-GS400,21,True
+2024,10,Lexus-GS400,11,True
+2024,11,Lexus-GS400,25,True
+2024,12,Lexus-GS400,31,True
+2024,1,Lexus-LS400,4,True
+2024,2,Lexus-LS400,9,True
+2024,3,Lexus-LS400,22,True
+2024,4,Lexus-LS400,19,True
+2024,5,Lexus-LS400,23,True
+2024,6,Lexus-LS400,30,True
+2024,7,Lexus-LS400,21,True
+2024,8,Lexus-LS400,23,True
+2024,9,Lexus-LS400,65,True
+2024,10,Lexus-LS400,23,True
+2024,11,Lexus-LS400,59,True
+2024,12,Lexus-LS400,50,True
+2024,1,Lexus-LX470,2,True
+2024,2,Lexus-LX470,1,True
+2024,3,Lexus-LX470,6,True
+2024,4,Lexus-LX470,7,True
+2024,5,Lexus-LX470,6,True
+2024,6,Lexus-LX470,5,True
+2024,7,Lexus-LX470,12,True
+2024,8,Lexus-LX470,4,True
+2024,9,Lexus-LX470,23,True
+2024,10,Lexus-LX470,12,True
+2024,11,Lexus-LX470,14,True
+2024,12,Lexus-LX470,30,True
+2024,1,Lexus-RX300,1,True
+2024,2,Lexus-RX300,1,True
+2024,3,Lexus-RX300,1,True
+2024,4,Lexus-RX300,1,True
+2024,5,Lexus-RX300,3,True
+2024,6,Lexus-RX300,1,True
+2024,7,Lexus-RX300,1,True
+2024,8,Lexus-RX300,3,True
+2024,9,Lexus-RX300,1,True
+2024,10,Lexus-RX300,1,True
+2024,11,Lexus-RX300,4,True
+2024,12,Lexus-RX300,2,True
+2024,1,Lincoln-Continental,7,True
+2024,2,Lincoln-Continental,7,True
+2024,3,Lincoln-Continental,12,True
+2024,4,Lincoln-Continental,17,True
+2024,5,Lincoln-Continental,13,True
+2024,6,Lincoln-Continental,14,True
+2024,7,Lincoln-Continental,11,True
+2024,8,Lincoln-Continental,18,True
+2024,9,Lincoln-Continental,24,True
+2024,10,Lincoln-Continental,19,True
+2024,11,Lincoln-Continental,35,True
+2024,12,Lincoln-Continental,41,True
+2024,1,Lincoln-Navigator,3,True
+2024,2,Lincoln-Navigator,3,True
+2024,3,Lincoln-Navigator,4,True
+2024,4,Lincoln-Navigator,4,True
+2024,5,Lincoln-Navigator,4,True
+2024,6,Lincoln-Navigator,8,True
+2024,7,Lincoln-Navigator,9,True
+2024,8,Lincoln-Navigator,13,True
+2024,9,Lincoln-Navigator,15,True
+2024,10,Lincoln-Navigator,12,True
+2024,11,Lincoln-Navigator,18,True
+2024,12,Lincoln-Navigator,20,True
+2024,1,Lincoln-Town car,1,True
+2024,2,Lincoln-Town car,2,True
+2024,3,Lincoln-Town car,4,True
+2024,4,Lincoln-Town car,10,True
+2024,5,Lincoln-Town car,9,True
+2024,6,Lincoln-Town car,11,True
+2024,7,Lincoln-Town car,21,True
+2024,8,Lincoln-Town car,22,True
+2024,9,Lincoln-Town car,15,True
+2024,10,Lincoln-Town car,10,True
+2024,11,Lincoln-Town car,24,True
+2024,12,Lincoln-Town car,20,True
+2024,1,Mercedes-B-C-Class,5,True
+2024,2,Mercedes-B-C-Class,2,True
+2024,3,Mercedes-B-C-Class,8,True
+2024,4,Mercedes-B-C-Class,4,True
+2024,5,Mercedes-B-C-Class,7,True
+2024,6,Mercedes-B-C-Class,12,True
+2024,7,Mercedes-B-C-Class,13,True
+2024,8,Mercedes-B-C-Class,13,True
+2024,9,Mercedes-B-C-Class,17,True
+2024,10,Mercedes-B-C-Class,11,True
+2024,11,Mercedes-B-C-Class,16,True
+2024,12,Mercedes-B-C-Class,15,True
+2024,1,Mercedes-B-CL500,4,True
+2024,2,Mercedes-B-CL500,3,True
+2024,3,Mercedes-B-CL500,8,True
+2024,4,Mercedes-B-CL500,9,True
+2024,5,Mercedes-B-CL500,14,True
+2024,6,Mercedes-B-CL500,15,True
+2024,7,Mercedes-B-CL500,9,True
+2024,8,Mercedes-B-CL500,8,True
+2024,9,Mercedes-B-CL500,15,True
+2024,10,Mercedes-B-CL500,8,True
+2024,11,Mercedes-B-CL500,23,True
+2024,12,Mercedes-B-CL500,22,True
+2024,1,Mercedes-B-CLK Coupe,2,True
+2024,2,Mercedes-B-CLK Coupe,1,True
+2024,3,Mercedes-B-CLK Coupe,3,True
+2024,4,Mercedes-B-CLK Coupe,3,True
+2024,5,Mercedes-B-CLK Coupe,4,True
+2024,6,Mercedes-B-CLK Coupe,1,True
+2024,7,Mercedes-B-CLK Coupe,1,True
+2024,8,Mercedes-B-CLK Coupe,1,True
+2024,9,Mercedes-B-CLK Coupe,5,True
+2024,10,Mercedes-B-CLK Coupe,1,True
+2024,11,Mercedes-B-CLK Coupe,4,True
+2024,12,Mercedes-B-CLK Coupe,6,True
+2024,1,Mercedes-B-E-Class,2,True
+2024,2,Mercedes-B-E-Class,2,True
+2024,3,Mercedes-B-E-Class,6,True
+2024,4,Mercedes-B-E-Class,5,True
+2024,5,Mercedes-B-E-Class,9,True
+2024,6,Mercedes-B-E-Class,5,True
+2024,7,Mercedes-B-E-Class,5,True
+2024,8,Mercedes-B-E-Class,7,True
+2024,9,Mercedes-B-E-Class,13,True
+2024,10,Mercedes-B-E-Class,7,True
+2024,11,Mercedes-B-E-Class,16,True
+2024,12,Mercedes-B-E-Class,11,True
+2024,1,Mercedes-B-M-Class,3,True
+2024,2,Mercedes-B-M-Class,1,True
+2024,3,Mercedes-B-M-Class,7,True
+2024,4,Mercedes-B-M-Class,3,True
+2024,5,Mercedes-B-M-Class,8,True
+2024,6,Mercedes-B-M-Class,6,True
+2024,7,Mercedes-B-M-Class,14,True
+2024,8,Mercedes-B-M-Class,9,True
+2024,9,Mercedes-B-M-Class,12,True
+2024,10,Mercedes-B-M-Class,7,True
+2024,11,Mercedes-B-M-Class,21,True
+2024,12,Mercedes-B-M-Class,12,True
+2024,1,Mercedes-B-S-Class,2,True
+2024,2,Mercedes-B-S-Class,7,True
+2024,3,Mercedes-B-S-Class,12,True
+2024,4,Mercedes-B-S-Class,19,True
+2024,5,Mercedes-B-S-Class,14,True
+2024,6,Mercedes-B-S-Class,17,True
+2024,7,Mercedes-B-S-Class,18,True
+2024,8,Mercedes-B-S-Class,20,True
+2024,9,Mercedes-B-S-Class,29,True
+2024,10,Mercedes-B-S-Class,17,True
+2024,11,Mercedes-B-S-Class,29,True
+2024,12,Mercedes-B-S-Class,33,True
+2024,1,Mercedes-B-SL-Class,4,True
+2024,2,Mercedes-B-SL-Class,4,True
+2024,3,Mercedes-B-SL-Class,7,True
+2024,4,Mercedes-B-SL-Class,11,True
+2024,5,Mercedes-B-SL-Class,12,True
+2024,6,Mercedes-B-SL-Class,14,True
+2024,7,Mercedes-B-SL-Class,9,True
+2024,8,Mercedes-B-SL-Class,8,True
+2024,9,Mercedes-B-SL-Class,17,True
+2024,10,Mercedes-B-SL-Class,11,True
+2024,11,Mercedes-B-SL-Class,15,True
+2024,12,Mercedes-B-SL-Class,34,True
+2024,1,Mercedes-B-SLK,9,True
+2024,2,Mercedes-B-SLK,8,True
+2024,3,Mercedes-B-SLK,15,True
+2024,4,Mercedes-B-SLK,11,True
+2024,5,Mercedes-B-SLK,21,True
+2024,6,Mercedes-B-SLK,10,True
+2024,7,Mercedes-B-SLK,12,True
+2024,8,Mercedes-B-SLK,14,True
+2024,9,Mercedes-B-SLK,28,True
+2024,10,Mercedes-B-SLK,27,True
+2024,11,Mercedes-B-SLK,28,True
+2024,12,Mercedes-B-SLK,33,True
+2024,1,Mercedes-B-SLK230,1,True
+2024,2,Mercedes-B-SLK230,2,True
+2024,3,Mercedes-B-SLK230,5,True
+2024,4,Mercedes-B-SLK230,3,True
+2024,5,Mercedes-B-SLK230,13,True
+2024,6,Mercedes-B-SLK230,11,True
+2024,7,Mercedes-B-SLK230,7,True
+2024,8,Mercedes-B-SLK230,9,True
+2024,9,Mercedes-B-SLK230,24,True
+2024,10,Mercedes-B-SLK230,5,True
+2024,11,Mercedes-B-SLK230,25,True
+2024,12,Mercedes-B-SLK230,15,True
+2024,1,Mercury-Cougar,5,True
+2024,2,Mercury-Cougar,3,True
+2024,3,Mercury-Cougar,9,True
+2024,4,Mercury-Cougar,11,True
+2024,5,Mercury-Cougar,18,True
+2024,6,Mercury-Cougar,11,True
+2024,7,Mercury-Cougar,10,True
+2024,8,Mercury-Cougar,8,True
+2024,9,Mercury-Cougar,19,True
+2024,10,Mercury-Cougar,8,True
+2024,11,Mercury-Cougar,22,True
+2024,12,Mercury-Cougar,21,True
+2024,1,Mercury-Grand Marquis,10,True
+2024,2,Mercury-Grand Marquis,7,True
+2024,3,Mercury-Grand Marquis,20,True
+2024,4,Mercury-Grand Marquis,13,True
+2024,5,Mercury-Grand Marquis,24,True
+2024,6,Mercury-Grand Marquis,19,True
+2024,7,Mercury-Grand Marquis,10,True
+2024,8,Mercury-Grand Marquis,13,True
+2024,9,Mercury-Grand Marquis,25,True
+2024,10,Mercury-Grand Marquis,15,True
+2024,11,Mercury-Grand Marquis,46,True
+2024,12,Mercury-Grand Marquis,47,True
+2024,1,Mercury-Mountaineer,6,True
+2024,2,Mercury-Mountaineer,1,True
+2024,3,Mercury-Mountaineer,2,True
+2024,4,Mercury-Mountaineer,5,True
+2024,5,Mercury-Mountaineer,6,True
+2024,6,Mercury-Mountaineer,4,True
+2024,7,Mercury-Mountaineer,7,True
+2024,8,Mercury-Mountaineer,6,True
+2024,9,Mercury-Mountaineer,10,True
+2024,10,Mercury-Mountaineer,14,True
+2024,11,Mercury-Mountaineer,16,True
+2024,12,Mercury-Mountaineer,19,True
+2024,1,Mercury-Mystique,1,True
+2024,2,Mercury-Mystique,1,True
+2024,3,Mercury-Mystique,1,True
+2024,4,Mercury-Mystique,2,True
+2024,5,Mercury-Mystique,1,True
+2024,6,Mercury-Mystique,3,True
+2024,7,Mercury-Mystique,3,True
+2024,8,Mercury-Mystique,2,True
+2024,9,Mercury-Mystique,10,True
+2024,10,Mercury-Mystique,3,True
+2024,11,Mercury-Mystique,4,True
+2024,12,Mercury-Mystique,12,True
+2024,1,Mercury-Sable,3,True
+2024,2,Mercury-Sable,4,True
+2024,3,Mercury-Sable,12,True
+2024,4,Mercury-Sable,8,True
+2024,5,Mercury-Sable,15,True
+2024,6,Mercury-Sable,14,True
+2024,7,Mercury-Sable,9,True
+2024,8,Mercury-Sable,14,True
+2024,9,Mercury-Sable,21,True
+2024,10,Mercury-Sable,8,True
+2024,11,Mercury-Sable,27,True
+2024,12,Mercury-Sable,24,True
+2024,1,Mercury-Villager,5,True
+2024,2,Mercury-Villager,1,True
+2024,3,Mercury-Villager,8,True
+2024,4,Mercury-Villager,7,True
+2024,5,Mercury-Villager,10,True
+2024,6,Mercury-Villager,6,True
+2024,7,Mercury-Villager,11,True
+2024,8,Mercury-Villager,11,True
+2024,9,Mercury-Villager,18,True
+2024,10,Mercury-Villager,6,True
+2024,11,Mercury-Villager,21,True
+2024,12,Mercury-Villager,24,True
+2024,1,Mitsubishi-3000GT,8,True
+2024,2,Mitsubishi-3000GT,7,True
+2024,3,Mitsubishi-3000GT,18,True
+2024,4,Mitsubishi-3000GT,16,True
+2024,5,Mitsubishi-3000GT,28,True
+2024,6,Mitsubishi-3000GT,17,True
+2024,7,Mitsubishi-3000GT,22,True
+2024,8,Mitsubishi-3000GT,16,True
+2024,9,Mitsubishi-3000GT,43,True
+2024,10,Mitsubishi-3000GT,21,True
+2024,11,Mitsubishi-3000GT,48,True
+2024,12,Mitsubishi-3000GT,56,True
+2024,1,Mitsubishi-Diamante,12,True
+2024,2,Mitsubishi-Diamante,14,True
+2024,3,Mitsubishi-Diamante,28,True
+2024,4,Mitsubishi-Diamante,24,True
+2024,5,Mitsubishi-Diamante,25,True
+2024,6,Mitsubishi-Diamante,31,True
+2024,7,Mitsubishi-Diamante,18,True
+2024,8,Mitsubishi-Diamante,25,True
+2024,9,Mitsubishi-Diamante,44,True
+2024,10,Mitsubishi-Diamante,32,True
+2024,11,Mitsubishi-Diamante,66,True
+2024,12,Mitsubishi-Diamante,69,True
+2024,1,Mitsubishi-Eclipse,3,True
+2024,2,Mitsubishi-Eclipse,3,True
+2024,3,Mitsubishi-Eclipse,7,True
+2024,4,Mitsubishi-Eclipse,5,True
+2024,5,Mitsubishi-Eclipse,5,True
+2024,6,Mitsubishi-Eclipse,9,True
+2024,7,Mitsubishi-Eclipse,3,True
+2024,8,Mitsubishi-Eclipse,13,True
+2024,9,Mitsubishi-Eclipse,13,True
+2024,10,Mitsubishi-Eclipse,5,True
+2024,11,Mitsubishi-Eclipse,13,True
+2024,12,Mitsubishi-Eclipse,17,True
+2024,1,Mitsubishi-Galant,2,True
+2024,2,Mitsubishi-Galant,3,True
+2024,3,Mitsubishi-Galant,2,True
+2024,4,Mitsubishi-Galant,8,True
+2024,5,Mitsubishi-Galant,7,True
+2024,6,Mitsubishi-Galant,5,True
+2024,7,Mitsubishi-Galant,5,True
+2024,8,Mitsubishi-Galant,2,True
+2024,9,Mitsubishi-Galant,6,True
+2024,10,Mitsubishi-Galant,8,True
+2024,11,Mitsubishi-Galant,10,True
+2024,12,Mitsubishi-Galant,16,True
+2024,1,Mitsubishi-Mirage,1,True
+2024,2,Mitsubishi-Mirage,1,True
+2024,3,Mitsubishi-Mirage,4,True
+2024,4,Mitsubishi-Mirage,1,True
+2024,5,Mitsubishi-Mirage,2,True
+2024,6,Mitsubishi-Mirage,1,True
+2024,7,Mitsubishi-Mirage,1,True
+2024,8,Mitsubishi-Mirage,2,True
+2024,9,Mitsubishi-Mirage,2,True
+2024,10,Mitsubishi-Mirage,1,True
+2024,11,Mitsubishi-Mirage,2,True
+2024,12,Mitsubishi-Mirage,4,True
+2024,1,Mitsubishi-Montero,2,True
+2024,2,Mitsubishi-Montero,1,True
+2024,3,Mitsubishi-Montero,4,True
+2024,4,Mitsubishi-Montero,5,True
+2024,5,Mitsubishi-Montero,4,True
+2024,6,Mitsubishi-Montero,2,True
+2024,7,Mitsubishi-Montero,5,True
+2024,8,Mitsubishi-Montero,1,True
+2024,9,Mitsubishi-Montero,11,True
+2024,10,Mitsubishi-Montero,1,True
+2024,11,Mitsubishi-Montero,10,True
+2024,12,Mitsubishi-Montero,8,True
+2024,1,Mitsubishi-Montero Sport,7,True
+2024,2,Mitsubishi-Montero Sport,5,True
+2024,3,Mitsubishi-Montero Sport,14,True
+2024,4,Mitsubishi-Montero Sport,18,True
+2024,5,Mitsubishi-Montero Sport,20,True
+2024,6,Mitsubishi-Montero Sport,20,True
+2024,7,Mitsubishi-Montero Sport,17,True
+2024,8,Mitsubishi-Montero Sport,21,True
+2024,9,Mitsubishi-Montero Sport,28,True
+2024,10,Mitsubishi-Montero Sport,24,True
+2024,11,Mitsubishi-Montero Sport,44,True
+2024,12,Mitsubishi-Montero Sport,51,True
+2024,1,Nissan-Altima,3,True
+2024,2,Nissan-Altima,5,True
+2024,3,Nissan-Altima,4,True
+2024,4,Nissan-Altima,8,True
+2024,5,Nissan-Altima,6,True
+2024,6,Nissan-Altima,4,True
+2024,7,Nissan-Altima,4,True
+2024,8,Nissan-Altima,3,True
+2024,9,Nissan-Altima,8,True
+2024,10,Nissan-Altima,7,True
+2024,11,Nissan-Altima,11,True
+2024,12,Nissan-Altima,15,True
+2024,1,Nissan-Frontier,7,True
+2024,2,Nissan-Frontier,2,True
+2024,3,Nissan-Frontier,10,True
+2024,4,Nissan-Frontier,11,True
+2024,5,Nissan-Frontier,6,True
+2024,6,Nissan-Frontier,10,True
+2024,7,Nissan-Frontier,17,True
+2024,8,Nissan-Frontier,11,True
+2024,9,Nissan-Frontier,31,True
+2024,10,Nissan-Frontier,14,True
+2024,11,Nissan-Frontier,29,True
+2024,12,Nissan-Frontier,27,True
+2024,1,Nissan-Maxima,5,True
+2024,2,Nissan-Maxima,3,True
+2024,3,Nissan-Maxima,4,True
+2024,4,Nissan-Maxima,3,True
+2024,5,Nissan-Maxima,8,True
+2024,6,Nissan-Maxima,4,True
+2024,7,Nissan-Maxima,1,True
+2024,8,Nissan-Maxima,5,True
+2024,9,Nissan-Maxima,15,True
+2024,10,Nissan-Maxima,9,True
+2024,11,Nissan-Maxima,18,True
+2024,12,Nissan-Maxima,13,True
+2024,1,Nissan-Pathfinder,9,True
+2024,2,Nissan-Pathfinder,5,True
+2024,3,Nissan-Pathfinder,13,True
+2024,4,Nissan-Pathfinder,8,True
+2024,5,Nissan-Pathfinder,20,True
+2024,6,Nissan-Pathfinder,18,True
+2024,7,Nissan-Pathfinder,22,True
+2024,8,Nissan-Pathfinder,18,True
+2024,9,Nissan-Pathfinder,35,True
+2024,10,Nissan-Pathfinder,22,True
+2024,11,Nissan-Pathfinder,48,True
+2024,12,Nissan-Pathfinder,38,True
+2024,1,Nissan-Quest,4,True
+2024,2,Nissan-Quest,3,True
+2024,3,Nissan-Quest,2,True
+2024,4,Nissan-Quest,6,True
+2024,5,Nissan-Quest,10,True
+2024,6,Nissan-Quest,4,True
+2024,7,Nissan-Quest,4,True
+2024,8,Nissan-Quest,6,True
+2024,9,Nissan-Quest,12,True
+2024,10,Nissan-Quest,8,True
+2024,11,Nissan-Quest,17,True
+2024,12,Nissan-Quest,13,True
+2024,1,Nissan-Sentra,2,True
+2024,2,Nissan-Sentra,1,True
+2024,3,Nissan-Sentra,2,True
+2024,4,Nissan-Sentra,3,True
+2024,5,Nissan-Sentra,1,True
+2024,6,Nissan-Sentra,1,True
+2024,7,Nissan-Sentra,2,True
+2024,8,Nissan-Sentra,1,True
+2024,9,Nissan-Sentra,9,True
+2024,10,Nissan-Sentra,6,True
+2024,11,Nissan-Sentra,5,True
+2024,12,Nissan-Sentra,9,True
+2024,1,Nissan-Xterra,1,True
+2024,2,Nissan-Xterra,2,True
+2024,3,Nissan-Xterra,5,True
+2024,4,Nissan-Xterra,3,True
+2024,5,Nissan-Xterra,1,True
+2024,6,Nissan-Xterra,2,True
+2024,7,Nissan-Xterra,4,True
+2024,8,Nissan-Xterra,6,True
+2024,9,Nissan-Xterra,20,True
+2024,10,Nissan-Xterra,5,True
+2024,11,Nissan-Xterra,21,True
+2024,12,Nissan-Xterra,11,True
+2024,1,Oldsmobile-Alero,1,True
+2024,2,Oldsmobile-Alero,1,True
+2024,3,Oldsmobile-Alero,1,True
+2024,4,Oldsmobile-Alero,1,True
+2024,5,Oldsmobile-Alero,1,True
+2024,6,Oldsmobile-Alero,1,True
+2024,7,Oldsmobile-Alero,3,True
+2024,8,Oldsmobile-Alero,1,True
+2024,9,Oldsmobile-Alero,3,True
+2024,10,Oldsmobile-Alero,1,True
+2024,11,Oldsmobile-Alero,2,True
+2024,12,Oldsmobile-Alero,5,True
+2024,1,Oldsmobile-Aurora,2,True
+2024,2,Oldsmobile-Aurora,1,True
+2024,3,Oldsmobile-Aurora,9,True
+2024,4,Oldsmobile-Aurora,7,True
+2024,5,Oldsmobile-Aurora,10,True
+2024,6,Oldsmobile-Aurora,3,True
+2024,7,Oldsmobile-Aurora,13,True
+2024,8,Oldsmobile-Aurora,13,True
+2024,9,Oldsmobile-Aurora,20,True
+2024,10,Oldsmobile-Aurora,13,True
+2024,11,Oldsmobile-Aurora,16,True
+2024,12,Oldsmobile-Aurora,21,True
+2024,1,Oldsmobile-Bravada,4,True
+2024,2,Oldsmobile-Bravada,2,True
+2024,3,Oldsmobile-Bravada,12,True
+2024,4,Oldsmobile-Bravada,13,True
+2024,5,Oldsmobile-Bravada,14,True
+2024,6,Oldsmobile-Bravada,14,True
+2024,7,Oldsmobile-Bravada,11,True
+2024,8,Oldsmobile-Bravada,19,True
+2024,9,Oldsmobile-Bravada,30,True
+2024,10,Oldsmobile-Bravada,11,True
+2024,11,Oldsmobile-Bravada,35,True
+2024,12,Oldsmobile-Bravada,23,True
+2024,1,Oldsmobile-Cutlass,1,True
+2024,2,Oldsmobile-Cutlass,1,True
+2024,3,Oldsmobile-Cutlass,8,True
+2024,4,Oldsmobile-Cutlass,15,True
+2024,5,Oldsmobile-Cutlass,14,True
+2024,6,Oldsmobile-Cutlass,15,True
+2024,7,Oldsmobile-Cutlass,19,True
+2024,8,Oldsmobile-Cutlass,13,True
+2024,9,Oldsmobile-Cutlass,24,True
+2024,10,Oldsmobile-Cutlass,15,True
+2024,11,Oldsmobile-Cutlass,26,True
+2024,12,Oldsmobile-Cutlass,30,True
+2024,1,Oldsmobile-Intrigue,3,True
+2024,2,Oldsmobile-Intrigue,7,True
+2024,3,Oldsmobile-Intrigue,7,True
+2024,4,Oldsmobile-Intrigue,11,True
+2024,5,Oldsmobile-Intrigue,15,True
+2024,6,Oldsmobile-Intrigue,9,True
+2024,7,Oldsmobile-Intrigue,8,True
+2024,8,Oldsmobile-Intrigue,10,True
+2024,9,Oldsmobile-Intrigue,19,True
+2024,10,Oldsmobile-Intrigue,15,True
+2024,11,Oldsmobile-Intrigue,19,True
+2024,12,Oldsmobile-Intrigue,28,True
+2024,1,Oldsmobile-Silhouette,16,True
+2024,2,Oldsmobile-Silhouette,12,True
+2024,3,Oldsmobile-Silhouette,23,True
+2024,4,Oldsmobile-Silhouette,25,True
+2024,5,Oldsmobile-Silhouette,29,True
+2024,6,Oldsmobile-Silhouette,27,True
+2024,7,Oldsmobile-Silhouette,28,True
+2024,8,Oldsmobile-Silhouette,34,True
+2024,9,Oldsmobile-Silhouette,47,True
+2024,10,Oldsmobile-Silhouette,26,True
+2024,11,Oldsmobile-Silhouette,63,True
+2024,12,Oldsmobile-Silhouette,74,True
+2024,1,Plymouth-Breeze,1,True
+2024,2,Plymouth-Breeze,3,True
+2024,3,Plymouth-Breeze,7,True
+2024,4,Plymouth-Breeze,8,True
+2024,5,Plymouth-Breeze,5,True
+2024,6,Plymouth-Breeze,6,True
+2024,7,Plymouth-Breeze,8,True
+2024,8,Plymouth-Breeze,1,True
+2024,9,Plymouth-Breeze,12,True
+2024,10,Plymouth-Breeze,10,True
+2024,11,Plymouth-Breeze,14,True
+2024,12,Plymouth-Breeze,12,True
+2024,1,Plymouth-Neon,2,True
+2024,2,Plymouth-Neon,3,True
+2024,3,Plymouth-Neon,8,True
+2024,4,Plymouth-Neon,9,True
+2024,5,Plymouth-Neon,8,True
+2024,6,Plymouth-Neon,15,True
+2024,7,Plymouth-Neon,10,True
+2024,8,Plymouth-Neon,19,True
+2024,9,Plymouth-Neon,27,True
+2024,10,Plymouth-Neon,13,True
+2024,11,Plymouth-Neon,22,True
+2024,12,Plymouth-Neon,23,True
+2024,1,Plymouth-Prowler,2,True
+2024,2,Plymouth-Prowler,2,True
+2024,3,Plymouth-Prowler,8,True
+2024,4,Plymouth-Prowler,5,True
+2024,5,Plymouth-Prowler,6,True
+2024,6,Plymouth-Prowler,15,True
+2024,7,Plymouth-Prowler,13,True
+2024,8,Plymouth-Prowler,10,True
+2024,9,Plymouth-Prowler,21,True
+2024,10,Plymouth-Prowler,12,True
+2024,11,Plymouth-Prowler,21,True
+2024,12,Plymouth-Prowler,17,True
+2024,1,Plymouth-Voyager,1,True
+2024,2,Plymouth-Voyager,3,True
+2024,3,Plymouth-Voyager,7,True
+2024,4,Plymouth-Voyager,17,True
+2024,5,Plymouth-Voyager,15,True
+2024,6,Plymouth-Voyager,19,True
+2024,7,Plymouth-Voyager,14,True
+2024,8,Plymouth-Voyager,13,True
+2024,9,Plymouth-Voyager,22,True
+2024,10,Plymouth-Voyager,11,True
+2024,11,Plymouth-Voyager,22,True
+2024,12,Plymouth-Voyager,18,True
+2024,1,Pontiac-Bonneville,6,True
+2024,2,Pontiac-Bonneville,5,True
+2024,3,Pontiac-Bonneville,18,True
+2024,4,Pontiac-Bonneville,11,True
+2024,5,Pontiac-Bonneville,10,True
+2024,6,Pontiac-Bonneville,17,True
+2024,7,Pontiac-Bonneville,5,True
+2024,8,Pontiac-Bonneville,9,True
+2024,9,Pontiac-Bonneville,19,True
+2024,10,Pontiac-Bonneville,15,True
+2024,11,Pontiac-Bonneville,27,True
+2024,12,Pontiac-Bonneville,23,True
+2024,1,Pontiac-Firebird,1,True
+2024,2,Pontiac-Firebird,1,True
+2024,3,Pontiac-Firebird,4,True
+2024,4,Pontiac-Firebird,7,True
+2024,5,Pontiac-Firebird,1,True
+2024,6,Pontiac-Firebird,7,True
+2024,7,Pontiac-Firebird,6,True
+2024,8,Pontiac-Firebird,6,True
+2024,9,Pontiac-Firebird,7,True
+2024,10,Pontiac-Firebird,6,True
+2024,11,Pontiac-Firebird,8,True
+2024,12,Pontiac-Firebird,13,True
+2024,1,Pontiac-Grand Am,5,True
+2024,2,Pontiac-Grand Am,5,True
+2024,3,Pontiac-Grand Am,4,True
+2024,4,Pontiac-Grand Am,16,True
+2024,5,Pontiac-Grand Am,13,True
+2024,6,Pontiac-Grand Am,10,True
+2024,7,Pontiac-Grand Am,13,True
+2024,8,Pontiac-Grand Am,12,True
+2024,9,Pontiac-Grand Am,21,True
+2024,10,Pontiac-Grand Am,7,True
+2024,11,Pontiac-Grand Am,29,True
+2024,12,Pontiac-Grand Am,28,True
+2024,1,Pontiac-Grand Prix,1,True
+2024,2,Pontiac-Grand Prix,3,True
+2024,3,Pontiac-Grand Prix,3,True
+2024,4,Pontiac-Grand Prix,9,True
+2024,5,Pontiac-Grand Prix,10,True
+2024,6,Pontiac-Grand Prix,10,True
+2024,7,Pontiac-Grand Prix,14,True
+2024,8,Pontiac-Grand Prix,15,True
+2024,9,Pontiac-Grand Prix,18,True
+2024,10,Pontiac-Grand Prix,3,True
+2024,11,Pontiac-Grand Prix,19,True
+2024,12,Pontiac-Grand Prix,17,True
+2024,1,Pontiac-Sunfire,5,True
+2024,2,Pontiac-Sunfire,6,True
+2024,3,Pontiac-Sunfire,15,True
+2024,4,Pontiac-Sunfire,14,True
+2024,5,Pontiac-Sunfire,22,True
+2024,6,Pontiac-Sunfire,13,True
+2024,7,Pontiac-Sunfire,15,True
+2024,8,Pontiac-Sunfire,15,True
+2024,9,Pontiac-Sunfire,34,True
+2024,10,Pontiac-Sunfire,17,True
+2024,11,Pontiac-Sunfire,45,True
+2024,12,Pontiac-Sunfire,36,True
+2024,1,Porsche-Boxter,2,True
+2024,2,Porsche-Boxter,4,True
+2024,3,Porsche-Boxter,3,True
+2024,4,Porsche-Boxter,6,True
+2024,5,Porsche-Boxter,10,True
+2024,6,Porsche-Boxter,2,True
+2024,7,Porsche-Boxter,7,True
+2024,8,Porsche-Boxter,8,True
+2024,9,Porsche-Boxter,7,True
+2024,10,Porsche-Boxter,7,True
+2024,11,Porsche-Boxter,10,True
+2024,12,Porsche-Boxter,16,True
+2024,1,Porsche-Carrera Cabrio,1,True
+2024,2,Porsche-Carrera Cabrio,1,True
+2024,3,Porsche-Carrera Cabrio,9,True
+2024,4,Porsche-Carrera Cabrio,6,True
+2024,5,Porsche-Carrera Cabrio,10,True
+2024,6,Porsche-Carrera Cabrio,8,True
+2024,7,Porsche-Carrera Cabrio,4,True
+2024,8,Porsche-Carrera Cabrio,5,True
+2024,9,Porsche-Carrera Cabrio,14,True
+2024,10,Porsche-Carrera Cabrio,4,True
+2024,11,Porsche-Carrera Cabrio,14,True
+2024,12,Porsche-Carrera Cabrio,12,True
+2024,1,Porsche-Carrera Coupe,3,True
+2024,2,Porsche-Carrera Coupe,4,True
+2024,3,Porsche-Carrera Coupe,9,True
+2024,4,Porsche-Carrera Coupe,7,True
+2024,5,Porsche-Carrera Coupe,7,True
+2024,6,Porsche-Carrera Coupe,12,True
+2024,7,Porsche-Carrera Coupe,11,True
+2024,8,Porsche-Carrera Coupe,25,True
+2024,9,Porsche-Carrera Coupe,27,True
+2024,10,Porsche-Carrera Coupe,19,True
+2024,11,Porsche-Carrera Coupe,26,True
+2024,12,Porsche-Carrera Coupe,27,True
+2024,1,Saab-3-Sep,5,True
+2024,2,Saab-3-Sep,2,True
+2024,3,Saab-3-Sep,5,True
+2024,4,Saab-3-Sep,7,True
+2024,5,Saab-3-Sep,10,True
+2024,6,Saab-3-Sep,7,True
+2024,7,Saab-3-Sep,22,True
+2024,8,Saab-3-Sep,19,True
+2024,9,Saab-3-Sep,24,True
+2024,10,Saab-3-Sep,12,True
+2024,11,Saab-3-Sep,27,True
+2024,12,Saab-3-Sep,27,True
+2024,1,Saab-5-Sep,1,True
+2024,2,Saab-5-Sep,1,True
+2024,3,Saab-5-Sep,2,True
+2024,4,Saab-5-Sep,1,True
+2024,5,Saab-5-Sep,3,True
+2024,6,Saab-5-Sep,1,True
+2024,7,Saab-5-Sep,3,True
+2024,8,Saab-5-Sep,2,True
+2024,9,Saab-5-Sep,3,True
+2024,10,Saab-5-Sep,2,True
+2024,11,Saab-5-Sep,4,True
+2024,12,Saab-5-Sep,7,True
+2024,1,Saturn-LS,4,True
+2024,2,Saturn-LS,4,True
+2024,3,Saturn-LS,6,True
+2024,4,Saturn-LS,7,True
+2024,5,Saturn-LS,8,True
+2024,6,Saturn-LS,6,True
+2024,7,Saturn-LS,9,True
+2024,8,Saturn-LS,11,True
+2024,9,Saturn-LS,22,True
+2024,10,Saturn-LS,13,True
+2024,11,Saturn-LS,22,True
+2024,12,Saturn-LS,24,True
+2024,1,Saturn-LW,6,True
+2024,2,Saturn-LW,4,True
+2024,3,Saturn-LW,9,True
+2024,4,Saturn-LW,9,True
+2024,5,Saturn-LW,17,True
+2024,6,Saturn-LW,11,True
+2024,7,Saturn-LW,12,True
+2024,8,Saturn-LW,9,True
+2024,9,Saturn-LW,20,True
+2024,10,Saturn-LW,11,True
+2024,11,Saturn-LW,24,True
+2024,12,Saturn-LW,21,True
+2024,1,Saturn-SC,3,True
+2024,2,Saturn-SC,6,True
+2024,3,Saturn-SC,7,True
+2024,4,Saturn-SC,10,True
+2024,5,Saturn-SC,8,True
+2024,6,Saturn-SC,10,True
+2024,7,Saturn-SC,11,True
+2024,8,Saturn-SC,13,True
+2024,9,Saturn-SC,13,True
+2024,10,Saturn-SC,6,True
+2024,11,Saturn-SC,30,True
+2024,12,Saturn-SC,27,True
+2024,1,Saturn-SL,1,True
+2024,2,Saturn-SL,1,True
+2024,3,Saturn-SL,3,True
+2024,4,Saturn-SL,4,True
+2024,5,Saturn-SL,4,True
+2024,6,Saturn-SL,6,True
+2024,7,Saturn-SL,3,True
+2024,8,Saturn-SL,3,True
+2024,9,Saturn-SL,2,True
+2024,10,Saturn-SL,4,True
+2024,11,Saturn-SL,7,True
+2024,12,Saturn-SL,9,True
+2024,1,Saturn-SW,1,True
+2024,2,Saturn-SW,1,True
+2024,3,Saturn-SW,6,True
+2024,4,Saturn-SW,2,True
+2024,5,Saturn-SW,5,True
+2024,6,Saturn-SW,7,True
+2024,7,Saturn-SW,4,True
+2024,8,Saturn-SW,6,True
+2024,9,Saturn-SW,6,True
+2024,10,Saturn-SW,2,True
+2024,11,Saturn-SW,15,True
+2024,12,Saturn-SW,8,True
+2024,1,Subaru-Forester,7,True
+2024,2,Subaru-Forester,5,True
+2024,3,Subaru-Forester,15,True
+2024,4,Subaru-Forester,13,True
+2024,5,Subaru-Forester,22,True
+2024,6,Subaru-Forester,18,True
+2024,7,Subaru-Forester,22,True
+2024,8,Subaru-Forester,16,True
+2024,9,Subaru-Forester,38,True
+2024,10,Subaru-Forester,26,True
+2024,11,Subaru-Forester,41,True
+2024,12,Subaru-Forester,47,True
+2024,1,Subaru-Outback,3,True
+2024,2,Subaru-Outback,5,True
+2024,3,Subaru-Outback,7,True
+2024,4,Subaru-Outback,12,True
+2024,5,Subaru-Outback,7,True
+2024,6,Subaru-Outback,13,True
+2024,7,Subaru-Outback,9,True
+2024,8,Subaru-Outback,9,True
+2024,9,Subaru-Outback,17,True
+2024,10,Subaru-Outback,10,True
+2024,11,Subaru-Outback,26,True
+2024,12,Subaru-Outback,31,True
+2024,1,Toyota-4Runner,3,True
+2024,2,Toyota-4Runner,1,True
+2024,3,Toyota-4Runner,1,True
+2024,4,Toyota-4Runner,3,True
+2024,5,Toyota-4Runner,1,True
+2024,6,Toyota-4Runner,1,True
+2024,7,Toyota-4Runner,4,True
+2024,8,Toyota-4Runner,6,True
+2024,9,Toyota-4Runner,7,True
+2024,10,Toyota-4Runner,8,True
+2024,11,Toyota-4Runner,7,True
+2024,12,Toyota-4Runner,9,True
+2024,1,Toyota-Avalon,1,True
+2024,2,Toyota-Avalon,1,True
+2024,3,Toyota-Avalon,2,True
+2024,4,Toyota-Avalon,1,True
+2024,5,Toyota-Avalon,1,True
+2024,6,Toyota-Avalon,1,True
+2024,7,Toyota-Avalon,1,True
+2024,8,Toyota-Avalon,1,True
+2024,9,Toyota-Avalon,7,True
+2024,10,Toyota-Avalon,1,True
+2024,11,Toyota-Avalon,4,True
+2024,12,Toyota-Avalon,2,True
+2024,1,Toyota-Camry,4,True
+2024,2,Toyota-Camry,3,True
+2024,3,Toyota-Camry,3,True
+2024,4,Toyota-Camry,6,True
+2024,5,Toyota-Camry,7,True
+2024,6,Toyota-Camry,8,True
+2024,7,Toyota-Camry,14,True
+2024,8,Toyota-Camry,12,True
+2024,9,Toyota-Camry,30,True
+2024,10,Toyota-Camry,14,True
+2024,11,Toyota-Camry,20,True
+2024,12,Toyota-Camry,27,True
+2024,1,Toyota-Celica,6,True
+2024,2,Toyota-Celica,8,True
+2024,3,Toyota-Celica,4,True
+2024,4,Toyota-Celica,12,True
+2024,5,Toyota-Celica,17,True
+2024,6,Toyota-Celica,11,True
+2024,7,Toyota-Celica,9,True
+2024,8,Toyota-Celica,15,True
+2024,9,Toyota-Celica,17,True
+2024,10,Toyota-Celica,12,True
+2024,11,Toyota-Celica,29,True
+2024,12,Toyota-Celica,29,True
+2024,1,Toyota-Corolla,4,True
+2024,2,Toyota-Corolla,2,True
+2024,3,Toyota-Corolla,3,True
+2024,4,Toyota-Corolla,6,True
+2024,5,Toyota-Corolla,6,True
+2024,6,Toyota-Corolla,9,True
+2024,7,Toyota-Corolla,7,True
+2024,8,Toyota-Corolla,6,True
+2024,9,Toyota-Corolla,18,True
+2024,10,Toyota-Corolla,10,True
+2024,11,Toyota-Corolla,13,True
+2024,12,Toyota-Corolla,14,True
+2024,1,Toyota-Land Cruiser,3,True
+2024,2,Toyota-Land Cruiser,1,True
+2024,3,Toyota-Land Cruiser,4,True
+2024,4,Toyota-Land Cruiser,3,True
+2024,5,Toyota-Land Cruiser,6,True
+2024,6,Toyota-Land Cruiser,3,True
+2024,7,Toyota-Land Cruiser,9,True
+2024,8,Toyota-Land Cruiser,12,True
+2024,9,Toyota-Land Cruiser,13,True
+2024,10,Toyota-Land Cruiser,13,True
+2024,11,Toyota-Land Cruiser,14,True
+2024,12,Toyota-Land Cruiser,19,True
+2024,1,Toyota-RAV4,4,True
+2024,2,Toyota-RAV4,5,True
+2024,3,Toyota-RAV4,8,True
+2024,4,Toyota-RAV4,12,True
+2024,5,Toyota-RAV4,9,True
+2024,6,Toyota-RAV4,10,True
+2024,7,Toyota-RAV4,8,True
+2024,8,Toyota-RAV4,8,True
+2024,9,Toyota-RAV4,18,True
+2024,10,Toyota-RAV4,14,True
+2024,11,Toyota-RAV4,16,True
+2024,12,Toyota-RAV4,24,True
+2024,1,Toyota-Sienna,3,True
+2024,2,Toyota-Sienna,3,True
+2024,3,Toyota-Sienna,9,True
+2024,4,Toyota-Sienna,7,True
+2024,5,Toyota-Sienna,13,True
+2024,6,Toyota-Sienna,8,True
+2024,7,Toyota-Sienna,5,True
+2024,8,Toyota-Sienna,10,True
+2024,9,Toyota-Sienna,29,True
+2024,10,Toyota-Sienna,20,True
+2024,11,Toyota-Sienna,24,True
+2024,12,Toyota-Sienna,22,True
+2024,1,Toyota-Tacoma,5,True
+2024,2,Toyota-Tacoma,3,True
+2024,3,Toyota-Tacoma,8,True
+2024,4,Toyota-Tacoma,10,True
+2024,5,Toyota-Tacoma,10,True
+2024,6,Toyota-Tacoma,11,True
+2024,7,Toyota-Tacoma,11,True
+2024,8,Toyota-Tacoma,10,True
+2024,9,Toyota-Tacoma,20,True
+2024,10,Toyota-Tacoma,7,True
+2024,11,Toyota-Tacoma,17,True
+2024,12,Toyota-Tacoma,26,True
+2024,1,Volkswagen-Beetle,2,True
+2024,2,Volkswagen-Beetle,2,True
+2024,3,Volkswagen-Beetle,6,True
+2024,4,Volkswagen-Beetle,4,True
+2024,5,Volkswagen-Beetle,5,True
+2024,6,Volkswagen-Beetle,6,True
+2024,7,Volkswagen-Beetle,11,True
+2024,8,Volkswagen-Beetle,10,True
+2024,9,Volkswagen-Beetle,15,True
+2024,10,Volkswagen-Beetle,7,True
+2024,11,Volkswagen-Beetle,13,True
+2024,12,Volkswagen-Beetle,16,True
+2024,1,Volkswagen-Cabrio,3,True
+2024,2,Volkswagen-Cabrio,1,True
+2024,3,Volkswagen-Cabrio,5,True
+2024,4,Volkswagen-Cabrio,4,True
+2024,5,Volkswagen-Cabrio,16,True
+2024,6,Volkswagen-Cabrio,7,True
+2024,7,Volkswagen-Cabrio,17,True
+2024,8,Volkswagen-Cabrio,11,True
+2024,9,Volkswagen-Cabrio,24,True
+2024,10,Volkswagen-Cabrio,9,True
+2024,11,Volkswagen-Cabrio,26,True
+2024,12,Volkswagen-Cabrio,21,True
+2024,1,Volkswagen-GTI,3,True
+2024,2,Volkswagen-GTI,6,True
+2024,3,Volkswagen-GTI,8,True
+2024,4,Volkswagen-GTI,14,True
+2024,5,Volkswagen-GTI,10,True
+2024,6,Volkswagen-GTI,13,True
+2024,7,Volkswagen-GTI,15,True
+2024,8,Volkswagen-GTI,5,True
+2024,9,Volkswagen-GTI,22,True
+2024,10,Volkswagen-GTI,10,True
+2024,11,Volkswagen-GTI,24,True
+2024,12,Volkswagen-GTI,32,True
+2024,1,Volkswagen-Golf,1,True
+2024,2,Volkswagen-Golf,3,True
+2024,3,Volkswagen-Golf,6,True
+2024,4,Volkswagen-Golf,9,True
+2024,5,Volkswagen-Golf,11,True
+2024,6,Volkswagen-Golf,4,True
+2024,7,Volkswagen-Golf,7,True
+2024,8,Volkswagen-Golf,9,True
+2024,9,Volkswagen-Golf,15,True
+2024,10,Volkswagen-Golf,8,True
+2024,11,Volkswagen-Golf,16,True
+2024,12,Volkswagen-Golf,18,True
+2024,1,Volkswagen-Jetta,9,True
+2024,2,Volkswagen-Jetta,4,True
+2024,3,Volkswagen-Jetta,16,True
+2024,4,Volkswagen-Jetta,25,True
+2024,5,Volkswagen-Jetta,17,True
+2024,6,Volkswagen-Jetta,22,True
+2024,7,Volkswagen-Jetta,20,True
+2024,8,Volkswagen-Jetta,27,True
+2024,9,Volkswagen-Jetta,75,True
+2024,10,Volkswagen-Jetta,35,True
+2024,11,Volkswagen-Jetta,68,True
+2024,12,Volkswagen-Jetta,52,True
+2024,1,Volkswagen-Passat,11,True
+2024,2,Volkswagen-Passat,9,True
+2024,3,Volkswagen-Passat,23,True
+2024,4,Volkswagen-Passat,27,True
+2024,5,Volkswagen-Passat,28,True
+2024,6,Volkswagen-Passat,36,True
+2024,7,Volkswagen-Passat,26,True
+2024,8,Volkswagen-Passat,23,True
+2024,9,Volkswagen-Passat,45,True
+2024,10,Volkswagen-Passat,36,True
+2024,11,Volkswagen-Passat,56,True
+2024,12,Volkswagen-Passat,58,True
+2024,1,Volvo-C70,8,True
+2024,2,Volvo-C70,7,True
+2024,3,Volvo-C70,15,True
+2024,4,Volvo-C70,20,True
+2024,5,Volvo-C70,18,True
+2024,6,Volvo-C70,8,True
+2024,7,Volvo-C70,7,True
+2024,8,Volvo-C70,8,True
+2024,9,Volvo-C70,28,True
+2024,10,Volvo-C70,19,True
+2024,11,Volvo-C70,31,True
+2024,12,Volvo-C70,38,True
+2024,1,Volvo-S40,11,True
+2024,2,Volvo-S40,6,True
+2024,3,Volvo-S40,14,True
+2024,4,Volvo-S40,25,True
+2024,5,Volvo-S40,27,True
+2024,6,Volvo-S40,22,True
+2024,7,Volvo-S40,18,True
+2024,8,Volvo-S40,14,True
+2024,9,Volvo-S40,42,True
+2024,10,Volvo-S40,18,True
+2024,11,Volvo-S40,45,True
+2024,12,Volvo-S40,36,True
+2024,1,Volvo-S70,3,True
+2024,2,Volvo-S70,3,True
+2024,3,Volvo-S70,9,True
+2024,4,Volvo-S70,10,True
+2024,5,Volvo-S70,6,True
+2024,6,Volvo-S70,9,True
+2024,7,Volvo-S70,10,True
+2024,8,Volvo-S70,7,True
+2024,9,Volvo-S70,12,True
+2024,10,Volvo-S70,10,True
+2024,11,Volvo-S70,22,True
+2024,12,Volvo-S70,21,True
+2024,1,Volvo-S80,1,True
+2024,2,Volvo-S80,5,True
+2024,3,Volvo-S80,3,True
+2024,4,Volvo-S80,5,True
+2024,5,Volvo-S80,8,True
+2024,6,Volvo-S80,4,True
+2024,7,Volvo-S80,5,True
+2024,8,Volvo-S80,4,True
+2024,9,Volvo-S80,15,True
+2024,10,Volvo-S80,8,True
+2024,11,Volvo-S80,16,True
+2024,12,Volvo-S80,14,True
+2024,1,Volvo-V40,1,True
+2024,2,Volvo-V40,1,True
+2024,3,Volvo-V40,1,True
+2024,4,Volvo-V40,1,True
+2024,5,Volvo-V40,1,True
+2024,6,Volvo-V40,1,True
+2024,7,Volvo-V40,2,True
+2024,8,Volvo-V40,2,True
+2024,9,Volvo-V40,2,True
+2024,10,Volvo-V40,1,True
+2024,11,Volvo-V40,4,True
+2024,12,Volvo-V40,5,True
+2024,1,Volvo-V70,1,True
+2024,2,Volvo-V70,2,True
+2024,3,Volvo-V70,1,True
+2024,4,Volvo-V70,2,True
+2024,5,Volvo-V70,11,True
+2024,6,Volvo-V70,1,True
+2024,7,Volvo-V70,3,True
+2024,8,Volvo-V70,3,True
+2024,9,Volvo-V70,1,True
+2024,10,Volvo-V70,4,True
+2024,11,Volvo-V70,4,True
+2024,12,Volvo-V70,3,True

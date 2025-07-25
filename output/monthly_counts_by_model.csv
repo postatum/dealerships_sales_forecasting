@@ -1,0 +1,3721 @@
+year,month,brand_model,count
+2022,1,Acura-Integra,0
+2022,1,Acura-RL,6
+2022,1,Acura-TL,4
+2022,1,Audi-A4,3
+2022,1,Audi-A6,3
+2022,1,Audi-A8,0
+2022,1,BMW-323i,3
+2022,1,BMW-328i,3
+2022,1,BMW-528i,5
+2022,1,Buick-Century,0
+2022,1,Buick-LeSabre,0
+2022,1,Buick-Park Avenue,4
+2022,1,Buick-Regal,2
+2022,1,Cadillac-Catera,0
+2022,1,Cadillac-DeVille,2
+2022,1,Cadillac-Eldorado,6
+2022,1,Cadillac-Escalade,1
+2022,1,Cadillac-Seville,0
+2022,1,Chevrolet-Camaro,3
+2022,1,Chevrolet-Cavalier,2
+2022,1,Chevrolet-Corvette,5
+2022,1,Chevrolet-Impala,1
+2022,1,Chevrolet-Lumina,1
+2022,1,Chevrolet-Malibu,3
+2022,1,Chevrolet-Metro,1
+2022,1,Chevrolet-Monte Carlo,2
+2022,1,Chevrolet-Prizm,4
+2022,1,Chrysler-300M,3
+2022,1,Chrysler-Cirrus,1
+2022,1,Chrysler-Concorde,2
+2022,1,Chrysler-LHS,3
+2022,1,Chrysler-Sebring Conv.,0
+2022,1,Chrysler-Sebring Coupe,5
+2022,1,Chrysler-Town & Country,0
+2022,1,Dodge-Avenger,1
+2022,1,Dodge-Caravan,0
+2022,1,Dodge-Dakota,1
+2022,1,Dodge-Durango,3
+2022,1,Dodge-Intrepid,3
+2022,1,Dodge-Neon,0
+2022,1,Dodge-Ram Pickup,1
+2022,1,Dodge-Ram Van,1
+2022,1,Dodge-Ram Wagon,0
+2022,1,Dodge-Stratus,3
+2022,1,Dodge-Viper,5
+2022,1,Ford-Contour,2
+2022,1,Ford-Crown Victoria,3
+2022,1,Ford-Escort,1
+2022,1,Ford-Expedition,2
+2022,1,Ford-Explorer,1
+2022,1,Ford-F-Series,0
+2022,1,Ford-Focus,4
+2022,1,Ford-Mustang,4
+2022,1,Ford-Ranger,1
+2022,1,Ford-Taurus,3
+2022,1,Ford-Windstar,1
+2022,1,Honda-Accord,5
+2022,1,Honda-CR-V,0
+2022,1,Honda-Civic,2
+2022,1,Honda-Odyssey,3
+2022,1,Honda-Passport,2
+2022,1,Hyundai-Accent,1
+2022,1,Hyundai-Elantra,1
+2022,1,Hyundai-Sonata,3
+2022,1,Infiniti-I30,1
+2022,1,Jaguar-S-Type,5
+2022,1,Jeep-Cherokee,0
+2022,1,Jeep-Grand Cherokee,0
+2022,1,Jeep-Wrangler,0
+2022,1,Lexus-ES300,3
+2022,1,Lexus-GS300,0
+2022,1,Lexus-GS400,2
+2022,1,Lexus-LS400,1
+2022,1,Lexus-LX470,1
+2022,1,Lexus-RX300,0
+2022,1,Lincoln-Continental,2
+2022,1,Lincoln-Navigator,1
+2022,1,Lincoln-Town car,1
+2022,1,Mercedes-B-C-Class,6
+2022,1,Mercedes-B-CL500,1
+2022,1,Mercedes-B-CLK Coupe,0
+2022,1,Mercedes-B-E-Class,1
+2022,1,Mercedes-B-M-Class,3
+2022,1,Mercedes-B-S-Class,2
+2022,1,Mercedes-B-SL-Class,2
+2022,1,Mercedes-B-SLK,3
+2022,1,Mercedes-B-SLK230,1
+2022,1,Mercury-Cougar,3
+2022,1,Mercury-Grand Marquis,4
+2022,1,Mercury-Mountaineer,2
+2022,1,Mercury-Mystique,0
+2022,1,Mercury-Sable,2
+2022,1,Mercury-Villager,2
+2022,1,Mitsubishi-3000GT,2
+2022,1,Mitsubishi-Diamante,6
+2022,1,Mitsubishi-Eclipse,1
+2022,1,Mitsubishi-Galant,2
+2022,1,Mitsubishi-Mirage,0
+2022,1,Mitsubishi-Montero,0
+2022,1,Mitsubishi-Montero Sport,5
+2022,1,Nissan-Altima,3
+2022,1,Nissan-Frontier,3
+2022,1,Nissan-Maxima,6
+2022,1,Nissan-Pathfinder,5
+2022,1,Nissan-Quest,3
+2022,1,Nissan-Sentra,2
+2022,1,Nissan-Xterra,1
+2022,1,Oldsmobile-Alero,0
+2022,1,Oldsmobile-Aurora,2
+2022,1,Oldsmobile-Bravada,2
+2022,1,Oldsmobile-Cutlass,2
+2022,1,Oldsmobile-Intrigue,2
+2022,1,Oldsmobile-Silhouette,6
+2022,1,Plymouth-Breeze,1
+2022,1,Plymouth-Neon,0
+2022,1,Plymouth-Prowler,1
+2022,1,Plymouth-Voyager,1
+2022,1,Pontiac-Bonneville,5
+2022,1,Pontiac-Firebird,0
+2022,1,Pontiac-Grand Am,1
+2022,1,Pontiac-Grand Prix,0
+2022,1,Pontiac-Sunfire,0
+2022,1,Porsche-Boxter,1
+2022,1,Porsche-Carrera Cabrio,2
+2022,1,Porsche-Carrera Coupe,0
+2022,1,Saab-3-Sep,0
+2022,1,Saab-5-Sep,1
+2022,1,Saturn-LS,1
+2022,1,Saturn-LW,3
+2022,1,Saturn-SC,1
+2022,1,Saturn-SL,0
+2022,1,Saturn-SW,2
+2022,1,Subaru-Forester,2
+2022,1,Subaru-Outback,2
+2022,1,Toyota-4Runner,1
+2022,1,Toyota-Avalon,0
+2022,1,Toyota-Camry,3
+2022,1,Toyota-Celica,4
+2022,1,Toyota-Corolla,3
+2022,1,Toyota-Land Cruiser,3
+2022,1,Toyota-RAV4,3
+2022,1,Toyota-Sienna,2
+2022,1,Toyota-Tacoma,5
+2022,1,Volkswagen-Beetle,1
+2022,1,Volkswagen-Cabrio,2
+2022,1,Volkswagen-GTI,1
+2022,1,Volkswagen-Golf,1
+2022,1,Volkswagen-Jetta,7
+2022,1,Volkswagen-Passat,6
+2022,1,Volvo-C70,3
+2022,1,Volvo-S40,5
+2022,1,Volvo-S70,2
+2022,1,Volvo-S80,1
+2022,1,Volvo-V40,0
+2022,1,Volvo-V70,1
+2022,2,Acura-Integra,2
+2022,2,Acura-RL,7
+2022,2,Acura-TL,5
+2022,2,Audi-A4,2
+2022,2,Audi-A6,2
+2022,2,Audi-A8,1
+2022,2,BMW-323i,5
+2022,2,BMW-328i,3
+2022,2,BMW-528i,5
+2022,2,Buick-Century,0
+2022,2,Buick-LeSabre,1
+2022,2,Buick-Park Avenue,4
+2022,2,Buick-Regal,2
+2022,2,Cadillac-Catera,1
+2022,2,Cadillac-DeVille,2
+2022,2,Cadillac-Eldorado,4
+2022,2,Cadillac-Escalade,1
+2022,2,Cadillac-Seville,1
+2022,2,Chevrolet-Camaro,1
+2022,2,Chevrolet-Cavalier,3
+2022,2,Chevrolet-Corvette,3
+2022,2,Chevrolet-Impala,0
+2022,2,Chevrolet-Lumina,3
+2022,2,Chevrolet-Malibu,0
+2022,2,Chevrolet-Metro,3
+2022,2,Chevrolet-Monte Carlo,4
+2022,2,Chevrolet-Prizm,3
+2022,2,Chrysler-300M,3
+2022,2,Chrysler-Cirrus,0
+2022,2,Chrysler-Concorde,4
+2022,2,Chrysler-LHS,3
+2022,2,Chrysler-Sebring Conv.,0
+2022,2,Chrysler-Sebring Coupe,3
+2022,2,Chrysler-Town & Country,0
+2022,2,Dodge-Avenger,3
+2022,2,Dodge-Caravan,4
+2022,2,Dodge-Dakota,2
+2022,2,Dodge-Durango,6
+2022,2,Dodge-Intrepid,2
+2022,2,Dodge-Neon,0
+2022,2,Dodge-Ram Pickup,4
+2022,2,Dodge-Ram Van,1
+2022,2,Dodge-Ram Wagon,1
+2022,2,Dodge-Stratus,1
+2022,2,Dodge-Viper,1
+2022,2,Ford-Contour,2
+2022,2,Ford-Crown Victoria,2
+2022,2,Ford-Escort,0
+2022,2,Ford-Expedition,3
+2022,2,Ford-Explorer,1
+2022,2,Ford-F-Series,2
+2022,2,Ford-Focus,2
+2022,2,Ford-Mustang,2
+2022,2,Ford-Ranger,2
+2022,2,Ford-Taurus,3
+2022,2,Ford-Windstar,3
+2022,2,Honda-Accord,3
+2022,2,Honda-CR-V,2
+2022,2,Honda-Civic,0
+2022,2,Honda-Odyssey,0
+2022,2,Honda-Passport,0
+2022,2,Hyundai-Accent,0
+2022,2,Hyundai-Elantra,0
+2022,2,Hyundai-Sonata,2
+2022,2,Infiniti-I30,4
+2022,2,Jaguar-S-Type,2
+2022,2,Jeep-Cherokee,1
+2022,2,Jeep-Grand Cherokee,3
+2022,2,Jeep-Wrangler,2
+2022,2,Lexus-ES300,0
+2022,2,Lexus-GS300,0
+2022,2,Lexus-GS400,5
+2022,2,Lexus-LS400,6
+2022,2,Lexus-LX470,0
+2022,2,Lexus-RX300,0
+2022,2,Lincoln-Continental,2
+2022,2,Lincoln-Navigator,3
+2022,2,Lincoln-Town car,2
+2022,2,Mercedes-B-C-Class,2
+2022,2,Mercedes-B-CL500,2
+2022,2,Mercedes-B-CLK Coupe,1
+2022,2,Mercedes-B-E-Class,0
+2022,2,Mercedes-B-M-Class,2
+2022,2,Mercedes-B-S-Class,4
+2022,2,Mercedes-B-SL-Class,2
+2022,2,Mercedes-B-SLK,4
+2022,2,Mercedes-B-SLK230,2
+2022,2,Mercury-Cougar,1
+2022,2,Mercury-Grand Marquis,3
+2022,2,Mercury-Mountaineer,1
+2022,2,Mercury-Mystique,1
+2022,2,Mercury-Sable,2
+2022,2,Mercury-Villager,2
+2022,2,Mitsubishi-3000GT,4
+2022,2,Mitsubishi-Diamante,10
+2022,2,Mitsubishi-Eclipse,1
+2022,2,Mitsubishi-Galant,2
+2022,2,Mitsubishi-Mirage,0
+2022,2,Mitsubishi-Montero,0
+2022,2,Mitsubishi-Montero Sport,6
+2022,2,Nissan-Altima,1
+2022,2,Nissan-Frontier,2
+2022,2,Nissan-Maxima,1
+2022,2,Nissan-Pathfinder,5
+2022,2,Nissan-Quest,0
+2022,2,Nissan-Sentra,0
+2022,2,Nissan-Xterra,2
+2022,2,Oldsmobile-Alero,0
+2022,2,Oldsmobile-Aurora,0
+2022,2,Oldsmobile-Bravada,0
+2022,2,Oldsmobile-Cutlass,1
+2022,2,Oldsmobile-Intrigue,4
+2022,2,Oldsmobile-Silhouette,4
+2022,2,Plymouth-Breeze,2
+2022,2,Plymouth-Neon,4
+2022,2,Plymouth-Prowler,3
+2022,2,Plymouth-Voyager,3
+2022,2,Pontiac-Bonneville,3
+2022,2,Pontiac-Firebird,0
+2022,2,Pontiac-Grand Am,2
+2022,2,Pontiac-Grand Prix,5
+2022,2,Pontiac-Sunfire,2
+2022,2,Porsche-Boxter,3
+2022,2,Porsche-Carrera Cabrio,0
+2022,2,Porsche-Carrera Coupe,3
+2022,2,Saab-3-Sep,1
+2022,2,Saab-5-Sep,2
+2022,2,Saturn-LS,2
+2022,2,Saturn-LW,2
+2022,2,Saturn-SC,4
+2022,2,Saturn-SL,0
+2022,2,Saturn-SW,1
+2022,2,Subaru-Forester,2
+2022,2,Subaru-Outback,2
+2022,2,Toyota-4Runner,1
+2022,2,Toyota-Avalon,0
+2022,2,Toyota-Camry,2
+2022,2,Toyota-Celica,3
+2022,2,Toyota-Corolla,3
+2022,2,Toyota-Land Cruiser,0
+2022,2,Toyota-RAV4,2
+2022,2,Toyota-Sienna,1
+2022,2,Toyota-Tacoma,2
+2022,2,Volkswagen-Beetle,1
+2022,2,Volkswagen-Cabrio,2
+2022,2,Volkswagen-GTI,4
+2022,2,Volkswagen-Golf,0
+2022,2,Volkswagen-Jetta,2
+2022,2,Volkswagen-Passat,5
+2022,2,Volvo-C70,3
+2022,2,Volvo-S40,1
+2022,2,Volvo-S70,2
+2022,2,Volvo-S80,2
+2022,2,Volvo-V40,0
+2022,2,Volvo-V70,1
+2022,3,Acura-Integra,1
+2022,3,Acura-RL,15
+2022,3,Acura-TL,8
+2022,3,Audi-A4,1
+2022,3,Audi-A6,15
+2022,3,Audi-A8,1
+2022,3,BMW-323i,6
+2022,3,BMW-328i,7
+2022,3,BMW-528i,13
+2022,3,Buick-Century,1
+2022,3,Buick-LeSabre,2
+2022,3,Buick-Park Avenue,4
+2022,3,Buick-Regal,3
+2022,3,Cadillac-Catera,1
+2022,3,Cadillac-DeVille,2
+2022,3,Cadillac-Eldorado,6
+2022,3,Cadillac-Escalade,4
+2022,3,Cadillac-Seville,2
+2022,3,Chevrolet-Camaro,4
+2022,3,Chevrolet-Cavalier,5
+2022,3,Chevrolet-Corvette,5
+2022,3,Chevrolet-Impala,1
+2022,3,Chevrolet-Lumina,4
+2022,3,Chevrolet-Malibu,11
+2022,3,Chevrolet-Metro,5
+2022,3,Chevrolet-Monte Carlo,4
+2022,3,Chevrolet-Prizm,9
+2022,3,Chrysler-300M,10
+2022,3,Chrysler-Cirrus,0
+2022,3,Chrysler-Concorde,8
+2022,3,Chrysler-LHS,11
+2022,3,Chrysler-Sebring Conv.,2
+2022,3,Chrysler-Sebring Coupe,7
+2022,3,Chrysler-Town & Country,1
+2022,3,Dodge-Avenger,2
+2022,3,Dodge-Caravan,7
+2022,3,Dodge-Dakota,0
+2022,3,Dodge-Durango,8
+2022,3,Dodge-Intrepid,1
+2022,3,Dodge-Neon,1
+2022,3,Dodge-Ram Pickup,11
+2022,3,Dodge-Ram Van,4
+2022,3,Dodge-Ram Wagon,5
+2022,3,Dodge-Stratus,1
+2022,3,Dodge-Viper,5
+2022,3,Ford-Contour,0
+2022,3,Ford-Crown Victoria,3
+2022,3,Ford-Escort,3
+2022,3,Ford-Expedition,8
+2022,3,Ford-Explorer,9
+2022,3,Ford-F-Series,3
+2022,3,Ford-Focus,3
+2022,3,Ford-Mustang,4
+2022,3,Ford-Ranger,2
+2022,3,Ford-Taurus,3
+2022,3,Ford-Windstar,7
+2022,3,Honda-Accord,9
+2022,3,Honda-CR-V,4
+2022,3,Honda-Civic,4
+2022,3,Honda-Odyssey,1
+2022,3,Honda-Passport,3
+2022,3,Hyundai-Accent,0
+2022,3,Hyundai-Elantra,3
+2022,3,Hyundai-Sonata,9
+2022,3,Infiniti-I30,6
+2022,3,Jaguar-S-Type,1
+2022,3,Jeep-Cherokee,3
+2022,3,Jeep-Grand Cherokee,4
+2022,3,Jeep-Wrangler,2
+2022,3,Lexus-ES300,4
+2022,3,Lexus-GS300,3
+2022,3,Lexus-GS400,10
+2022,3,Lexus-LS400,7
+2022,3,Lexus-LX470,5
+2022,3,Lexus-RX300,0
+2022,3,Lincoln-Continental,7
+2022,3,Lincoln-Navigator,4
+2022,3,Lincoln-Town car,3
+2022,3,Mercedes-B-C-Class,5
+2022,3,Mercedes-B-CL500,3
+2022,3,Mercedes-B-CLK Coupe,2
+2022,3,Mercedes-B-E-Class,4
+2022,3,Mercedes-B-M-Class,4
+2022,3,Mercedes-B-S-Class,7
+2022,3,Mercedes-B-SL-Class,2
+2022,3,Mercedes-B-SLK,7
+2022,3,Mercedes-B-SLK230,1
+2022,3,Mercury-Cougar,4
+2022,3,Mercury-Grand Marquis,12
+2022,3,Mercury-Mountaineer,2
+2022,3,Mercury-Mystique,1
+2022,3,Mercury-Sable,5
+2022,3,Mercury-Villager,7
+2022,3,Mitsubishi-3000GT,13
+2022,3,Mitsubishi-Diamante,17
+2022,3,Mitsubishi-Eclipse,3
+2022,3,Mitsubishi-Galant,1
+2022,3,Mitsubishi-Mirage,1
+2022,3,Mitsubishi-Montero,3
+2022,3,Mitsubishi-Montero Sport,9
+2022,3,Nissan-Altima,1
+2022,3,Nissan-Frontier,7
+2022,3,Nissan-Maxima,3
+2022,3,Nissan-Pathfinder,8
+2022,3,Nissan-Quest,1
+2022,3,Nissan-Sentra,1
+2022,3,Nissan-Xterra,0
+2022,3,Oldsmobile-Alero,1
+2022,3,Oldsmobile-Aurora,6
+2022,3,Oldsmobile-Bravada,9
+2022,3,Oldsmobile-Cutlass,4
+2022,3,Oldsmobile-Intrigue,3
+2022,3,Oldsmobile-Silhouette,18
+2022,3,Plymouth-Breeze,5
+2022,3,Plymouth-Neon,6
+2022,3,Plymouth-Prowler,5
+2022,3,Plymouth-Voyager,5
+2022,3,Pontiac-Bonneville,7
+2022,3,Pontiac-Firebird,2
+2022,3,Pontiac-Grand Am,3
+2022,3,Pontiac-Grand Prix,2
+2022,3,Pontiac-Sunfire,8
+2022,3,Porsche-Boxter,3
+2022,3,Porsche-Carrera Cabrio,4
+2022,3,Porsche-Carrera Coupe,6
+2022,3,Saab-3-Sep,4
+2022,3,Saab-5-Sep,0
+2022,3,Saturn-LS,5
+2022,3,Saturn-LW,5
+2022,3,Saturn-SC,4
+2022,3,Saturn-SL,1
+2022,3,Saturn-SW,4
+2022,3,Subaru-Forester,7
+2022,3,Subaru-Outback,3
+2022,3,Toyota-4Runner,0
+2022,3,Toyota-Avalon,0
+2022,3,Toyota-Camry,1
+2022,3,Toyota-Celica,2
+2022,3,Toyota-Corolla,1
+2022,3,Toyota-Land Cruiser,4
+2022,3,Toyota-RAV4,7
+2022,3,Toyota-Sienna,5
+2022,3,Toyota-Tacoma,6
+2022,3,Volkswagen-Beetle,3
+2022,3,Volkswagen-Cabrio,1
+2022,3,Volkswagen-GTI,4
+2022,3,Volkswagen-Golf,1
+2022,3,Volkswagen-Jetta,8
+2022,3,Volkswagen-Passat,13
+2022,3,Volvo-C70,9
+2022,3,Volvo-S40,6
+2022,3,Volvo-S70,5
+2022,3,Volvo-S80,2
+2022,3,Volvo-V40,1
+2022,3,Volvo-V70,1
+2022,4,Acura-Integra,1
+2022,4,Acura-RL,18
+2022,4,Acura-TL,6
+2022,4,Audi-A4,5
+2022,4,Audi-A6,13
+2022,4,Audi-A8,1
+2022,4,BMW-323i,15
+2022,4,BMW-328i,7
+2022,4,BMW-528i,18
+2022,4,Buick-Century,1
+2022,4,Buick-LeSabre,1
+2022,4,Buick-Park Avenue,6
+2022,4,Buick-Regal,4
+2022,4,Cadillac-Catera,4
+2022,4,Cadillac-DeVille,3
+2022,4,Cadillac-Eldorado,5
+2022,4,Cadillac-Escalade,5
+2022,4,Cadillac-Seville,1
+2022,4,Chevrolet-Camaro,3
+2022,4,Chevrolet-Cavalier,6
+2022,4,Chevrolet-Corvette,9
+2022,4,Chevrolet-Impala,2
+2022,4,Chevrolet-Lumina,3
+2022,4,Chevrolet-Malibu,6
+2022,4,Chevrolet-Metro,8
+2022,4,Chevrolet-Monte Carlo,3
+2022,4,Chevrolet-Prizm,12
+2022,4,Chrysler-300M,4
+2022,4,Chrysler-Cirrus,1
+2022,4,Chrysler-Concorde,7
+2022,4,Chrysler-LHS,11
+2022,4,Chrysler-Sebring Conv.,0
+2022,4,Chrysler-Sebring Coupe,10
+2022,4,Chrysler-Town & Country,1
+2022,4,Dodge-Avenger,6
+2022,4,Dodge-Caravan,7
+2022,4,Dodge-Dakota,4
+2022,4,Dodge-Durango,6
+2022,4,Dodge-Intrepid,2
+2022,4,Dodge-Neon,0
+2022,4,Dodge-Ram Pickup,11
+2022,4,Dodge-Ram Van,5
+2022,4,Dodge-Ram Wagon,6
+2022,4,Dodge-Stratus,3
+2022,4,Dodge-Viper,7
+2022,4,Ford-Contour,4
+2022,4,Ford-Crown Victoria,5
+2022,4,Ford-Escort,2
+2022,4,Ford-Expedition,8
+2022,4,Ford-Explorer,8
+2022,4,Ford-F-Series,1
+2022,4,Ford-Focus,7
+2022,4,Ford-Mustang,5
+2022,4,Ford-Ranger,4
+2022,4,Ford-Taurus,7
+2022,4,Ford-Windstar,1
+2022,4,Honda-Accord,9
+2022,4,Honda-CR-V,4
+2022,4,Honda-Civic,4
+2022,4,Honda-Odyssey,4
+2022,4,Honda-Passport,2
+2022,4,Hyundai-Accent,1
+2022,4,Hyundai-Elantra,3
+2022,4,Hyundai-Sonata,8
+2022,4,Infiniti-I30,8
+2022,4,Jaguar-S-Type,6
+2022,4,Jeep-Cherokee,0
+2022,4,Jeep-Grand Cherokee,2
+2022,4,Jeep-Wrangler,5
+2022,4,Lexus-ES300,3
+2022,4,Lexus-GS300,1
+2022,4,Lexus-GS400,4
+2022,4,Lexus-LS400,12
+2022,4,Lexus-LX470,4
+2022,4,Lexus-RX300,0
+2022,4,Lincoln-Continental,6
+2022,4,Lincoln-Navigator,3
+2022,4,Lincoln-Town car,4
+2022,4,Mercedes-B-C-Class,2
+2022,4,Mercedes-B-CL500,4
+2022,4,Mercedes-B-CLK Coupe,1
+2022,4,Mercedes-B-E-Class,4
+2022,4,Mercedes-B-M-Class,2
+2022,4,Mercedes-B-S-Class,12
+2022,4,Mercedes-B-SL-Class,6
+2022,4,Mercedes-B-SLK,6
+2022,4,Mercedes-B-SLK230,2
+2022,4,Mercury-Cougar,5
+2022,4,Mercury-Grand Marquis,11
+2022,4,Mercury-Mountaineer,2
+2022,4,Mercury-Mystique,2
+2022,4,Mercury-Sable,3
+2022,4,Mercury-Villager,4
+2022,4,Mitsubishi-3000GT,12
+2022,4,Mitsubishi-Diamante,17
+2022,4,Mitsubishi-Eclipse,0
+2022,4,Mitsubishi-Galant,7
+2022,4,Mitsubishi-Mirage,1
+2022,4,Mitsubishi-Montero,3
+2022,4,Mitsubishi-Montero Sport,14
+2022,4,Nissan-Altima,6
+2022,4,Nissan-Frontier,5
+2022,4,Nissan-Maxima,3
+2022,4,Nissan-Pathfinder,7
+2022,4,Nissan-Quest,2
+2022,4,Nissan-Sentra,2
+2022,4,Nissan-Xterra,2
+2022,4,Oldsmobile-Alero,0
+2022,4,Oldsmobile-Aurora,2
+2022,4,Oldsmobile-Bravada,6
+2022,4,Oldsmobile-Cutlass,9
+2022,4,Oldsmobile-Intrigue,6
+2022,4,Oldsmobile-Silhouette,11
+2022,4,Plymouth-Breeze,4
+2022,4,Plymouth-Neon,5
+2022,4,Plymouth-Prowler,4
+2022,4,Plymouth-Voyager,8
+2022,4,Pontiac-Bonneville,7
+2022,4,Pontiac-Firebird,1
+2022,4,Pontiac-Grand Am,9
+2022,4,Pontiac-Grand Prix,6
+2022,4,Pontiac-Sunfire,10
+2022,4,Porsche-Boxter,4
+2022,4,Porsche-Carrera Cabrio,1
+2022,4,Porsche-Carrera Coupe,3
+2022,4,Saab-3-Sep,2
+2022,4,Saab-5-Sep,1
+2022,4,Saturn-LS,5
+2022,4,Saturn-LW,6
+2022,4,Saturn-SC,2
+2022,4,Saturn-SL,2
+2022,4,Saturn-SW,2
+2022,4,Subaru-Forester,5
+2022,4,Subaru-Outback,8
+2022,4,Toyota-4Runner,2
+2022,4,Toyota-Avalon,0
+2022,4,Toyota-Camry,5
+2022,4,Toyota-Celica,10
+2022,4,Toyota-Corolla,3
+2022,4,Toyota-Land Cruiser,2
+2022,4,Toyota-RAV4,5
+2022,4,Toyota-Sienna,5
+2022,4,Toyota-Tacoma,9
+2022,4,Volkswagen-Beetle,3
+2022,4,Volkswagen-Cabrio,3
+2022,4,Volkswagen-GTI,8
+2022,4,Volkswagen-Golf,6
+2022,4,Volkswagen-Jetta,8
+2022,4,Volkswagen-Passat,17
+2022,4,Volvo-C70,12
+2022,4,Volvo-S40,12
+2022,4,Volvo-S70,7
+2022,4,Volvo-S80,3
+2022,4,Volvo-V40,1
+2022,4,Volvo-V70,1
+2022,5,Acura-Integra,0
+2022,5,Acura-RL,18
+2022,5,Acura-TL,8
+2022,5,Audi-A4,5
+2022,5,Audi-A6,9
+2022,5,Audi-A8,0
+2022,5,BMW-323i,7
+2022,5,BMW-328i,5
+2022,5,BMW-528i,11
+2022,5,Buick-Century,1
+2022,5,Buick-LeSabre,3
+2022,5,Buick-Park Avenue,2
+2022,5,Buick-Regal,8
+2022,5,Cadillac-Catera,2
+2022,5,Cadillac-DeVille,2
+2022,5,Cadillac-Eldorado,7
+2022,5,Cadillac-Escalade,4
+2022,5,Cadillac-Seville,3
+2022,5,Chevrolet-Camaro,4
+2022,5,Chevrolet-Cavalier,3
+2022,5,Chevrolet-Corvette,4
+2022,5,Chevrolet-Impala,4
+2022,5,Chevrolet-Lumina,7
+2022,5,Chevrolet-Malibu,3
+2022,5,Chevrolet-Metro,13
+2022,5,Chevrolet-Monte Carlo,5
+2022,5,Chevrolet-Prizm,15
+2022,5,Chrysler-300M,9
+2022,5,Chrysler-Cirrus,2
+2022,5,Chrysler-Concorde,9
+2022,5,Chrysler-LHS,17
+2022,5,Chrysler-Sebring Conv.,0
+2022,5,Chrysler-Sebring Coupe,5
+2022,5,Chrysler-Town & Country,0
+2022,5,Dodge-Avenger,2
+2022,5,Dodge-Caravan,1
+2022,5,Dodge-Dakota,2
+2022,5,Dodge-Durango,8
+2022,5,Dodge-Intrepid,2
+2022,5,Dodge-Neon,0
+2022,5,Dodge-Ram Pickup,6
+2022,5,Dodge-Ram Van,4
+2022,5,Dodge-Ram Wagon,3
+2022,5,Dodge-Stratus,1
+2022,5,Dodge-Viper,4
+2022,5,Ford-Contour,4
+2022,5,Ford-Crown Victoria,5
+2022,5,Ford-Escort,0
+2022,5,Ford-Expedition,12
+2022,5,Ford-Explorer,3
+2022,5,Ford-F-Series,3
+2022,5,Ford-Focus,3
+2022,5,Ford-Mustang,1
+2022,5,Ford-Ranger,1
+2022,5,Ford-Taurus,4
+2022,5,Ford-Windstar,3
+2022,5,Honda-Accord,8
+2022,5,Honda-CR-V,7
+2022,5,Honda-Civic,6
+2022,5,Honda-Odyssey,3
+2022,5,Honda-Passport,5
+2022,5,Hyundai-Accent,1
+2022,5,Hyundai-Elantra,3
+2022,5,Hyundai-Sonata,1
+2022,5,Infiniti-I30,5
+2022,5,Jaguar-S-Type,7
+2022,5,Jeep-Cherokee,4
+2022,5,Jeep-Grand Cherokee,4
+2022,5,Jeep-Wrangler,3
+2022,5,Lexus-ES300,0
+2022,5,Lexus-GS300,4
+2022,5,Lexus-GS400,1
+2022,5,Lexus-LS400,10
+2022,5,Lexus-LX470,2
+2022,5,Lexus-RX300,1
+2022,5,Lincoln-Continental,5
+2022,5,Lincoln-Navigator,2
+2022,5,Lincoln-Town car,6
+2022,5,Mercedes-B-C-Class,2
+2022,5,Mercedes-B-CL500,7
+2022,5,Mercedes-B-CLK Coupe,1
+2022,5,Mercedes-B-E-Class,6
+2022,5,Mercedes-B-M-Class,7
+2022,5,Mercedes-B-S-Class,7
+2022,5,Mercedes-B-SL-Class,6
+2022,5,Mercedes-B-SLK,7
+2022,5,Mercedes-B-SLK230,5
+2022,5,Mercury-Cougar,12
+2022,5,Mercury-Grand Marquis,12
+2022,5,Mercury-Mountaineer,3
+2022,5,Mercury-Mystique,0
+2022,5,Mercury-Sable,10
+2022,5,Mercury-Villager,6
+2022,5,Mitsubishi-3000GT,13
+2022,5,Mitsubishi-Diamante,14
+2022,5,Mitsubishi-Eclipse,3
+2022,5,Mitsubishi-Galant,4
+2022,5,Mitsubishi-Mirage,1
+2022,5,Mitsubishi-Montero,3
+2022,5,Mitsubishi-Montero Sport,10
+2022,5,Nissan-Altima,2
+2022,5,Nissan-Frontier,4
+2022,5,Nissan-Maxima,1
+2022,5,Nissan-Pathfinder,5
+2022,5,Nissan-Quest,3
+2022,5,Nissan-Sentra,0
+2022,5,Nissan-Xterra,0
+2022,5,Oldsmobile-Alero,0
+2022,5,Oldsmobile-Aurora,2
+2022,5,Oldsmobile-Bravada,6
+2022,5,Oldsmobile-Cutlass,8
+2022,5,Oldsmobile-Intrigue,7
+2022,5,Oldsmobile-Silhouette,15
+2022,5,Plymouth-Breeze,2
+2022,5,Plymouth-Neon,6
+2022,5,Plymouth-Prowler,3
+2022,5,Plymouth-Voyager,9
+2022,5,Pontiac-Bonneville,5
+2022,5,Pontiac-Firebird,1
+2022,5,Pontiac-Grand Am,7
+2022,5,Pontiac-Grand Prix,7
+2022,5,Pontiac-Sunfire,12
+2022,5,Porsche-Boxter,4
+2022,5,Porsche-Carrera Cabrio,4
+2022,5,Porsche-Carrera Coupe,4
+2022,5,Saab-3-Sep,5
+2022,5,Saab-5-Sep,1
+2022,5,Saturn-LS,3
+2022,5,Saturn-LW,9
+2022,5,Saturn-SC,4
+2022,5,Saturn-SL,1
+2022,5,Saturn-SW,3
+2022,5,Subaru-Forester,9
+2022,5,Subaru-Outback,4
+2022,5,Toyota-4Runner,0
+2022,5,Toyota-Avalon,0
+2022,5,Toyota-Camry,3
+2022,5,Toyota-Celica,9
+2022,5,Toyota-Corolla,2
+2022,5,Toyota-Land Cruiser,2
+2022,5,Toyota-RAV4,3
+2022,5,Toyota-Sienna,3
+2022,5,Toyota-Tacoma,5
+2022,5,Volkswagen-Beetle,3
+2022,5,Volkswagen-Cabrio,7
+2022,5,Volkswagen-GTI,7
+2022,5,Volkswagen-Golf,9
+2022,5,Volkswagen-Jetta,6
+2022,5,Volkswagen-Passat,10
+2022,5,Volvo-C70,7
+2022,5,Volvo-S40,11
+2022,5,Volvo-S70,6
+2022,5,Volvo-S80,2
+2022,5,Volvo-V40,1
+2022,5,Volvo-V70,4
+2022,6,Acura-Integra,1
+2022,6,Acura-RL,10
+2022,6,Acura-TL,6
+2022,6,Audi-A4,2
+2022,6,Audi-A6,4
+2022,6,Audi-A8,1
+2022,6,BMW-323i,5
+2022,6,BMW-328i,5
+2022,6,BMW-528i,10
+2022,6,Buick-Century,1
+2022,6,Buick-LeSabre,1
+2022,6,Buick-Park Avenue,4
+2022,6,Buick-Regal,4
+2022,6,Cadillac-Catera,1
+2022,6,Cadillac-DeVille,5
+2022,6,Cadillac-Eldorado,6
+2022,6,Cadillac-Escalade,5
+2022,6,Cadillac-Seville,6
+2022,6,Chevrolet-Camaro,4
+2022,6,Chevrolet-Cavalier,8
+2022,6,Chevrolet-Corvette,7
+2022,6,Chevrolet-Impala,3
+2022,6,Chevrolet-Lumina,5
+2022,6,Chevrolet-Malibu,8
+2022,6,Chevrolet-Metro,4
+2022,6,Chevrolet-Monte Carlo,7
+2022,6,Chevrolet-Prizm,6
+2022,6,Chrysler-300M,9
+2022,6,Chrysler-Cirrus,3
+2022,6,Chrysler-Concorde,6
+2022,6,Chrysler-LHS,8
+2022,6,Chrysler-Sebring Conv.,0
+2022,6,Chrysler-Sebring Coupe,6
+2022,6,Chrysler-Town & Country,0
+2022,6,Dodge-Avenger,1
+2022,6,Dodge-Caravan,2
+2022,6,Dodge-Dakota,3
+2022,6,Dodge-Durango,6
+2022,6,Dodge-Intrepid,2
+2022,6,Dodge-Neon,1
+2022,6,Dodge-Ram Pickup,15
+2022,6,Dodge-Ram Van,3
+2022,6,Dodge-Ram Wagon,3
+2022,6,Dodge-Stratus,0
+2022,6,Dodge-Viper,8
+2022,6,Ford-Contour,6
+2022,6,Ford-Crown Victoria,5
+2022,6,Ford-Escort,2
+2022,6,Ford-Expedition,9
+2022,6,Ford-Explorer,7
+2022,6,Ford-F-Series,3
+2022,6,Ford-Focus,7
+2022,6,Ford-Mustang,3
+2022,6,Ford-Ranger,4
+2022,6,Ford-Taurus,4
+2022,6,Ford-Windstar,4
+2022,6,Honda-Accord,6
+2022,6,Honda-CR-V,6
+2022,6,Honda-Civic,2
+2022,6,Honda-Odyssey,2
+2022,6,Honda-Passport,5
+2022,6,Hyundai-Accent,2
+2022,6,Hyundai-Elantra,3
+2022,6,Hyundai-Sonata,2
+2022,6,Infiniti-I30,4
+2022,6,Jaguar-S-Type,4
+2022,6,Jeep-Cherokee,6
+2022,6,Jeep-Grand Cherokee,2
+2022,6,Jeep-Wrangler,2
+2022,6,Lexus-ES300,2
+2022,6,Lexus-GS300,3
+2022,6,Lexus-GS400,2
+2022,6,Lexus-LS400,15
+2022,6,Lexus-LX470,3
+2022,6,Lexus-RX300,0
+2022,6,Lincoln-Continental,8
+2022,6,Lincoln-Navigator,3
+2022,6,Lincoln-Town car,5
+2022,6,Mercedes-B-C-Class,7
+2022,6,Mercedes-B-CL500,8
+2022,6,Mercedes-B-CLK Coupe,0
+2022,6,Mercedes-B-E-Class,3
+2022,6,Mercedes-B-M-Class,3
+2022,6,Mercedes-B-S-Class,8
+2022,6,Mercedes-B-SL-Class,6
+2022,6,Mercedes-B-SLK,5
+2022,6,Mercedes-B-SLK230,4
+2022,6,Mercury-Cougar,3
+2022,6,Mercury-Grand Marquis,11
+2022,6,Mercury-Mountaineer,4
+2022,6,Mercury-Mystique,2
+2022,6,Mercury-Sable,7
+2022,6,Mercury-Villager,3
+2022,6,Mitsubishi-3000GT,7
+2022,6,Mitsubishi-Diamante,13
+2022,6,Mitsubishi-Eclipse,4
+2022,6,Mitsubishi-Galant,3
+2022,6,Mitsubishi-Mirage,0
+2022,6,Mitsubishi-Montero,1
+2022,6,Mitsubishi-Montero Sport,12
+2022,6,Nissan-Altima,3
+2022,6,Nissan-Frontier,3
+2022,6,Nissan-Maxima,1
+2022,6,Nissan-Pathfinder,9
+2022,6,Nissan-Quest,1
+2022,6,Nissan-Sentra,0
+2022,6,Nissan-Xterra,0
+2022,6,Oldsmobile-Alero,0
+2022,6,Oldsmobile-Aurora,1
+2022,6,Oldsmobile-Bravada,5
+2022,6,Oldsmobile-Cutlass,9
+2022,6,Oldsmobile-Intrigue,3
+2022,6,Oldsmobile-Silhouette,13
+2022,6,Plymouth-Breeze,4
+2022,6,Plymouth-Neon,8
+2022,6,Plymouth-Prowler,8
+2022,6,Plymouth-Voyager,5
+2022,6,Pontiac-Bonneville,11
+2022,6,Pontiac-Firebird,0
+2022,6,Pontiac-Grand Am,4
+2022,6,Pontiac-Grand Prix,3
+2022,6,Pontiac-Sunfire,6
+2022,6,Porsche-Boxter,1
+2022,6,Porsche-Carrera Cabrio,6
+2022,6,Porsche-Carrera Coupe,10
+2022,6,Saab-3-Sep,5
+2022,6,Saab-5-Sep,1
+2022,6,Saturn-LS,2
+2022,6,Saturn-LW,5
+2022,6,Saturn-SC,6
+2022,6,Saturn-SL,2
+2022,6,Saturn-SW,4
+2022,6,Subaru-Forester,6
+2022,6,Subaru-Outback,8
+2022,6,Toyota-4Runner,1
+2022,6,Toyota-Avalon,0
+2022,6,Toyota-Camry,4
+2022,6,Toyota-Celica,4
+2022,6,Toyota-Corolla,4
+2022,6,Toyota-Land Cruiser,2
+2022,6,Toyota-RAV4,5
+2022,6,Toyota-Sienna,1
+2022,6,Toyota-Tacoma,5
+2022,6,Volkswagen-Beetle,4
+2022,6,Volkswagen-Cabrio,2
+2022,6,Volkswagen-GTI,6
+2022,6,Volkswagen-Golf,0
+2022,6,Volkswagen-Jetta,7
+2022,6,Volkswagen-Passat,14
+2022,6,Volvo-C70,2
+2022,6,Volvo-S40,10
+2022,6,Volvo-S70,5
+2022,6,Volvo-S80,0
+2022,6,Volvo-V40,0
+2022,6,Volvo-V70,1
+2022,7,Acura-Integra,0
+2022,7,Acura-RL,8
+2022,7,Acura-TL,9
+2022,7,Audi-A4,2
+2022,7,Audi-A6,8
+2022,7,Audi-A8,0
+2022,7,BMW-323i,9
+2022,7,BMW-328i,7
+2022,7,BMW-528i,8
+2022,7,Buick-Century,2
+2022,7,Buick-LeSabre,2
+2022,7,Buick-Park Avenue,7
+2022,7,Buick-Regal,3
+2022,7,Cadillac-Catera,2
+2022,7,Cadillac-DeVille,2
+2022,7,Cadillac-Eldorado,10
+2022,7,Cadillac-Escalade,4
+2022,7,Cadillac-Seville,0
+2022,7,Chevrolet-Camaro,2
+2022,7,Chevrolet-Cavalier,0
+2022,7,Chevrolet-Corvette,7
+2022,7,Chevrolet-Impala,4
+2022,7,Chevrolet-Lumina,2
+2022,7,Chevrolet-Malibu,8
+2022,7,Chevrolet-Metro,11
+2022,7,Chevrolet-Monte Carlo,4
+2022,7,Chevrolet-Prizm,16
+2022,7,Chrysler-300M,9
+2022,7,Chrysler-Cirrus,0
+2022,7,Chrysler-Concorde,9
+2022,7,Chrysler-LHS,11
+2022,7,Chrysler-Sebring Conv.,0
+2022,7,Chrysler-Sebring Coupe,6
+2022,7,Chrysler-Town & Country,1
+2022,7,Dodge-Avenger,1
+2022,7,Dodge-Caravan,2
+2022,7,Dodge-Dakota,1
+2022,7,Dodge-Durango,5
+2022,7,Dodge-Intrepid,4
+2022,7,Dodge-Neon,0
+2022,7,Dodge-Ram Pickup,6
+2022,7,Dodge-Ram Van,6
+2022,7,Dodge-Ram Wagon,3
+2022,7,Dodge-Stratus,1
+2022,7,Dodge-Viper,7
+2022,7,Ford-Contour,8
+2022,7,Ford-Crown Victoria,6
+2022,7,Ford-Escort,1
+2022,7,Ford-Expedition,7
+2022,7,Ford-Explorer,6
+2022,7,Ford-F-Series,5
+2022,7,Ford-Focus,2
+2022,7,Ford-Mustang,3
+2022,7,Ford-Ranger,6
+2022,7,Ford-Taurus,3
+2022,7,Ford-Windstar,4
+2022,7,Honda-Accord,10
+2022,7,Honda-CR-V,8
+2022,7,Honda-Civic,5
+2022,7,Honda-Odyssey,5
+2022,7,Honda-Passport,4
+2022,7,Hyundai-Accent,4
+2022,7,Hyundai-Elantra,2
+2022,7,Hyundai-Sonata,4
+2022,7,Infiniti-I30,2
+2022,7,Jaguar-S-Type,6
+2022,7,Jeep-Cherokee,2
+2022,7,Jeep-Grand Cherokee,1
+2022,7,Jeep-Wrangler,4
+2022,7,Lexus-ES300,4
+2022,7,Lexus-GS300,2
+2022,7,Lexus-GS400,1
+2022,7,Lexus-LS400,8
+2022,7,Lexus-LX470,3
+2022,7,Lexus-RX300,0
+2022,7,Lincoln-Continental,2
+2022,7,Lincoln-Navigator,4
+2022,7,Lincoln-Town car,12
+2022,7,Mercedes-B-C-Class,9
+2022,7,Mercedes-B-CL500,3
+2022,7,Mercedes-B-CLK Coupe,0
+2022,7,Mercedes-B-E-Class,3
+2022,7,Mercedes-B-M-Class,9
+2022,7,Mercedes-B-S-Class,9
+2022,7,Mercedes-B-SL-Class,6
+2022,7,Mercedes-B-SLK,2
+2022,7,Mercedes-B-SLK230,2
+2022,7,Mercury-Cougar,6
+2022,7,Mercury-Grand Marquis,4
+2022,7,Mercury-Mountaineer,1
+2022,7,Mercury-Mystique,1
+2022,7,Mercury-Sable,5
+2022,7,Mercury-Villager,7
+2022,7,Mitsubishi-3000GT,9
+2022,7,Mitsubishi-Diamante,4
+2022,7,Mitsubishi-Eclipse,2
+2022,7,Mitsubishi-Galant,2
+2022,7,Mitsubishi-Mirage,0
+2022,7,Mitsubishi-Montero,3
+2022,7,Mitsubishi-Montero Sport,6
+2022,7,Nissan-Altima,1
+2022,7,Nissan-Frontier,9
+2022,7,Nissan-Maxima,0
+2022,7,Nissan-Pathfinder,10
+2022,7,Nissan-Quest,0
+2022,7,Nissan-Sentra,0
+2022,7,Nissan-Xterra,0
+2022,7,Oldsmobile-Alero,1
+2022,7,Oldsmobile-Aurora,6
+2022,7,Oldsmobile-Bravada,6
+2022,7,Oldsmobile-Cutlass,9
+2022,7,Oldsmobile-Intrigue,2
+2022,7,Oldsmobile-Silhouette,12
+2022,7,Plymouth-Breeze,2
+2022,7,Plymouth-Neon,4
+2022,7,Plymouth-Prowler,5
+2022,7,Plymouth-Voyager,13
+2022,7,Pontiac-Bonneville,3
+2022,7,Pontiac-Firebird,2
+2022,7,Pontiac-Grand Am,7
+2022,7,Pontiac-Grand Prix,12
+2022,7,Pontiac-Sunfire,4
+2022,7,Porsche-Boxter,4
+2022,7,Porsche-Carrera Cabrio,1
+2022,7,Porsche-Carrera Coupe,3
+2022,7,Saab-3-Sep,9
+2022,7,Saab-5-Sep,1
+2022,7,Saturn-LS,3
+2022,7,Saturn-LW,7
+2022,7,Saturn-SC,5
+2022,7,Saturn-SL,2
+2022,7,Saturn-SW,3
+2022,7,Subaru-Forester,9
+2022,7,Subaru-Outback,3
+2022,7,Toyota-4Runner,2
+2022,7,Toyota-Avalon,0
+2022,7,Toyota-Camry,6
+2022,7,Toyota-Celica,4
+2022,7,Toyota-Corolla,4
+2022,7,Toyota-Land Cruiser,5
+2022,7,Toyota-RAV4,4
+2022,7,Toyota-Sienna,0
+2022,7,Toyota-Tacoma,7
+2022,7,Volkswagen-Beetle,9
+2022,7,Volkswagen-Cabrio,9
+2022,7,Volkswagen-GTI,6
+2022,7,Volkswagen-Golf,5
+2022,7,Volkswagen-Jetta,6
+2022,7,Volkswagen-Passat,13
+2022,7,Volvo-C70,2
+2022,7,Volvo-S40,8
+2022,7,Volvo-S70,4
+2022,7,Volvo-S80,1
+2022,7,Volvo-V40,0
+2022,7,Volvo-V70,1
+2022,8,Acura-Integra,1
+2022,8,Acura-RL,15
+2022,8,Acura-TL,8
+2022,8,Audi-A4,2
+2022,8,Audi-A6,12
+2022,8,Audi-A8,2
+2022,8,BMW-323i,7
+2022,8,BMW-328i,5
+2022,8,BMW-528i,6
+2022,8,Buick-Century,1
+2022,8,Buick-LeSabre,0
+2022,8,Buick-Park Avenue,8
+2022,8,Buick-Regal,0
+2022,8,Cadillac-Catera,3
+2022,8,Cadillac-DeVille,0
+2022,8,Cadillac-Eldorado,5
+2022,8,Cadillac-Escalade,3
+2022,8,Cadillac-Seville,5
+2022,8,Chevrolet-Camaro,2
+2022,8,Chevrolet-Cavalier,1
+2022,8,Chevrolet-Corvette,13
+2022,8,Chevrolet-Impala,4
+2022,8,Chevrolet-Lumina,7
+2022,8,Chevrolet-Malibu,5
+2022,8,Chevrolet-Metro,6
+2022,8,Chevrolet-Monte Carlo,8
+2022,8,Chevrolet-Prizm,18
+2022,8,Chrysler-300M,10
+2022,8,Chrysler-Cirrus,2
+2022,8,Chrysler-Concorde,3
+2022,8,Chrysler-LHS,10
+2022,8,Chrysler-Sebring Conv.,0
+2022,8,Chrysler-Sebring Coupe,4
+2022,8,Chrysler-Town & Country,3
+2022,8,Dodge-Avenger,5
+2022,8,Dodge-Caravan,6
+2022,8,Dodge-Dakota,4
+2022,8,Dodge-Durango,8
+2022,8,Dodge-Intrepid,2
+2022,8,Dodge-Neon,0
+2022,8,Dodge-Ram Pickup,13
+2022,8,Dodge-Ram Van,8
+2022,8,Dodge-Ram Wagon,1
+2022,8,Dodge-Stratus,1
+2022,8,Dodge-Viper,7
+2022,8,Ford-Contour,8
+2022,8,Ford-Crown Victoria,6
+2022,8,Ford-Escort,2
+2022,8,Ford-Expedition,6
+2022,8,Ford-Explorer,8
+2022,8,Ford-F-Series,4
+2022,8,Ford-Focus,7
+2022,8,Ford-Mustang,2
+2022,8,Ford-Ranger,5
+2022,8,Ford-Taurus,4
+2022,8,Ford-Windstar,7
+2022,8,Honda-Accord,7
+2022,8,Honda-CR-V,7
+2022,8,Honda-Civic,3
+2022,8,Honda-Odyssey,1
+2022,8,Honda-Passport,4
+2022,8,Hyundai-Accent,0
+2022,8,Hyundai-Elantra,3
+2022,8,Hyundai-Sonata,4
+2022,8,Infiniti-I30,3
+2022,8,Jaguar-S-Type,5
+2022,8,Jeep-Cherokee,5
+2022,8,Jeep-Grand Cherokee,3
+2022,8,Jeep-Wrangler,7
+2022,8,Lexus-ES300,3
+2022,8,Lexus-GS300,4
+2022,8,Lexus-GS400,5
+2022,8,Lexus-LS400,13
+2022,8,Lexus-LX470,3
+2022,8,Lexus-RX300,1
+2022,8,Lincoln-Continental,7
+2022,8,Lincoln-Navigator,5
+2022,8,Lincoln-Town car,14
+2022,8,Mercedes-B-C-Class,9
+2022,8,Mercedes-B-CL500,5
+2022,8,Mercedes-B-CLK Coupe,0
+2022,8,Mercedes-B-E-Class,3
+2022,8,Mercedes-B-M-Class,4
+2022,8,Mercedes-B-S-Class,15
+2022,8,Mercedes-B-SL-Class,5
+2022,8,Mercedes-B-SLK,7
+2022,8,Mercedes-B-SLK230,8
+2022,8,Mercury-Cougar,5
+2022,8,Mercury-Grand Marquis,4
+2022,8,Mercury-Mountaineer,1
+2022,8,Mercury-Mystique,2
+2022,8,Mercury-Sable,9
+2022,8,Mercury-Villager,5
+2022,8,Mitsubishi-3000GT,11
+2022,8,Mitsubishi-Diamante,15
+2022,8,Mitsubishi-Eclipse,3
+2022,8,Mitsubishi-Galant,2
+2022,8,Mitsubishi-Mirage,0
+2022,8,Mitsubishi-Montero,1
+2022,8,Mitsubishi-Montero Sport,11
+2022,8,Nissan-Altima,2
+2022,8,Nissan-Frontier,3
+2022,8,Nissan-Maxima,2
+2022,8,Nissan-Pathfinder,8
+2022,8,Nissan-Quest,1
+2022,8,Nissan-Sentra,1
+2022,8,Nissan-Xterra,2
+2022,8,Oldsmobile-Alero,0
+2022,8,Oldsmobile-Aurora,7
+2022,8,Oldsmobile-Bravada,8
+2022,8,Oldsmobile-Cutlass,8
+2022,8,Oldsmobile-Intrigue,4
+2022,8,Oldsmobile-Silhouette,13
+2022,8,Plymouth-Breeze,1
+2022,8,Plymouth-Neon,14
+2022,8,Plymouth-Prowler,9
+2022,8,Plymouth-Voyager,8
+2022,8,Pontiac-Bonneville,4
+2022,8,Pontiac-Firebird,3
+2022,8,Pontiac-Grand Am,5
+2022,8,Pontiac-Grand Prix,12
+2022,8,Pontiac-Sunfire,7
+2022,8,Porsche-Boxter,4
+2022,8,Porsche-Carrera Cabrio,4
+2022,8,Porsche-Carrera Coupe,11
+2022,8,Saab-3-Sep,9
+2022,8,Saab-5-Sep,1
+2022,8,Saturn-LS,6
+2022,8,Saturn-LW,5
+2022,8,Saturn-SC,8
+2022,8,Saturn-SL,0
+2022,8,Saturn-SW,3
+2022,8,Subaru-Forester,5
+2022,8,Subaru-Outback,4
+2022,8,Toyota-4Runner,0
+2022,8,Toyota-Avalon,0
+2022,8,Toyota-Camry,8
+2022,8,Toyota-Celica,5
+2022,8,Toyota-Corolla,5
+2022,8,Toyota-Land Cruiser,3
+2022,8,Toyota-RAV4,5
+2022,8,Toyota-Sienna,5
+2022,8,Toyota-Tacoma,11
+2022,8,Volkswagen-Beetle,5
+2022,8,Volkswagen-Cabrio,8
+2022,8,Volkswagen-GTI,3
+2022,8,Volkswagen-Golf,1
+2022,8,Volkswagen-Jetta,15
+2022,8,Volkswagen-Passat,10
+2022,8,Volvo-C70,3
+2022,8,Volvo-S40,8
+2022,8,Volvo-S70,5
+2022,8,Volvo-S80,1
+2022,8,Volvo-V40,0
+2022,8,Volvo-V70,2
+2022,9,Acura-Integra,3
+2022,9,Acura-RL,17
+2022,9,Acura-TL,15
+2022,9,Audi-A4,6
+2022,9,Audi-A6,26
+2022,9,Audi-A8,1
+2022,9,BMW-323i,21
+2022,9,BMW-328i,12
+2022,9,BMW-528i,13
+2022,9,Buick-Century,5
+2022,9,Buick-LeSabre,3
+2022,9,Buick-Park Avenue,12
+2022,9,Buick-Regal,8
+2022,9,Cadillac-Catera,9
+2022,9,Cadillac-DeVille,1
+2022,9,Cadillac-Eldorado,14
+2022,9,Cadillac-Escalade,12
+2022,9,Cadillac-Seville,2
+2022,9,Chevrolet-Camaro,7
+2022,9,Chevrolet-Cavalier,10
+2022,9,Chevrolet-Corvette,15
+2022,9,Chevrolet-Impala,5
+2022,9,Chevrolet-Lumina,8
+2022,9,Chevrolet-Malibu,13
+2022,9,Chevrolet-Metro,15
+2022,9,Chevrolet-Monte Carlo,9
+2022,9,Chevrolet-Prizm,32
+2022,9,Chrysler-300M,18
+2022,9,Chrysler-Cirrus,1
+2022,9,Chrysler-Concorde,17
+2022,9,Chrysler-LHS,19
+2022,9,Chrysler-Sebring Conv.,0
+2022,9,Chrysler-Sebring Coupe,15
+2022,9,Chrysler-Town & Country,5
+2022,9,Dodge-Avenger,8
+2022,9,Dodge-Caravan,10
+2022,9,Dodge-Dakota,4
+2022,9,Dodge-Durango,18
+2022,9,Dodge-Intrepid,1
+2022,9,Dodge-Neon,2
+2022,9,Dodge-Ram Pickup,25
+2022,9,Dodge-Ram Van,14
+2022,9,Dodge-Ram Wagon,8
+2022,9,Dodge-Stratus,4
+2022,9,Dodge-Viper,16
+2022,9,Ford-Contour,6
+2022,9,Ford-Crown Victoria,8
+2022,9,Ford-Escort,5
+2022,9,Ford-Expedition,10
+2022,9,Ford-Explorer,12
+2022,9,Ford-F-Series,11
+2022,9,Ford-Focus,7
+2022,9,Ford-Mustang,10
+2022,9,Ford-Ranger,7
+2022,9,Ford-Taurus,7
+2022,9,Ford-Windstar,10
+2022,9,Honda-Accord,15
+2022,9,Honda-CR-V,13
+2022,9,Honda-Civic,10
+2022,9,Honda-Odyssey,3
+2022,9,Honda-Passport,5
+2022,9,Hyundai-Accent,3
+2022,9,Hyundai-Elantra,5
+2022,9,Hyundai-Sonata,8
+2022,9,Infiniti-I30,8
+2022,9,Jaguar-S-Type,12
+2022,9,Jeep-Cherokee,5
+2022,9,Jeep-Grand Cherokee,8
+2022,9,Jeep-Wrangler,16
+2022,9,Lexus-ES300,6
+2022,9,Lexus-GS300,5
+2022,9,Lexus-GS400,4
+2022,9,Lexus-LS400,29
+2022,9,Lexus-LX470,9
+2022,9,Lexus-RX300,0
+2022,9,Lincoln-Continental,7
+2022,9,Lincoln-Navigator,9
+2022,9,Lincoln-Town car,10
+2022,9,Mercedes-B-C-Class,10
+2022,9,Mercedes-B-CL500,6
+2022,9,Mercedes-B-CLK Coupe,0
+2022,9,Mercedes-B-E-Class,8
+2022,9,Mercedes-B-M-Class,7
+2022,9,Mercedes-B-S-Class,17
+2022,9,Mercedes-B-SL-Class,12
+2022,9,Mercedes-B-SLK,8
+2022,9,Mercedes-B-SLK230,12
+2022,9,Mercury-Cougar,9
+2022,9,Mercury-Grand Marquis,10
+2022,9,Mercury-Mountaineer,3
+2022,9,Mercury-Mystique,5
+2022,9,Mercury-Sable,9
+2022,9,Mercury-Villager,10
+2022,9,Mitsubishi-3000GT,19
+2022,9,Mitsubishi-Diamante,18
+2022,9,Mitsubishi-Eclipse,6
+2022,9,Mitsubishi-Galant,3
+2022,9,Mitsubishi-Mirage,0
+2022,9,Mitsubishi-Montero,6
+2022,9,Mitsubishi-Montero Sport,17
+2022,9,Nissan-Altima,1
+2022,9,Nissan-Frontier,17
+2022,9,Nissan-Maxima,6
+2022,9,Nissan-Pathfinder,14
+2022,9,Nissan-Quest,6
+2022,9,Nissan-Sentra,3
+2022,9,Nissan-Xterra,8
+2022,9,Oldsmobile-Alero,1
+2022,9,Oldsmobile-Aurora,8
+2022,9,Oldsmobile-Bravada,17
+2022,9,Oldsmobile-Cutlass,15
+2022,9,Oldsmobile-Intrigue,9
+2022,9,Oldsmobile-Silhouette,18
+2022,9,Plymouth-Breeze,7
+2022,9,Plymouth-Neon,17
+2022,9,Plymouth-Prowler,12
+2022,9,Plymouth-Voyager,15
+2022,9,Pontiac-Bonneville,5
+2022,9,Pontiac-Firebird,1
+2022,9,Pontiac-Grand Am,8
+2022,9,Pontiac-Grand Prix,12
+2022,9,Pontiac-Sunfire,17
+2022,9,Porsche-Boxter,3
+2022,9,Porsche-Carrera Cabrio,4
+2022,9,Porsche-Carrera Coupe,10
+2022,9,Saab-3-Sep,13
+2022,9,Saab-5-Sep,1
+2022,9,Saturn-LS,11
+2022,9,Saturn-LW,10
+2022,9,Saturn-SC,6
+2022,9,Saturn-SL,1
+2022,9,Saturn-SW,2
+2022,9,Subaru-Forester,15
+2022,9,Subaru-Outback,6
+2022,9,Toyota-4Runner,4
+2022,9,Toyota-Avalon,3
+2022,9,Toyota-Camry,14
+2022,9,Toyota-Celica,7
+2022,9,Toyota-Corolla,8
+2022,9,Toyota-Land Cruiser,9
+2022,9,Toyota-RAV4,7
+2022,9,Toyota-Sienna,12
+2022,9,Toyota-Tacoma,11
+2022,9,Volkswagen-Beetle,10
+2022,9,Volkswagen-Cabrio,12
+2022,9,Volkswagen-GTI,9
+2022,9,Volkswagen-Golf,9
+2022,9,Volkswagen-Jetta,35
+2022,9,Volkswagen-Passat,23
+2022,9,Volvo-C70,9
+2022,9,Volvo-S40,19
+2022,9,Volvo-S70,8
+2022,9,Volvo-S80,8
+2022,9,Volvo-V40,1
+2022,9,Volvo-V70,1
+2022,10,Acura-Integra,2
+2022,10,Acura-RL,8
+2022,10,Acura-TL,11
+2022,10,Audi-A4,8
+2022,10,Audi-A6,11
+2022,10,Audi-A8,2
+2022,10,BMW-323i,9
+2022,10,BMW-328i,6
+2022,10,BMW-528i,7
+2022,10,Buick-Century,1
+2022,10,Buick-LeSabre,1
+2022,10,Buick-Park Avenue,8
+2022,10,Buick-Regal,6
+2022,10,Cadillac-Catera,5
+2022,10,Cadillac-DeVille,2
+2022,10,Cadillac-Eldorado,11
+2022,10,Cadillac-Escalade,7
+2022,10,Cadillac-Seville,2
+2022,10,Chevrolet-Camaro,4
+2022,10,Chevrolet-Cavalier,6
+2022,10,Chevrolet-Corvette,10
+2022,10,Chevrolet-Impala,3
+2022,10,Chevrolet-Lumina,4
+2022,10,Chevrolet-Malibu,8
+2022,10,Chevrolet-Metro,9
+2022,10,Chevrolet-Monte Carlo,3
+2022,10,Chevrolet-Prizm,14
+2022,10,Chrysler-300M,11
+2022,10,Chrysler-Cirrus,0
+2022,10,Chrysler-Concorde,13
+2022,10,Chrysler-LHS,9
+2022,10,Chrysler-Sebring Conv.,0
+2022,10,Chrysler-Sebring Coupe,6
+2022,10,Chrysler-Town & Country,2
+2022,10,Dodge-Avenger,5
+2022,10,Dodge-Caravan,5
+2022,10,Dodge-Dakota,2
+2022,10,Dodge-Durango,10
+2022,10,Dodge-Intrepid,2
+2022,10,Dodge-Neon,1
+2022,10,Dodge-Ram Pickup,10
+2022,10,Dodge-Ram Van,3
+2022,10,Dodge-Ram Wagon,1
+2022,10,Dodge-Stratus,3
+2022,10,Dodge-Viper,11
+2022,10,Ford-Contour,4
+2022,10,Ford-Crown Victoria,6
+2022,10,Ford-Escort,2
+2022,10,Ford-Expedition,4
+2022,10,Ford-Explorer,12
+2022,10,Ford-F-Series,6
+2022,10,Ford-Focus,4
+2022,10,Ford-Mustang,10
+2022,10,Ford-Ranger,6
+2022,10,Ford-Taurus,9
+2022,10,Ford-Windstar,4
+2022,10,Honda-Accord,5
+2022,10,Honda-CR-V,4
+2022,10,Honda-Civic,7
+2022,10,Honda-Odyssey,2
+2022,10,Honda-Passport,6
+2022,10,Hyundai-Accent,3
+2022,10,Hyundai-Elantra,3
+2022,10,Hyundai-Sonata,4
+2022,10,Infiniti-I30,11
+2022,10,Jaguar-S-Type,7
+2022,10,Jeep-Cherokee,2
+2022,10,Jeep-Grand Cherokee,6
+2022,10,Jeep-Wrangler,10
+2022,10,Lexus-ES300,0
+2022,10,Lexus-GS300,3
+2022,10,Lexus-GS400,4
+2022,10,Lexus-LS400,16
+2022,10,Lexus-LX470,6
+2022,10,Lexus-RX300,0
+2022,10,Lincoln-Continental,6
+2022,10,Lincoln-Navigator,7
+2022,10,Lincoln-Town car,5
+2022,10,Mercedes-B-C-Class,5
+2022,10,Mercedes-B-CL500,3
+2022,10,Mercedes-B-CLK Coupe,0
+2022,10,Mercedes-B-E-Class,5
+2022,10,Mercedes-B-M-Class,4
+2022,10,Mercedes-B-S-Class,6
+2022,10,Mercedes-B-SL-Class,6
+2022,10,Mercedes-B-SLK,11
+2022,10,Mercedes-B-SLK230,3
+2022,10,Mercury-Cougar,2
+2022,10,Mercury-Grand Marquis,4
+2022,10,Mercury-Mountaineer,6
+2022,10,Mercury-Mystique,2
+2022,10,Mercury-Sable,4
+2022,10,Mercury-Villager,3
+2022,10,Mitsubishi-3000GT,6
+2022,10,Mitsubishi-Diamante,12
+2022,10,Mitsubishi-Eclipse,2
+2022,10,Mitsubishi-Galant,2
+2022,10,Mitsubishi-Mirage,0
+2022,10,Mitsubishi-Montero,0
+2022,10,Mitsubishi-Montero Sport,13
+2022,10,Nissan-Altima,2
+2022,10,Nissan-Frontier,9
+2022,10,Nissan-Maxima,5
+2022,10,Nissan-Pathfinder,10
+2022,10,Nissan-Quest,3
+2022,10,Nissan-Sentra,4
+2022,10,Nissan-Xterra,5
+2022,10,Oldsmobile-Alero,1
+2022,10,Oldsmobile-Aurora,7
+2022,10,Oldsmobile-Bravada,7
+2022,10,Oldsmobile-Cutlass,8
+2022,10,Oldsmobile-Intrigue,4
+2022,10,Oldsmobile-Silhouette,9
+2022,10,Plymouth-Breeze,6
+2022,10,Plymouth-Neon,9
+2022,10,Plymouth-Prowler,7
+2022,10,Plymouth-Voyager,4
+2022,10,Pontiac-Bonneville,6
+2022,10,Pontiac-Firebird,2
+2022,10,Pontiac-Grand Am,4
+2022,10,Pontiac-Grand Prix,2
+2022,10,Pontiac-Sunfire,9
+2022,10,Porsche-Boxter,0
+2022,10,Porsche-Carrera Cabrio,2
+2022,10,Porsche-Carrera Coupe,7
+2022,10,Saab-3-Sep,8
+2022,10,Saab-5-Sep,1
+2022,10,Saturn-LS,8
+2022,10,Saturn-LW,6
+2022,10,Saturn-SC,3
+2022,10,Saturn-SL,1
+2022,10,Saturn-SW,1
+2022,10,Subaru-Forester,9
+2022,10,Subaru-Outback,5
+2022,10,Toyota-4Runner,5
+2022,10,Toyota-Avalon,0
+2022,10,Toyota-Camry,9
+2022,10,Toyota-Celica,3
+2022,10,Toyota-Corolla,5
+2022,10,Toyota-Land Cruiser,7
+2022,10,Toyota-RAV4,4
+2022,10,Toyota-Sienna,11
+2022,10,Toyota-Tacoma,4
+2022,10,Volkswagen-Beetle,1
+2022,10,Volkswagen-Cabrio,6
+2022,10,Volkswagen-GTI,3
+2022,10,Volkswagen-Golf,4
+2022,10,Volkswagen-Jetta,22
+2022,10,Volkswagen-Passat,12
+2022,10,Volvo-C70,5
+2022,10,Volvo-S40,7
+2022,10,Volvo-S70,6
+2022,10,Volvo-S80,1
+2022,10,Volvo-V40,1
+2022,10,Volvo-V70,0
+2022,11,Acura-Integra,4
+2022,11,Acura-RL,15
+2022,11,Acura-TL,25
+2022,11,Audi-A4,3
+2022,11,Audi-A6,19
+2022,11,Audi-A8,3
+2022,11,BMW-323i,16
+2022,11,BMW-328i,18
+2022,11,BMW-528i,11
+2022,11,Buick-Century,4
+2022,11,Buick-LeSabre,1
+2022,11,Buick-Park Avenue,24
+2022,11,Buick-Regal,13
+2022,11,Cadillac-Catera,8
+2022,11,Cadillac-DeVille,7
+2022,11,Cadillac-Eldorado,19
+2022,11,Cadillac-Escalade,14
+2022,11,Cadillac-Seville,8
+2022,11,Chevrolet-Camaro,2
+2022,11,Chevrolet-Cavalier,16
+2022,11,Chevrolet-Corvette,20
+2022,11,Chevrolet-Impala,6
+2022,11,Chevrolet-Lumina,13
+2022,11,Chevrolet-Malibu,16
+2022,11,Chevrolet-Metro,20
+2022,11,Chevrolet-Monte Carlo,4
+2022,11,Chevrolet-Prizm,24
+2022,11,Chrysler-300M,12
+2022,11,Chrysler-Cirrus,2
+2022,11,Chrysler-Concorde,16
+2022,11,Chrysler-LHS,18
+2022,11,Chrysler-Sebring Conv.,0
+2022,11,Chrysler-Sebring Coupe,15
+2022,11,Chrysler-Town & Country,2
+2022,11,Dodge-Avenger,10
+2022,11,Dodge-Caravan,5
+2022,11,Dodge-Dakota,2
+2022,11,Dodge-Durango,18
+2022,11,Dodge-Intrepid,9
+2022,11,Dodge-Neon,2
+2022,11,Dodge-Ram Pickup,32
+2022,11,Dodge-Ram Van,16
+2022,11,Dodge-Ram Wagon,4
+2022,11,Dodge-Stratus,14
+2022,11,Dodge-Viper,16
+2022,11,Ford-Contour,6
+2022,11,Ford-Crown Victoria,12
+2022,11,Ford-Escort,4
+2022,11,Ford-Expedition,8
+2022,11,Ford-Explorer,17
+2022,11,Ford-F-Series,9
+2022,11,Ford-Focus,11
+2022,11,Ford-Mustang,20
+2022,11,Ford-Ranger,8
+2022,11,Ford-Taurus,12
+2022,11,Ford-Windstar,9
+2022,11,Honda-Accord,9
+2022,11,Honda-CR-V,14
+2022,11,Honda-Civic,7
+2022,11,Honda-Odyssey,3
+2022,11,Honda-Passport,8
+2022,11,Hyundai-Accent,1
+2022,11,Hyundai-Elantra,4
+2022,11,Hyundai-Sonata,11
+2022,11,Infiniti-I30,7
+2022,11,Jaguar-S-Type,12
+2022,11,Jeep-Cherokee,3
+2022,11,Jeep-Grand Cherokee,11
+2022,11,Jeep-Wrangler,11
+2022,11,Lexus-ES300,6
+2022,11,Lexus-GS300,3
+2022,11,Lexus-GS400,16
+2022,11,Lexus-LS400,25
+2022,11,Lexus-LX470,3
+2022,11,Lexus-RX300,2
+2022,11,Lincoln-Continental,15
+2022,11,Lincoln-Navigator,12
+2022,11,Lincoln-Town car,9
+2022,11,Mercedes-B-C-Class,10
+2022,11,Mercedes-B-CL500,9
+2022,11,Mercedes-B-CLK Coupe,0
+2022,11,Mercedes-B-E-Class,5
+2022,11,Mercedes-B-M-Class,9
+2022,11,Mercedes-B-S-Class,8
+2022,11,Mercedes-B-SL-Class,9
+2022,11,Mercedes-B-SLK,12
+2022,11,Mercedes-B-SLK230,14
+2022,11,Mercury-Cougar,8
+2022,11,Mercury-Grand Marquis,19
+2022,11,Mercury-Mountaineer,6
+2022,11,Mercury-Mystique,1
+2022,11,Mercury-Sable,9
+2022,11,Mercury-Villager,10
+2022,11,Mitsubishi-3000GT,13
+2022,11,Mitsubishi-Diamante,30
+2022,11,Mitsubishi-Eclipse,4
+2022,11,Mitsubishi-Galant,2
+2022,11,Mitsubishi-Mirage,0
+2022,11,Mitsubishi-Montero,2
+2022,11,Mitsubishi-Montero Sport,22
+2022,11,Nissan-Altima,5
+2022,11,Nissan-Frontier,18
+2022,11,Nissan-Maxima,16
+2022,11,Nissan-Pathfinder,24
+2022,11,Nissan-Quest,12
+2022,11,Nissan-Sentra,3
+2022,11,Nissan-Xterra,19
+2022,11,Oldsmobile-Alero,2
+2022,11,Oldsmobile-Aurora,9
+2022,11,Oldsmobile-Bravada,17
+2022,11,Oldsmobile-Cutlass,7
+2022,11,Oldsmobile-Intrigue,6
+2022,11,Oldsmobile-Silhouette,26
+2022,11,Plymouth-Breeze,7
+2022,11,Plymouth-Neon,7
+2022,11,Plymouth-Prowler,10
+2022,11,Plymouth-Voyager,7
+2022,11,Pontiac-Bonneville,14
+2022,11,Pontiac-Firebird,4
+2022,11,Pontiac-Grand Am,10
+2022,11,Pontiac-Grand Prix,5
+2022,11,Pontiac-Sunfire,17
+2022,11,Porsche-Boxter,3
+2022,11,Porsche-Carrera Cabrio,6
+2022,11,Porsche-Carrera Coupe,10
+2022,11,Saab-3-Sep,14
+2022,11,Saab-5-Sep,3
+2022,11,Saturn-LS,12
+2022,11,Saturn-LW,8
+2022,11,Saturn-SC,14
+2022,11,Saturn-SL,3
+2022,11,Saturn-SW,6
+2022,11,Subaru-Forester,19
+2022,11,Subaru-Outback,9
+2022,11,Toyota-4Runner,6
+2022,11,Toyota-Avalon,2
+2022,11,Toyota-Camry,11
+2022,11,Toyota-Celica,13
+2022,11,Toyota-Corolla,7
+2022,11,Toyota-Land Cruiser,10
+2022,11,Toyota-RAV4,7
+2022,11,Toyota-Sienna,13
+2022,11,Toyota-Tacoma,11
+2022,11,Volkswagen-Beetle,10
+2022,11,Volkswagen-Cabrio,12
+2022,11,Volkswagen-GTI,7
+2022,11,Volkswagen-Golf,8
+2022,11,Volkswagen-Jetta,42
+2022,11,Volkswagen-Passat,22
+2022,11,Volvo-C70,12
+2022,11,Volvo-S40,17
+2022,11,Volvo-S70,12
+2022,11,Volvo-S80,8
+2022,11,Volvo-V40,2
+2022,11,Volvo-V70,0
+2022,12,Acura-Integra,5
+2022,12,Acura-RL,31
+2022,12,Acura-TL,20
+2022,12,Audi-A4,8
+2022,12,Audi-A6,23
+2022,12,Audi-A8,5
+2022,12,BMW-323i,20
+2022,12,BMW-328i,11
+2022,12,BMW-528i,26
+2022,12,Buick-Century,2
+2022,12,Buick-LeSabre,4
+2022,12,Buick-Park Avenue,14
+2022,12,Buick-Regal,8
+2022,12,Cadillac-Catera,3
+2022,12,Cadillac-DeVille,6
+2022,12,Cadillac-Eldorado,13
+2022,12,Cadillac-Escalade,14
+2022,12,Cadillac-Seville,6
+2022,12,Chevrolet-Camaro,10
+2022,12,Chevrolet-Cavalier,13
+2022,12,Chevrolet-Corvette,16
+2022,12,Chevrolet-Impala,1
+2022,12,Chevrolet-Lumina,9
+2022,12,Chevrolet-Malibu,16
+2022,12,Chevrolet-Metro,14
+2022,12,Chevrolet-Monte Carlo,4
+2022,12,Chevrolet-Prizm,27
+2022,12,Chrysler-300M,16
+2022,12,Chrysler-Cirrus,2
+2022,12,Chrysler-Concorde,18
+2022,12,Chrysler-LHS,18
+2022,12,Chrysler-Sebring Conv.,3
+2022,12,Chrysler-Sebring Coupe,18
+2022,12,Chrysler-Town & Country,4
+2022,12,Dodge-Avenger,10
+2022,12,Dodge-Caravan,7
+2022,12,Dodge-Dakota,3
+2022,12,Dodge-Durango,21
+2022,12,Dodge-Intrepid,6
+2022,12,Dodge-Neon,3
+2022,12,Dodge-Ram Pickup,28
+2022,12,Dodge-Ram Van,10
+2022,12,Dodge-Ram Wagon,8
+2022,12,Dodge-Stratus,9
+2022,12,Dodge-Viper,13
+2022,12,Ford-Contour,7
+2022,12,Ford-Crown Victoria,8
+2022,12,Ford-Escort,9
+2022,12,Ford-Expedition,16
+2022,12,Ford-Explorer,17
+2022,12,Ford-F-Series,3
+2022,12,Ford-Focus,10
+2022,12,Ford-Mustang,13
+2022,12,Ford-Ranger,4
+2022,12,Ford-Taurus,13
+2022,12,Ford-Windstar,8
+2022,12,Honda-Accord,18
+2022,12,Honda-CR-V,2
+2022,12,Honda-Civic,6
+2022,12,Honda-Odyssey,5
+2022,12,Honda-Passport,9
+2022,12,Hyundai-Accent,1
+2022,12,Hyundai-Elantra,5
+2022,12,Hyundai-Sonata,22
+2022,12,Infiniti-I30,14
+2022,12,Jaguar-S-Type,11
+2022,12,Jeep-Cherokee,2
+2022,12,Jeep-Grand Cherokee,11
+2022,12,Jeep-Wrangler,13
+2022,12,Lexus-ES300,5
+2022,12,Lexus-GS300,3
+2022,12,Lexus-GS400,20
+2022,12,Lexus-LS400,17
+2022,12,Lexus-LX470,13
+2022,12,Lexus-RX300,1
+2022,12,Lincoln-Continental,17
+2022,12,Lincoln-Navigator,10
+2022,12,Lincoln-Town car,5
+2022,12,Mercedes-B-C-Class,7
+2022,12,Mercedes-B-CL500,7
+2022,12,Mercedes-B-CLK Coupe,3
+2022,12,Mercedes-B-E-Class,4
+2022,12,Mercedes-B-M-Class,5
+2022,12,Mercedes-B-S-Class,13
+2022,12,Mercedes-B-SL-Class,13
+2022,12,Mercedes-B-SLK,12
+2022,12,Mercedes-B-SLK230,5
+2022,12,Mercury-Cougar,7
+2022,12,Mercury-Grand Marquis,18
+2022,12,Mercury-Mountaineer,9
+2022,12,Mercury-Mystique,7
+2022,12,Mercury-Sable,8
+2022,12,Mercury-Villager,14
+2022,12,Mitsubishi-3000GT,25
+2022,12,Mitsubishi-Diamante,34
+2022,12,Mitsubishi-Eclipse,5
+2022,12,Mitsubishi-Galant,7
+2022,12,Mitsubishi-Mirage,2
+2022,12,Mitsubishi-Montero,3
+2022,12,Mitsubishi-Montero Sport,22
+2022,12,Nissan-Altima,8
+2022,12,Nissan-Frontier,13
+2022,12,Nissan-Maxima,11
+2022,12,Nissan-Pathfinder,17
+2022,12,Nissan-Quest,7
+2022,12,Nissan-Sentra,6
+2022,12,Nissan-Xterra,8
+2022,12,Oldsmobile-Alero,1
+2022,12,Oldsmobile-Aurora,11
+2022,12,Oldsmobile-Bravada,11
+2022,12,Oldsmobile-Cutlass,10
+2022,12,Oldsmobile-Intrigue,10
+2022,12,Oldsmobile-Silhouette,32
+2022,12,Plymouth-Breeze,6
+2022,12,Plymouth-Neon,9
+2022,12,Plymouth-Prowler,7
+2022,12,Plymouth-Voyager,2
+2022,12,Pontiac-Bonneville,9
+2022,12,Pontiac-Firebird,4
+2022,12,Pontiac-Grand Am,12
+2022,12,Pontiac-Grand Prix,5
+2022,12,Pontiac-Sunfire,14
+2022,12,Porsche-Boxter,8
+2022,12,Porsche-Carrera Cabrio,6
+2022,12,Porsche-Carrera Coupe,13
+2022,12,Saab-3-Sep,10
+2022,12,Saab-5-Sep,6
+2022,12,Saturn-LS,11
+2022,12,Saturn-LW,7
+2022,12,Saturn-SC,9
+2022,12,Saturn-SL,3
+2022,12,Saturn-SW,5
+2022,12,Subaru-Forester,20
+2022,12,Subaru-Outback,13
+2022,12,Toyota-4Runner,4
+2022,12,Toyota-Avalon,1
+2022,12,Toyota-Camry,12
+2022,12,Toyota-Celica,13
+2022,12,Toyota-Corolla,5
+2022,12,Toyota-Land Cruiser,11
+2022,12,Toyota-RAV4,12
+2022,12,Toyota-Sienna,11
+2022,12,Toyota-Tacoma,13
+2022,12,Volkswagen-Beetle,11
+2022,12,Volkswagen-Cabrio,7
+2022,12,Volkswagen-GTI,13
+2022,12,Volkswagen-Golf,15
+2022,12,Volkswagen-Jetta,27
+2022,12,Volkswagen-Passat,23
+2022,12,Volvo-C70,19
+2022,12,Volvo-S40,10
+2022,12,Volvo-S70,11
+2022,12,Volvo-S80,6
+2022,12,Volvo-V40,3
+2022,12,Volvo-V70,0
+2023,1,Acura-Integra,2
+2023,1,Acura-RL,8
+2023,1,Acura-TL,5
+2023,1,Audi-A4,3
+2023,1,Audi-A6,8
+2023,1,Audi-A8,1
+2023,1,BMW-323i,2
+2023,1,BMW-328i,5
+2023,1,BMW-528i,7
+2023,1,Buick-Century,1
+2023,1,Buick-LeSabre,0
+2023,1,Buick-Park Avenue,4
+2023,1,Buick-Regal,2
+2023,1,Cadillac-Catera,3
+2023,1,Cadillac-DeVille,0
+2023,1,Cadillac-Eldorado,2
+2023,1,Cadillac-Escalade,2
+2023,1,Cadillac-Seville,1
+2023,1,Chevrolet-Camaro,2
+2023,1,Chevrolet-Cavalier,1
+2023,1,Chevrolet-Corvette,3
+2023,1,Chevrolet-Impala,3
+2023,1,Chevrolet-Lumina,9
+2023,1,Chevrolet-Malibu,5
+2023,1,Chevrolet-Metro,13
+2023,1,Chevrolet-Monte Carlo,1
+2023,1,Chevrolet-Prizm,6
+2023,1,Chrysler-300M,6
+2023,1,Chrysler-Cirrus,1
+2023,1,Chrysler-Concorde,3
+2023,1,Chrysler-LHS,6
+2023,1,Chrysler-Sebring Conv.,0
+2023,1,Chrysler-Sebring Coupe,5
+2023,1,Chrysler-Town & Country,0
+2023,1,Dodge-Avenger,2
+2023,1,Dodge-Caravan,3
+2023,1,Dodge-Dakota,0
+2023,1,Dodge-Durango,8
+2023,1,Dodge-Intrepid,0
+2023,1,Dodge-Neon,0
+2023,1,Dodge-Ram Pickup,9
+2023,1,Dodge-Ram Van,5
+2023,1,Dodge-Ram Wagon,4
+2023,1,Dodge-Stratus,2
+2023,1,Dodge-Viper,2
+2023,1,Ford-Contour,0
+2023,1,Ford-Crown Victoria,0
+2023,1,Ford-Escort,2
+2023,1,Ford-Expedition,7
+2023,1,Ford-Explorer,5
+2023,1,Ford-F-Series,2
+2023,1,Ford-Focus,2
+2023,1,Ford-Mustang,3
+2023,1,Ford-Ranger,4
+2023,1,Ford-Taurus,1
+2023,1,Ford-Windstar,2
+2023,1,Honda-Accord,4
+2023,1,Honda-CR-V,1
+2023,1,Honda-Civic,4
+2023,1,Honda-Odyssey,0
+2023,1,Honda-Passport,4
+2023,1,Hyundai-Accent,0
+2023,1,Hyundai-Elantra,0
+2023,1,Hyundai-Sonata,4
+2023,1,Infiniti-I30,3
+2023,1,Jaguar-S-Type,2
+2023,1,Jeep-Cherokee,0
+2023,1,Jeep-Grand Cherokee,4
+2023,1,Jeep-Wrangler,1
+2023,1,Lexus-ES300,1
+2023,1,Lexus-GS300,1
+2023,1,Lexus-GS400,7
+2023,1,Lexus-LS400,4
+2023,1,Lexus-LX470,2
+2023,1,Lexus-RX300,0
+2023,1,Lincoln-Continental,6
+2023,1,Lincoln-Navigator,3
+2023,1,Lincoln-Town car,0
+2023,1,Mercedes-B-C-Class,1
+2023,1,Mercedes-B-CL500,4
+2023,1,Mercedes-B-CLK Coupe,3
+2023,1,Mercedes-B-E-Class,2
+2023,1,Mercedes-B-M-Class,2
+2023,1,Mercedes-B-S-Class,1
+2023,1,Mercedes-B-SL-Class,4
+2023,1,Mercedes-B-SLK,8
+2023,1,Mercedes-B-SLK230,1
+2023,1,Mercury-Cougar,4
+2023,1,Mercury-Grand Marquis,9
+2023,1,Mercury-Mountaineer,5
+2023,1,Mercury-Mystique,1
+2023,1,Mercury-Sable,2
+2023,1,Mercury-Villager,5
+2023,1,Mitsubishi-3000GT,8
+2023,1,Mitsubishi-Diamante,9
+2023,1,Mitsubishi-Eclipse,3
+2023,1,Mitsubishi-Galant,1
+2023,1,Mitsubishi-Mirage,2
+2023,1,Mitsubishi-Montero,3
+2023,1,Mitsubishi-Montero Sport,5
+2023,1,Nissan-Altima,1
+2023,1,Nissan-Frontier,6
+2023,1,Nissan-Maxima,1
+2023,1,Nissan-Pathfinder,7
+2023,1,Nissan-Quest,2
+2023,1,Nissan-Sentra,1
+2023,1,Nissan-Xterra,1
+2023,1,Oldsmobile-Alero,1
+2023,1,Oldsmobile-Aurora,1
+2023,1,Oldsmobile-Bravada,4
+2023,1,Oldsmobile-Cutlass,0
+2023,1,Oldsmobile-Intrigue,2
+2023,1,Oldsmobile-Silhouette,14
+2023,1,Plymouth-Breeze,1
+2023,1,Plymouth-Neon,3
+2023,1,Plymouth-Prowler,2
+2023,1,Plymouth-Voyager,0
+2023,1,Pontiac-Bonneville,3
+2023,1,Pontiac-Firebird,1
+2023,1,Pontiac-Grand Am,5
+2023,1,Pontiac-Grand Prix,1
+2023,1,Pontiac-Sunfire,6
+2023,1,Porsche-Boxter,2
+2023,1,Porsche-Carrera Cabrio,0
+2023,1,Porsche-Carrera Coupe,4
+2023,1,Saab-3-Sep,6
+2023,1,Saab-5-Sep,0
+2023,1,Saturn-LS,5
+2023,1,Saturn-LW,5
+2023,1,Saturn-SC,3
+2023,1,Saturn-SL,0
+2023,1,Saturn-SW,0
+2023,1,Subaru-Forester,6
+2023,1,Subaru-Outback,2
+2023,1,Toyota-4Runner,3
+2023,1,Toyota-Avalon,0
+2023,1,Toyota-Camry,2
+2023,1,Toyota-Celica,4
+2023,1,Toyota-Corolla,2
+2023,1,Toyota-Land Cruiser,2
+2023,1,Toyota-RAV4,2
+2023,1,Toyota-Sienna,2
+2023,1,Toyota-Tacoma,3
+2023,1,Volkswagen-Beetle,2
+2023,1,Volkswagen-Cabrio,2
+2023,1,Volkswagen-GTI,3
+2023,1,Volkswagen-Golf,1
+2023,1,Volkswagen-Jetta,4
+2023,1,Volkswagen-Passat,8
+2023,1,Volvo-C70,7
+2023,1,Volvo-S40,8
+2023,1,Volvo-S70,3
+2023,1,Volvo-S80,1
+2023,1,Volvo-V40,2
+2023,1,Volvo-V70,1
+2023,2,Acura-Integra,1
+2023,2,Acura-RL,6
+2023,2,Acura-TL,5
+2023,2,Audi-A4,1
+2023,2,Audi-A6,6
+2023,2,Audi-A8,1
+2023,2,BMW-323i,4
+2023,2,BMW-328i,2
+2023,2,BMW-528i,6
+2023,2,Buick-Century,2
+2023,2,Buick-LeSabre,0
+2023,2,Buick-Park Avenue,3
+2023,2,Buick-Regal,8
+2023,2,Cadillac-Catera,2
+2023,2,Cadillac-DeVille,2
+2023,2,Cadillac-Eldorado,6
+2023,2,Cadillac-Escalade,4
+2023,2,Cadillac-Seville,1
+2023,2,Chevrolet-Camaro,4
+2023,2,Chevrolet-Cavalier,3
+2023,2,Chevrolet-Corvette,5
+2023,2,Chevrolet-Impala,1
+2023,2,Chevrolet-Lumina,4
+2023,2,Chevrolet-Malibu,7
+2023,2,Chevrolet-Metro,6
+2023,2,Chevrolet-Monte Carlo,2
+2023,2,Chevrolet-Prizm,11
+2023,2,Chrysler-300M,3
+2023,2,Chrysler-Cirrus,1
+2023,2,Chrysler-Concorde,3
+2023,2,Chrysler-LHS,5
+2023,2,Chrysler-Sebring Conv.,0
+2023,2,Chrysler-Sebring Coupe,4
+2023,2,Chrysler-Town & Country,0
+2023,2,Dodge-Avenger,1
+2023,2,Dodge-Caravan,3
+2023,2,Dodge-Dakota,2
+2023,2,Dodge-Durango,6
+2023,2,Dodge-Intrepid,2
+2023,2,Dodge-Neon,0
+2023,2,Dodge-Ram Pickup,7
+2023,2,Dodge-Ram Van,3
+2023,2,Dodge-Ram Wagon,2
+2023,2,Dodge-Stratus,3
+2023,2,Dodge-Viper,6
+2023,2,Ford-Contour,1
+2023,2,Ford-Crown Victoria,1
+2023,2,Ford-Escort,1
+2023,2,Ford-Expedition,2
+2023,2,Ford-Explorer,5
+2023,2,Ford-F-Series,0
+2023,2,Ford-Focus,4
+2023,2,Ford-Mustang,4
+2023,2,Ford-Ranger,1
+2023,2,Ford-Taurus,5
+2023,2,Ford-Windstar,0
+2023,2,Honda-Accord,4
+2023,2,Honda-CR-V,2
+2023,2,Honda-Civic,1
+2023,2,Honda-Odyssey,2
+2023,2,Honda-Passport,2
+2023,2,Hyundai-Accent,0
+2023,2,Hyundai-Elantra,0
+2023,2,Hyundai-Sonata,3
+2023,2,Infiniti-I30,2
+2023,2,Jaguar-S-Type,3
+2023,2,Jeep-Cherokee,1
+2023,2,Jeep-Grand Cherokee,3
+2023,2,Jeep-Wrangler,3
+2023,2,Lexus-ES300,1
+2023,2,Lexus-GS300,0
+2023,2,Lexus-GS400,3
+2023,2,Lexus-LS400,5
+2023,2,Lexus-LX470,1
+2023,2,Lexus-RX300,0
+2023,2,Lincoln-Continental,6
+2023,2,Lincoln-Navigator,1
+2023,2,Lincoln-Town car,1
+2023,2,Mercedes-B-C-Class,1
+2023,2,Mercedes-B-CL500,2
+2023,2,Mercedes-B-CLK Coupe,0
+2023,2,Mercedes-B-E-Class,3
+2023,2,Mercedes-B-M-Class,0
+2023,2,Mercedes-B-S-Class,5
+2023,2,Mercedes-B-SL-Class,3
+2023,2,Mercedes-B-SLK,5
+2023,2,Mercedes-B-SLK230,1
+2023,2,Mercury-Cougar,3
+2023,2,Mercury-Grand Marquis,6
+2023,2,Mercury-Mountaineer,0
+2023,2,Mercury-Mystique,0
+2023,2,Mercury-Sable,3
+2023,2,Mercury-Villager,0
+2023,2,Mitsubishi-3000GT,5
+2023,2,Mitsubishi-Diamante,8
+2023,2,Mitsubishi-Eclipse,3
+2023,2,Mitsubishi-Galant,2
+2023,2,Mitsubishi-Mirage,0
+2023,2,Mitsubishi-Montero,0
+2023,2,Mitsubishi-Montero Sport,1
+2023,2,Nissan-Altima,5
+2023,2,Nissan-Frontier,1
+2023,2,Nissan-Maxima,3
+2023,2,Nissan-Pathfinder,2
+2023,2,Nissan-Quest,4
+2023,2,Nissan-Sentra,0
+2023,2,Nissan-Xterra,1
+2023,2,Oldsmobile-Alero,0
+2023,2,Oldsmobile-Aurora,2
+2023,2,Oldsmobile-Bravada,3
+2023,2,Oldsmobile-Cutlass,1
+2023,2,Oldsmobile-Intrigue,4
+2023,2,Oldsmobile-Silhouette,10
+2023,2,Plymouth-Breeze,2
+2023,2,Plymouth-Neon,1
+2023,2,Plymouth-Prowler,0
+2023,2,Plymouth-Voyager,1
+2023,2,Pontiac-Bonneville,4
+2023,2,Pontiac-Firebird,0
+2023,2,Pontiac-Grand Am,4
+2023,2,Pontiac-Grand Prix,0
+2023,2,Pontiac-Sunfire,6
+2023,2,Porsche-Boxter,2
+2023,2,Porsche-Carrera Cabrio,1
+2023,2,Porsche-Carrera Coupe,2
+2023,2,Saab-3-Sep,2
+2023,2,Saab-5-Sep,0
+2023,2,Saturn-LS,3
+2023,2,Saturn-LW,4
+2023,2,Saturn-SC,4
+2023,2,Saturn-SL,2
+2023,2,Saturn-SW,1
+2023,2,Subaru-Forester,4
+2023,2,Subaru-Outback,4
+2023,2,Toyota-4Runner,1
+2023,2,Toyota-Avalon,0
+2023,2,Toyota-Camry,2
+2023,2,Toyota-Celica,7
+2023,2,Toyota-Corolla,0
+2023,2,Toyota-Land Cruiser,1
+2023,2,Toyota-RAV4,5
+2023,2,Toyota-Sienna,3
+2023,2,Toyota-Tacoma,3
+2023,2,Volkswagen-Beetle,2
+2023,2,Volkswagen-Cabrio,0
+2023,2,Volkswagen-GTI,3
+2023,2,Volkswagen-Golf,4
+2023,2,Volkswagen-Jetta,3
+2023,2,Volkswagen-Passat,6
+2023,2,Volvo-C70,5
+2023,2,Volvo-S40,6
+2023,2,Volvo-S70,2
+2023,2,Volvo-S80,4
+2023,2,Volvo-V40,0
+2023,2,Volvo-V70,2
+2023,3,Acura-Integra,1
+2023,3,Acura-RL,15
+2023,3,Acura-TL,6
+2023,3,Audi-A4,6
+2023,3,Audi-A6,7
+2023,3,Audi-A8,1
+2023,3,BMW-323i,11
+2023,3,BMW-328i,9
+2023,3,BMW-528i,16
+2023,3,Buick-Century,1
+2023,3,Buick-LeSabre,2
+2023,3,Buick-Park Avenue,3
+2023,3,Buick-Regal,9
+2023,3,Cadillac-Catera,2
+2023,3,Cadillac-DeVille,8
+2023,3,Cadillac-Eldorado,5
+2023,3,Cadillac-Escalade,8
+2023,3,Cadillac-Seville,5
+2023,3,Chevrolet-Camaro,1
+2023,3,Chevrolet-Cavalier,10
+2023,3,Chevrolet-Corvette,9
+2023,3,Chevrolet-Impala,2
+2023,3,Chevrolet-Lumina,2
+2023,3,Chevrolet-Malibu,9
+2023,3,Chevrolet-Metro,7
+2023,3,Chevrolet-Monte Carlo,8
+2023,3,Chevrolet-Prizm,8
+2023,3,Chrysler-300M,7
+2023,3,Chrysler-Cirrus,0
+2023,3,Chrysler-Concorde,5
+2023,3,Chrysler-LHS,17
+2023,3,Chrysler-Sebring Conv.,0
+2023,3,Chrysler-Sebring Coupe,9
+2023,3,Chrysler-Town & Country,0
+2023,3,Dodge-Avenger,2
+2023,3,Dodge-Caravan,5
+2023,3,Dodge-Dakota,3
+2023,3,Dodge-Durango,6
+2023,3,Dodge-Intrepid,2
+2023,3,Dodge-Neon,1
+2023,3,Dodge-Ram Pickup,6
+2023,3,Dodge-Ram Van,5
+2023,3,Dodge-Ram Wagon,3
+2023,3,Dodge-Stratus,6
+2023,3,Dodge-Viper,10
+2023,3,Ford-Contour,0
+2023,3,Ford-Crown Victoria,9
+2023,3,Ford-Escort,3
+2023,3,Ford-Expedition,9
+2023,3,Ford-Explorer,9
+2023,3,Ford-F-Series,3
+2023,3,Ford-Focus,5
+2023,3,Ford-Mustang,12
+2023,3,Ford-Ranger,4
+2023,3,Ford-Taurus,8
+2023,3,Ford-Windstar,5
+2023,3,Honda-Accord,9
+2023,3,Honda-CR-V,6
+2023,3,Honda-Civic,3
+2023,3,Honda-Odyssey,3
+2023,3,Honda-Passport,3
+2023,3,Hyundai-Accent,1
+2023,3,Hyundai-Elantra,2
+2023,3,Hyundai-Sonata,4
+2023,3,Infiniti-I30,15
+2023,3,Jaguar-S-Type,7
+2023,3,Jeep-Cherokee,4
+2023,3,Jeep-Grand Cherokee,6
+2023,3,Jeep-Wrangler,7
+2023,3,Lexus-ES300,2
+2023,3,Lexus-GS300,2
+2023,3,Lexus-GS400,5
+2023,3,Lexus-LS400,19
+2023,3,Lexus-LX470,2
+2023,3,Lexus-RX300,1
+2023,3,Lincoln-Continental,6
+2023,3,Lincoln-Navigator,1
+2023,3,Lincoln-Town car,2
+2023,3,Mercedes-B-C-Class,6
+2023,3,Mercedes-B-CL500,6
+2023,3,Mercedes-B-CLK Coupe,1
+2023,3,Mercedes-B-E-Class,4
+2023,3,Mercedes-B-M-Class,5
+2023,3,Mercedes-B-S-Class,8
+2023,3,Mercedes-B-SL-Class,7
+2023,3,Mercedes-B-SLK,10
+2023,3,Mercedes-B-SLK230,5
+2023,3,Mercury-Cougar,7
+2023,3,Mercury-Grand Marquis,11
+2023,3,Mercury-Mountaineer,1
+2023,3,Mercury-Mystique,0
+2023,3,Mercury-Sable,9
+2023,3,Mercury-Villager,4
+2023,3,Mitsubishi-3000GT,8
+2023,3,Mitsubishi-Diamante,17
+2023,3,Mitsubishi-Eclipse,5
+2023,3,Mitsubishi-Galant,2
+2023,3,Mitsubishi-Mirage,3
+2023,3,Mitsubishi-Montero,2
+2023,3,Mitsubishi-Montero Sport,9
+2023,3,Nissan-Altima,4
+2023,3,Nissan-Frontier,6
+2023,3,Nissan-Maxima,3
+2023,3,Nissan-Pathfinder,8
+2023,3,Nissan-Quest,2
+2023,3,Nissan-Sentra,2
+2023,3,Nissan-Xterra,7
+2023,3,Oldsmobile-Alero,0
+2023,3,Oldsmobile-Aurora,5
+2023,3,Oldsmobile-Bravada,6
+2023,3,Oldsmobile-Cutlass,6
+2023,3,Oldsmobile-Intrigue,5
+2023,3,Oldsmobile-Silhouette,9
+2023,3,Plymouth-Breeze,4
+2023,3,Plymouth-Neon,4
+2023,3,Plymouth-Prowler,5
+2023,3,Plymouth-Voyager,4
+2023,3,Pontiac-Bonneville,15
+2023,3,Pontiac-Firebird,2
+2023,3,Pontiac-Grand Am,2
+2023,3,Pontiac-Grand Prix,3
+2023,3,Pontiac-Sunfire,9
+2023,3,Porsche-Boxter,1
+2023,3,Porsche-Carrera Cabrio,7
+2023,3,Porsche-Carrera Coupe,4
+2023,3,Saab-3-Sep,2
+2023,3,Saab-5-Sep,3
+2023,3,Saturn-LS,3
+2023,3,Saturn-LW,6
+2023,3,Saturn-SC,4
+2023,3,Saturn-SL,2
+2023,3,Saturn-SW,4
+2023,3,Subaru-Forester,9
+2023,3,Subaru-Outback,5
+2023,3,Toyota-4Runner,2
+2023,3,Toyota-Avalon,2
+2023,3,Toyota-Camry,3
+2023,3,Toyota-Celica,3
+2023,3,Toyota-Corolla,3
+2023,3,Toyota-Land Cruiser,1
+2023,3,Toyota-RAV4,3
+2023,3,Toyota-Sienna,6
+2023,3,Toyota-Tacoma,5
+2023,3,Volkswagen-Beetle,5
+2023,3,Volkswagen-Cabrio,5
+2023,3,Volkswagen-GTI,5
+2023,3,Volkswagen-Golf,7
+2023,3,Volkswagen-Jetta,11
+2023,3,Volkswagen-Passat,14
+2023,3,Volvo-C70,8
+2023,3,Volvo-S40,10
+2023,3,Volvo-S70,7
+2023,3,Volvo-S80,2
+2023,3,Volvo-V40,1
+2023,3,Volvo-V70,1
+2023,4,Acura-Integra,1
+2023,4,Acura-RL,12
+2023,4,Acura-TL,7
+2023,4,Audi-A4,4
+2023,4,Audi-A6,13
+2023,4,Audi-A8,0
+2023,4,BMW-323i,6
+2023,4,BMW-328i,11
+2023,4,BMW-528i,12
+2023,4,Buick-Century,1
+2023,4,Buick-LeSabre,1
+2023,4,Buick-Park Avenue,8
+2023,4,Buick-Regal,4
+2023,4,Cadillac-Catera,4
+2023,4,Cadillac-DeVille,3
+2023,4,Cadillac-Eldorado,4
+2023,4,Cadillac-Escalade,6
+2023,4,Cadillac-Seville,1
+2023,4,Chevrolet-Camaro,6
+2023,4,Chevrolet-Cavalier,4
+2023,4,Chevrolet-Corvette,8
+2023,4,Chevrolet-Impala,3
+2023,4,Chevrolet-Lumina,6
+2023,4,Chevrolet-Malibu,7
+2023,4,Chevrolet-Metro,9
+2023,4,Chevrolet-Monte Carlo,10
+2023,4,Chevrolet-Prizm,19
+2023,4,Chrysler-300M,3
+2023,4,Chrysler-Cirrus,4
+2023,4,Chrysler-Concorde,5
+2023,4,Chrysler-LHS,14
+2023,4,Chrysler-Sebring Conv.,0
+2023,4,Chrysler-Sebring Coupe,8
+2023,4,Chrysler-Town & Country,0
+2023,4,Dodge-Avenger,3
+2023,4,Dodge-Caravan,4
+2023,4,Dodge-Dakota,3
+2023,4,Dodge-Durango,10
+2023,4,Dodge-Intrepid,3
+2023,4,Dodge-Neon,1
+2023,4,Dodge-Ram Pickup,13
+2023,4,Dodge-Ram Van,9
+2023,4,Dodge-Ram Wagon,4
+2023,4,Dodge-Stratus,3
+2023,4,Dodge-Viper,13
+2023,4,Ford-Contour,2
+2023,4,Ford-Crown Victoria,3
+2023,4,Ford-Escort,5
+2023,4,Ford-Expedition,6
+2023,4,Ford-Explorer,5
+2023,4,Ford-F-Series,6
+2023,4,Ford-Focus,2
+2023,4,Ford-Mustang,7
+2023,4,Ford-Ranger,3
+2023,4,Ford-Taurus,8
+2023,4,Ford-Windstar,2
+2023,4,Honda-Accord,11
+2023,4,Honda-CR-V,10
+2023,4,Honda-Civic,2
+2023,4,Honda-Odyssey,0
+2023,4,Honda-Passport,8
+2023,4,Hyundai-Accent,2
+2023,4,Hyundai-Elantra,2
+2023,4,Hyundai-Sonata,6
+2023,4,Infiniti-I30,7
+2023,4,Jaguar-S-Type,9
+2023,4,Jeep-Cherokee,3
+2023,4,Jeep-Grand Cherokee,3
+2023,4,Jeep-Wrangler,9
+2023,4,Lexus-ES300,4
+2023,4,Lexus-GS300,1
+2023,4,Lexus-GS400,6
+2023,4,Lexus-LS400,10
+2023,4,Lexus-LX470,4
+2023,4,Lexus-RX300,1
+2023,4,Lincoln-Continental,12
+2023,4,Lincoln-Navigator,2
+2023,4,Lincoln-Town car,8
+2023,4,Mercedes-B-C-Class,4
+2023,4,Mercedes-B-CL500,6
+2023,4,Mercedes-B-CLK Coupe,2
+2023,4,Mercedes-B-E-Class,2
+2023,4,Mercedes-B-M-Class,2
+2023,4,Mercedes-B-S-Class,11
+2023,4,Mercedes-B-SL-Class,7
+2023,4,Mercedes-B-SLK,6
+2023,4,Mercedes-B-SLK230,2
+2023,4,Mercury-Cougar,8
+2023,4,Mercury-Grand Marquis,4
+2023,4,Mercury-Mountaineer,4
+2023,4,Mercury-Mystique,1
+2023,4,Mercury-Sable,6
+2023,4,Mercury-Villager,5
+2023,4,Mitsubishi-3000GT,6
+2023,4,Mitsubishi-Diamante,11
+2023,4,Mitsubishi-Eclipse,5
+2023,4,Mitsubishi-Galant,3
+2023,4,Mitsubishi-Mirage,0
+2023,4,Mitsubishi-Montero,3
+2023,4,Mitsubishi-Montero Sport,8
+2023,4,Nissan-Altima,3
+2023,4,Nissan-Frontier,9
+2023,4,Nissan-Maxima,2
+2023,4,Nissan-Pathfinder,2
+2023,4,Nissan-Quest,5
+2023,4,Nissan-Sentra,2
+2023,4,Nissan-Xterra,2
+2023,4,Oldsmobile-Alero,1
+2023,4,Oldsmobile-Aurora,6
+2023,4,Oldsmobile-Bravada,9
+2023,4,Oldsmobile-Cutlass,9
+2023,4,Oldsmobile-Intrigue,6
+2023,4,Oldsmobile-Silhouette,17
+2023,4,Plymouth-Breeze,6
+2023,4,Plymouth-Neon,6
+2023,4,Plymouth-Prowler,3
+2023,4,Plymouth-Voyager,12
+2023,4,Pontiac-Bonneville,6
+2023,4,Pontiac-Firebird,6
+2023,4,Pontiac-Grand Am,9
+2023,4,Pontiac-Grand Prix,6
+2023,4,Pontiac-Sunfire,6
+2023,4,Porsche-Boxter,3
+2023,4,Porsche-Carrera Cabrio,6
+2023,4,Porsche-Carrera Coupe,5
+2023,4,Saab-3-Sep,6
+2023,4,Saab-5-Sep,0
+2023,4,Saturn-LS,4
+2023,4,Saturn-LW,5
+2023,4,Saturn-SC,9
+2023,4,Saturn-SL,2
+2023,4,Saturn-SW,1
+2023,4,Subaru-Forester,9
+2023,4,Subaru-Outback,5
+2023,4,Toyota-4Runner,2
+2023,4,Toyota-Avalon,0
+2023,4,Toyota-Camry,2
+2023,4,Toyota-Celica,4
+2023,4,Toyota-Corolla,5
+2023,4,Toyota-Land Cruiser,2
+2023,4,Toyota-RAV4,9
+2023,4,Toyota-Sienna,3
+2023,4,Toyota-Tacoma,5
+2023,4,Volkswagen-Beetle,3
+2023,4,Volkswagen-Cabrio,2
+2023,4,Volkswagen-GTI,8
+2023,4,Volkswagen-Golf,5
+2023,4,Volkswagen-Jetta,21
+2023,4,Volkswagen-Passat,14
+2023,4,Volvo-C70,10
+2023,4,Volvo-S40,16
+2023,4,Volvo-S70,6
+2023,4,Volvo-S80,3
+2023,4,Volvo-V40,0
+2023,4,Volvo-V70,2
+2023,5,Acura-Integra,3
+2023,5,Acura-RL,12
+2023,5,Acura-TL,12
+2023,5,Audi-A4,8
+2023,5,Audi-A6,17
+2023,5,Audi-A8,1
+2023,5,BMW-323i,9
+2023,5,BMW-328i,11
+2023,5,BMW-528i,20
+2023,5,Buick-Century,1
+2023,5,Buick-LeSabre,3
+2023,5,Buick-Park Avenue,10
+2023,5,Buick-Regal,11
+2023,5,Cadillac-Catera,4
+2023,5,Cadillac-DeVille,3
+2023,5,Cadillac-Eldorado,20
+2023,5,Cadillac-Escalade,5
+2023,5,Cadillac-Seville,0
+2023,5,Chevrolet-Camaro,7
+2023,5,Chevrolet-Cavalier,11
+2023,5,Chevrolet-Corvette,13
+2023,5,Chevrolet-Impala,5
+2023,5,Chevrolet-Lumina,8
+2023,5,Chevrolet-Malibu,10
+2023,5,Chevrolet-Metro,12
+2023,5,Chevrolet-Monte Carlo,13
+2023,5,Chevrolet-Prizm,18
+2023,5,Chrysler-300M,13
+2023,5,Chrysler-Cirrus,2
+2023,5,Chrysler-Concorde,15
+2023,5,Chrysler-LHS,19
+2023,5,Chrysler-Sebring Conv.,0
+2023,5,Chrysler-Sebring Coupe,11
+2023,5,Chrysler-Town & Country,0
+2023,5,Dodge-Avenger,8
+2023,5,Dodge-Caravan,10
+2023,5,Dodge-Dakota,4
+2023,5,Dodge-Durango,11
+2023,5,Dodge-Intrepid,6
+2023,5,Dodge-Neon,1
+2023,5,Dodge-Ram Pickup,20
+2023,5,Dodge-Ram Van,12
+2023,5,Dodge-Ram Wagon,3
+2023,5,Dodge-Stratus,3
+2023,5,Dodge-Viper,17
+2023,5,Ford-Contour,5
+2023,5,Ford-Crown Victoria,9
+2023,5,Ford-Escort,2
+2023,5,Ford-Expedition,8
+2023,5,Ford-Explorer,8
+2023,5,Ford-F-Series,7
+2023,5,Ford-Focus,9
+2023,5,Ford-Mustang,5
+2023,5,Ford-Ranger,5
+2023,5,Ford-Taurus,8
+2023,5,Ford-Windstar,2
+2023,5,Honda-Accord,13
+2023,5,Honda-CR-V,2
+2023,5,Honda-Civic,4
+2023,5,Honda-Odyssey,2
+2023,5,Honda-Passport,10
+2023,5,Hyundai-Accent,1
+2023,5,Hyundai-Elantra,0
+2023,5,Hyundai-Sonata,2
+2023,5,Infiniti-I30,12
+2023,5,Jaguar-S-Type,14
+2023,5,Jeep-Cherokee,4
+2023,5,Jeep-Grand Cherokee,5
+2023,5,Jeep-Wrangler,5
+2023,5,Lexus-ES300,5
+2023,5,Lexus-GS300,3
+2023,5,Lexus-GS400,6
+2023,5,Lexus-LS400,15
+2023,5,Lexus-LX470,4
+2023,5,Lexus-RX300,2
+2023,5,Lincoln-Continental,8
+2023,5,Lincoln-Navigator,3
+2023,5,Lincoln-Town car,5
+2023,5,Mercedes-B-C-Class,7
+2023,5,Mercedes-B-CL500,8
+2023,5,Mercedes-B-CLK Coupe,3
+2023,5,Mercedes-B-E-Class,5
+2023,5,Mercedes-B-M-Class,3
+2023,5,Mercedes-B-S-Class,9
+2023,5,Mercedes-B-SL-Class,8
+2023,5,Mercedes-B-SLK,15
+2023,5,Mercedes-B-SLK230,10
+2023,5,Mercury-Cougar,8
+2023,5,Mercury-Grand Marquis,15
+2023,5,Mercury-Mountaineer,3
+2023,5,Mercury-Mystique,0
+2023,5,Mercury-Sable,7
+2023,5,Mercury-Villager,7
+2023,5,Mitsubishi-3000GT,17
+2023,5,Mitsubishi-Diamante,15
+2023,5,Mitsubishi-Eclipse,2
+2023,5,Mitsubishi-Galant,4
+2023,5,Mitsubishi-Mirage,1
+2023,5,Mitsubishi-Montero,2
+2023,5,Mitsubishi-Montero Sport,14
+2023,5,Nissan-Altima,5
+2023,5,Nissan-Frontier,4
+2023,5,Nissan-Maxima,9
+2023,5,Nissan-Pathfinder,17
+2023,5,Nissan-Quest,8
+2023,5,Nissan-Sentra,0
+2023,5,Nissan-Xterra,2
+2023,5,Oldsmobile-Alero,1
+2023,5,Oldsmobile-Aurora,9
+2023,5,Oldsmobile-Bravada,10
+2023,5,Oldsmobile-Cutlass,8
+2023,5,Oldsmobile-Intrigue,9
+2023,5,Oldsmobile-Silhouette,17
+2023,5,Plymouth-Breeze,5
+2023,5,Plymouth-Neon,4
+2023,5,Plymouth-Prowler,5
+2023,5,Plymouth-Voyager,9
+2023,5,Pontiac-Bonneville,7
+2023,5,Pontiac-Firebird,0
+2023,5,Pontiac-Grand Am,7
+2023,5,Pontiac-Grand Prix,6
+2023,5,Pontiac-Sunfire,12
+2023,5,Porsche-Boxter,7
+2023,5,Porsche-Carrera Cabrio,7
+2023,5,Porsche-Carrera Coupe,4
+2023,5,Saab-3-Sep,6
+2023,5,Saab-5-Sep,3
+2023,5,Saturn-LS,6
+2023,5,Saturn-LW,11
+2023,5,Saturn-SC,5
+2023,5,Saturn-SL,3
+2023,5,Saturn-SW,3
+2023,5,Subaru-Forester,14
+2023,5,Subaru-Outback,4
+2023,5,Toyota-4Runner,2
+2023,5,Toyota-Avalon,0
+2023,5,Toyota-Camry,5
+2023,5,Toyota-Celica,10
+2023,5,Toyota-Corolla,5
+2023,5,Toyota-Land Cruiser,5
+2023,5,Toyota-RAV4,8
+2023,5,Toyota-Sienna,11
+2023,5,Toyota-Tacoma,9
+2023,5,Volkswagen-Beetle,4
+2023,5,Volkswagen-Cabrio,11
+2023,5,Volkswagen-GTI,4
+2023,5,Volkswagen-Golf,5
+2023,5,Volkswagen-Jetta,13
+2023,5,Volkswagen-Passat,21
+2023,5,Volvo-C70,13
+2023,5,Volvo-S40,18
+2023,5,Volvo-S70,2
+2023,5,Volvo-S80,6
+2023,5,Volvo-V40,0
+2023,5,Volvo-V70,8
+2023,6,Acura-Integra,3
+2023,6,Acura-RL,11
+2023,6,Acura-TL,10
+2023,6,Audi-A4,7
+2023,6,Audi-A6,14
+2023,6,Audi-A8,2
+2023,6,BMW-323i,11
+2023,6,BMW-328i,9
+2023,6,BMW-528i,11
+2023,6,Buick-Century,3
+2023,6,Buick-LeSabre,3
+2023,6,Buick-Park Avenue,9
+2023,6,Buick-Regal,6
+2023,6,Cadillac-Catera,5
+2023,6,Cadillac-DeVille,3
+2023,6,Cadillac-Eldorado,14
+2023,6,Cadillac-Escalade,6
+2023,6,Cadillac-Seville,3
+2023,6,Chevrolet-Camaro,2
+2023,6,Chevrolet-Cavalier,10
+2023,6,Chevrolet-Corvette,9
+2023,6,Chevrolet-Impala,4
+2023,6,Chevrolet-Lumina,7
+2023,6,Chevrolet-Malibu,8
+2023,6,Chevrolet-Metro,8
+2023,6,Chevrolet-Monte Carlo,6
+2023,6,Chevrolet-Prizm,17
+2023,6,Chrysler-300M,11
+2023,6,Chrysler-Cirrus,2
+2023,6,Chrysler-Concorde,7
+2023,6,Chrysler-LHS,12
+2023,6,Chrysler-Sebring Conv.,0
+2023,6,Chrysler-Sebring Coupe,9
+2023,6,Chrysler-Town & Country,2
+2023,6,Dodge-Avenger,6
+2023,6,Dodge-Caravan,5
+2023,6,Dodge-Dakota,3
+2023,6,Dodge-Durango,11
+2023,6,Dodge-Intrepid,4
+2023,6,Dodge-Neon,0
+2023,6,Dodge-Ram Pickup,17
+2023,6,Dodge-Ram Van,4
+2023,6,Dodge-Ram Wagon,4
+2023,6,Dodge-Stratus,3
+2023,6,Dodge-Viper,12
+2023,6,Ford-Contour,4
+2023,6,Ford-Crown Victoria,8
+2023,6,Ford-Escort,1
+2023,6,Ford-Expedition,10
+2023,6,Ford-Explorer,11
+2023,6,Ford-F-Series,6
+2023,6,Ford-Focus,6
+2023,6,Ford-Mustang,6
+2023,6,Ford-Ranger,5
+2023,6,Ford-Taurus,6
+2023,6,Ford-Windstar,10
+2023,6,Honda-Accord,7
+2023,6,Honda-CR-V,17
+2023,6,Honda-Civic,6
+2023,6,Honda-Odyssey,2
+2023,6,Honda-Passport,6
+2023,6,Hyundai-Accent,1
+2023,6,Hyundai-Elantra,5
+2023,6,Hyundai-Sonata,6
+2023,6,Infiniti-I30,11
+2023,6,Jaguar-S-Type,6
+2023,6,Jeep-Cherokee,5
+2023,6,Jeep-Grand Cherokee,6
+2023,6,Jeep-Wrangler,6
+2023,6,Lexus-ES300,4
+2023,6,Lexus-GS300,2
+2023,6,Lexus-GS400,7
+2023,6,Lexus-LS400,17
+2023,6,Lexus-LX470,2
+2023,6,Lexus-RX300,0
+2023,6,Lincoln-Continental,6
+2023,6,Lincoln-Navigator,7
+2023,6,Lincoln-Town car,8
+2023,6,Mercedes-B-C-Class,8
+2023,6,Mercedes-B-CL500,8
+2023,6,Mercedes-B-CLK Coupe,0
+2023,6,Mercedes-B-E-Class,3
+2023,6,Mercedes-B-M-Class,5
+2023,6,Mercedes-B-S-Class,11
+2023,6,Mercedes-B-SL-Class,10
+2023,6,Mercedes-B-SLK,5
+2023,6,Mercedes-B-SLK230,8
+2023,6,Mercury-Cougar,9
+2023,6,Mercury-Grand Marquis,10
+2023,6,Mercury-Mountaineer,0
+2023,6,Mercury-Mystique,2
+2023,6,Mercury-Sable,8
+2023,6,Mercury-Villager,5
+2023,6,Mitsubishi-3000GT,11
+2023,6,Mitsubishi-Diamante,22
+2023,6,Mitsubishi-Eclipse,5
+2023,6,Mitsubishi-Galant,3
+2023,6,Mitsubishi-Mirage,0
+2023,6,Mitsubishi-Montero,2
+2023,6,Mitsubishi-Montero Sport,11
+2023,6,Nissan-Altima,2
+2023,6,Nissan-Frontier,9
+2023,6,Nissan-Maxima,5
+2023,6,Nissan-Pathfinder,11
+2023,6,Nissan-Quest,4
+2023,6,Nissan-Sentra,0
+2023,6,Nissan-Xterra,3
+2023,6,Oldsmobile-Alero,1
+2023,6,Oldsmobile-Aurora,3
+2023,6,Oldsmobile-Bravada,11
+2023,6,Oldsmobile-Cutlass,8
+2023,6,Oldsmobile-Intrigue,6
+2023,6,Oldsmobile-Silhouette,16
+2023,6,Plymouth-Breeze,3
+2023,6,Plymouth-Neon,10
+2023,6,Plymouth-Prowler,10
+2023,6,Plymouth-Voyager,17
+2023,6,Pontiac-Bonneville,9
+2023,6,Pontiac-Firebird,6
+2023,6,Pontiac-Grand Am,7
+2023,6,Pontiac-Grand Prix,9
+2023,6,Pontiac-Sunfire,8
+2023,6,Porsche-Boxter,2
+2023,6,Porsche-Carrera Cabrio,3
+2023,6,Porsche-Carrera Coupe,3
+2023,6,Saab-3-Sep,3
+2023,6,Saab-5-Sep,0
+2023,6,Saturn-LS,5
+2023,6,Saturn-LW,8
+2023,6,Saturn-SC,5
+2023,6,Saturn-SL,4
+2023,6,Saturn-SW,5
+2023,6,Subaru-Forester,12
+2023,6,Subaru-Outback,6
+2023,6,Toyota-4Runner,1
+2023,6,Toyota-Avalon,1
+2023,6,Toyota-Camry,5
+2023,6,Toyota-Celica,8
+2023,6,Toyota-Corolla,6
+2023,6,Toyota-Land Cruiser,2
+2023,6,Toyota-RAV4,6
+2023,6,Toyota-Sienna,8
+2023,6,Toyota-Tacoma,10
+2023,6,Volkswagen-Beetle,4
+2023,6,Volkswagen-Cabrio,6
+2023,6,Volkswagen-GTI,8
+2023,6,Volkswagen-Golf,5
+2023,6,Volkswagen-Jetta,17
+2023,6,Volkswagen-Passat,25
+2023,6,Volvo-C70,7
+2023,6,Volvo-S40,13
+2023,6,Volvo-S70,6
+2023,6,Volvo-S80,4
+2023,6,Volvo-V40,0
+2023,6,Volvo-V70,0
+2023,7,Acura-Integra,1
+2023,7,Acura-RL,16
+2023,7,Acura-TL,12
+2023,7,Audi-A4,2
+2023,7,Audi-A6,12
+2023,7,Audi-A8,3
+2023,7,BMW-323i,10
+2023,7,BMW-328i,7
+2023,7,BMW-528i,13
+2023,7,Buick-Century,2
+2023,7,Buick-LeSabre,1
+2023,7,Buick-Park Avenue,10
+2023,7,Buick-Regal,4
+2023,7,Cadillac-Catera,2
+2023,7,Cadillac-DeVille,1
+2023,7,Cadillac-Eldorado,6
+2023,7,Cadillac-Escalade,5
+2023,7,Cadillac-Seville,4
+2023,7,Chevrolet-Camaro,5
+2023,7,Chevrolet-Cavalier,5
+2023,7,Chevrolet-Corvette,9
+2023,7,Chevrolet-Impala,4
+2023,7,Chevrolet-Lumina,9
+2023,7,Chevrolet-Malibu,13
+2023,7,Chevrolet-Metro,11
+2023,7,Chevrolet-Monte Carlo,5
+2023,7,Chevrolet-Prizm,17
+2023,7,Chrysler-300M,11
+2023,7,Chrysler-Cirrus,4
+2023,7,Chrysler-Concorde,16
+2023,7,Chrysler-LHS,18
+2023,7,Chrysler-Sebring Conv.,1
+2023,7,Chrysler-Sebring Coupe,10
+2023,7,Chrysler-Town & Country,3
+2023,7,Dodge-Avenger,4
+2023,7,Dodge-Caravan,8
+2023,7,Dodge-Dakota,2
+2023,7,Dodge-Durango,7
+2023,7,Dodge-Intrepid,2
+2023,7,Dodge-Neon,2
+2023,7,Dodge-Ram Pickup,17
+2023,7,Dodge-Ram Van,10
+2023,7,Dodge-Ram Wagon,4
+2023,7,Dodge-Stratus,1
+2023,7,Dodge-Viper,9
+2023,7,Ford-Contour,9
+2023,7,Ford-Crown Victoria,5
+2023,7,Ford-Escort,5
+2023,7,Ford-Expedition,7
+2023,7,Ford-Explorer,11
+2023,7,Ford-F-Series,4
+2023,7,Ford-Focus,6
+2023,7,Ford-Mustang,7
+2023,7,Ford-Ranger,10
+2023,7,Ford-Taurus,8
+2023,7,Ford-Windstar,3
+2023,7,Honda-Accord,11
+2023,7,Honda-CR-V,4
+2023,7,Honda-Civic,7
+2023,7,Honda-Odyssey,2
+2023,7,Honda-Passport,4
+2023,7,Hyundai-Accent,3
+2023,7,Hyundai-Elantra,1
+2023,7,Hyundai-Sonata,6
+2023,7,Infiniti-I30,10
+2023,7,Jaguar-S-Type,8
+2023,7,Jeep-Cherokee,3
+2023,7,Jeep-Grand Cherokee,4
+2023,7,Jeep-Wrangler,12
+2023,7,Lexus-ES300,3
+2023,7,Lexus-GS300,4
+2023,7,Lexus-GS400,2
+2023,7,Lexus-LS400,14
+2023,7,Lexus-LX470,9
+2023,7,Lexus-RX300,1
+2023,7,Lincoln-Continental,9
+2023,7,Lincoln-Navigator,6
+2023,7,Lincoln-Town car,11
+2023,7,Mercedes-B-C-Class,7
+2023,7,Mercedes-B-CL500,7
+2023,7,Mercedes-B-CLK Coupe,1
+2023,7,Mercedes-B-E-Class,3
+2023,7,Mercedes-B-M-Class,7
+2023,7,Mercedes-B-S-Class,11
+2023,7,Mercedes-B-SL-Class,4
+2023,7,Mercedes-B-SLK,10
+2023,7,Mercedes-B-SLK230,6
+2023,7,Mercury-Cougar,5
+2023,7,Mercury-Grand Marquis,7
+2023,7,Mercury-Mountaineer,6
+2023,7,Mercury-Mystique,3
+2023,7,Mercury-Sable,5
+2023,7,Mercury-Villager,6
+2023,7,Mitsubishi-3000GT,14
+2023,7,Mitsubishi-Diamante,16
+2023,7,Mitsubishi-Eclipse,1
+2023,7,Mitsubishi-Galant,4
+2023,7,Mitsubishi-Mirage,1
+2023,7,Mitsubishi-Montero,3
+2023,7,Mitsubishi-Montero Sport,13
+2023,7,Nissan-Altima,4
+2023,7,Nissan-Frontier,10
+2023,7,Nissan-Maxima,2
+2023,7,Nissan-Pathfinder,13
+2023,7,Nissan-Quest,4
+2023,7,Nissan-Sentra,3
+2023,7,Nissan-Xterra,5
+2023,7,Oldsmobile-Alero,2
+2023,7,Oldsmobile-Aurora,8
+2023,7,Oldsmobile-Bravada,6
+2023,7,Oldsmobile-Cutlass,11
+2023,7,Oldsmobile-Intrigue,6
+2023,7,Oldsmobile-Silhouette,17
+2023,7,Plymouth-Breeze,7
+2023,7,Plymouth-Neon,8
+2023,7,Plymouth-Prowler,10
+2023,7,Plymouth-Voyager,3
+2023,7,Pontiac-Bonneville,3
+2023,7,Pontiac-Firebird,3
+2023,7,Pontiac-Grand Am,7
+2023,7,Pontiac-Grand Prix,5
+2023,7,Pontiac-Sunfire,12
+2023,7,Porsche-Boxter,4
+2023,7,Porsche-Carrera Cabrio,4
+2023,7,Porsche-Carrera Coupe,8
+2023,7,Saab-3-Sep,14
+2023,7,Saab-5-Sep,3
+2023,7,Saturn-LS,7
+2023,7,Saturn-LW,6
+2023,7,Saturn-SC,7
+2023,7,Saturn-SL,1
+2023,7,Saturn-SW,2
+2023,7,Subaru-Forester,12
+2023,7,Subaru-Outback,6
+2023,7,Toyota-4Runner,3
+2023,7,Toyota-Avalon,1
+2023,7,Toyota-Camry,9
+2023,7,Toyota-Celica,6
+2023,7,Toyota-Corolla,4
+2023,7,Toyota-Land Cruiser,6
+2023,7,Toyota-RAV4,5
+2023,7,Toyota-Sienna,5
+2023,7,Toyota-Tacoma,7
+2023,7,Volkswagen-Beetle,5
+2023,7,Volkswagen-Cabrio,9
+2023,7,Volkswagen-GTI,10
+2023,7,Volkswagen-Golf,3
+2023,7,Volkswagen-Jetta,15
+2023,7,Volkswagen-Passat,14
+2023,7,Volvo-C70,6
+2023,7,Volvo-S40,11
+2023,7,Volvo-S70,8
+2023,7,Volvo-S80,4
+2023,7,Volvo-V40,2
+2023,7,Volvo-V70,2
+2023,8,Acura-Integra,4
+2023,8,Acura-RL,12
+2023,8,Acura-TL,11
+2023,8,Audi-A4,0
+2023,8,Audi-A6,12
+2023,8,Audi-A8,1
+2023,8,BMW-323i,9
+2023,8,BMW-328i,8
+2023,8,BMW-528i,6
+2023,8,Buick-Century,3
+2023,8,Buick-LeSabre,1
+2023,8,Buick-Park Avenue,10
+2023,8,Buick-Regal,6
+2023,8,Cadillac-Catera,5
+2023,8,Cadillac-DeVille,1
+2023,8,Cadillac-Eldorado,9
+2023,8,Cadillac-Escalade,5
+2023,8,Cadillac-Seville,9
+2023,8,Chevrolet-Camaro,4
+2023,8,Chevrolet-Cavalier,4
+2023,8,Chevrolet-Corvette,9
+2023,8,Chevrolet-Impala,3
+2023,8,Chevrolet-Lumina,7
+2023,8,Chevrolet-Malibu,9
+2023,8,Chevrolet-Metro,14
+2023,8,Chevrolet-Monte Carlo,5
+2023,8,Chevrolet-Prizm,16
+2023,8,Chrysler-300M,9
+2023,8,Chrysler-Cirrus,1
+2023,8,Chrysler-Concorde,12
+2023,8,Chrysler-LHS,11
+2023,8,Chrysler-Sebring Conv.,0
+2023,8,Chrysler-Sebring Coupe,8
+2023,8,Chrysler-Town & Country,1
+2023,8,Dodge-Avenger,4
+2023,8,Dodge-Caravan,2
+2023,8,Dodge-Dakota,1
+2023,8,Dodge-Durango,11
+2023,8,Dodge-Intrepid,3
+2023,8,Dodge-Neon,1
+2023,8,Dodge-Ram Pickup,22
+2023,8,Dodge-Ram Van,7
+2023,8,Dodge-Ram Wagon,2
+2023,8,Dodge-Stratus,6
+2023,8,Dodge-Viper,4
+2023,8,Ford-Contour,5
+2023,8,Ford-Crown Victoria,6
+2023,8,Ford-Escort,1
+2023,8,Ford-Expedition,7
+2023,8,Ford-Explorer,6
+2023,8,Ford-F-Series,5
+2023,8,Ford-Focus,5
+2023,8,Ford-Mustang,8
+2023,8,Ford-Ranger,2
+2023,8,Ford-Taurus,6
+2023,8,Ford-Windstar,5
+2023,8,Honda-Accord,9
+2023,8,Honda-CR-V,4
+2023,8,Honda-Civic,5
+2023,8,Honda-Odyssey,3
+2023,8,Honda-Passport,4
+2023,8,Hyundai-Accent,1
+2023,8,Hyundai-Elantra,3
+2023,8,Hyundai-Sonata,7
+2023,8,Infiniti-I30,4
+2023,8,Jaguar-S-Type,3
+2023,8,Jeep-Cherokee,2
+2023,8,Jeep-Grand Cherokee,3
+2023,8,Jeep-Wrangler,5
+2023,8,Lexus-ES300,6
+2023,8,Lexus-GS300,2
+2023,8,Lexus-GS400,7
+2023,8,Lexus-LS400,10
+2023,8,Lexus-LX470,1
+2023,8,Lexus-RX300,2
+2023,8,Lincoln-Continental,10
+2023,8,Lincoln-Navigator,9
+2023,8,Lincoln-Town car,9
+2023,8,Mercedes-B-C-Class,7
+2023,8,Mercedes-B-CL500,3
+2023,8,Mercedes-B-CLK Coupe,1
+2023,8,Mercedes-B-E-Class,5
+2023,8,Mercedes-B-M-Class,7
+2023,8,Mercedes-B-S-Class,7
+2023,8,Mercedes-B-SL-Class,4
+2023,8,Mercedes-B-SLK,7
+2023,8,Mercedes-B-SLK230,2
+2023,8,Mercury-Cougar,4
+2023,8,Mercury-Grand Marquis,10
+2023,8,Mercury-Mountaineer,5
+2023,8,Mercury-Mystique,1
+2023,8,Mercury-Sable,6
+2023,8,Mercury-Villager,8
+2023,8,Mitsubishi-3000GT,5
+2023,8,Mitsubishi-Diamante,12
+2023,8,Mitsubishi-Eclipse,9
+2023,8,Mitsubishi-Galant,1
+2023,8,Mitsubishi-Mirage,2
+2023,8,Mitsubishi-Montero,1
+2023,8,Mitsubishi-Montero Sport,13
+2023,8,Nissan-Altima,2
+2023,8,Nissan-Frontier,9
+2023,8,Nissan-Maxima,4
+2023,8,Nissan-Pathfinder,11
+2023,8,Nissan-Quest,5
+2023,8,Nissan-Sentra,0
+2023,8,Nissan-Xterra,5
+2023,8,Oldsmobile-Alero,0
+2023,8,Oldsmobile-Aurora,7
+2023,8,Oldsmobile-Bravada,13
+2023,8,Oldsmobile-Cutlass,6
+2023,8,Oldsmobile-Intrigue,6
+2023,8,Oldsmobile-Silhouette,21
+2023,8,Plymouth-Breeze,0
+2023,8,Plymouth-Neon,8
+2023,8,Plymouth-Prowler,3
+2023,8,Plymouth-Voyager,6
+2023,8,Pontiac-Bonneville,6
+2023,8,Pontiac-Firebird,2
+2023,8,Pontiac-Grand Am,7
+2023,8,Pontiac-Grand Prix,6
+2023,8,Pontiac-Sunfire,8
+2023,8,Porsche-Boxter,5
+2023,8,Porsche-Carrera Cabrio,2
+2023,8,Porsche-Carrera Coupe,14
+2023,8,Saab-3-Sep,10
+2023,8,Saab-5-Sep,2
+2023,8,Saturn-LS,6
+2023,8,Saturn-LW,5
+2023,8,Saturn-SC,5
+2023,8,Saturn-SL,3
+2023,8,Saturn-SW,4
+2023,8,Subaru-Forester,10
+2023,8,Subaru-Outback,5
+2023,8,Toyota-4Runner,6
+2023,8,Toyota-Avalon,0
+2023,8,Toyota-Camry,5
+2023,8,Toyota-Celica,11
+2023,8,Toyota-Corolla,2
+2023,8,Toyota-Land Cruiser,11
+2023,8,Toyota-RAV4,4
+2023,8,Toyota-Sienna,5
+2023,8,Toyota-Tacoma,2
+2023,8,Volkswagen-Beetle,7
+2023,8,Volkswagen-Cabrio,4
+2023,8,Volkswagen-GTI,2
+2023,8,Volkswagen-Golf,9
+2023,8,Volkswagen-Jetta,13
+2023,8,Volkswagen-Passat,14
+2023,8,Volvo-C70,5
+2023,8,Volvo-S40,6
+2023,8,Volvo-S70,4
+2023,8,Volvo-S80,3
+2023,8,Volvo-V40,2
+2023,8,Volvo-V70,1
+2023,9,Acura-Integra,2
+2023,9,Acura-RL,30
+2023,9,Acura-TL,26
+2023,9,Audi-A4,4
+2023,9,Audi-A6,28
+2023,9,Audi-A8,4
+2023,9,BMW-323i,20
+2023,9,BMW-328i,16
+2023,9,BMW-528i,25
+2023,9,Buick-Century,4
+2023,9,Buick-LeSabre,2
+2023,9,Buick-Park Avenue,12
+2023,9,Buick-Regal,10
+2023,9,Cadillac-Catera,7
+2023,9,Cadillac-DeVille,8
+2023,9,Cadillac-Eldorado,16
+2023,9,Cadillac-Escalade,19
+2023,9,Cadillac-Seville,10
+2023,9,Chevrolet-Camaro,9
+2023,9,Chevrolet-Cavalier,13
+2023,9,Chevrolet-Corvette,21
+2023,9,Chevrolet-Impala,5
+2023,9,Chevrolet-Lumina,13
+2023,9,Chevrolet-Malibu,19
+2023,9,Chevrolet-Metro,18
+2023,9,Chevrolet-Monte Carlo,11
+2023,9,Chevrolet-Prizm,37
+2023,9,Chrysler-300M,18
+2023,9,Chrysler-Cirrus,1
+2023,9,Chrysler-Concorde,25
+2023,9,Chrysler-LHS,20
+2023,9,Chrysler-Sebring Conv.,1
+2023,9,Chrysler-Sebring Coupe,18
+2023,9,Chrysler-Town & Country,3
+2023,9,Dodge-Avenger,11
+2023,9,Dodge-Caravan,6
+2023,9,Dodge-Dakota,5
+2023,9,Dodge-Durango,25
+2023,9,Dodge-Intrepid,6
+2023,9,Dodge-Neon,2
+2023,9,Dodge-Ram Pickup,38
+2023,9,Dodge-Ram Van,14
+2023,9,Dodge-Ram Wagon,9
+2023,9,Dodge-Stratus,11
+2023,9,Dodge-Viper,19
+2023,9,Ford-Contour,4
+2023,9,Ford-Crown Victoria,11
+2023,9,Ford-Escort,10
+2023,9,Ford-Expedition,18
+2023,9,Ford-Explorer,21
+2023,9,Ford-F-Series,8
+2023,9,Ford-Focus,10
+2023,9,Ford-Mustang,19
+2023,9,Ford-Ranger,10
+2023,9,Ford-Taurus,12
+2023,9,Ford-Windstar,10
+2023,9,Honda-Accord,20
+2023,9,Honda-CR-V,9
+2023,9,Honda-Civic,6
+2023,9,Honda-Odyssey,6
+2023,9,Honda-Passport,10
+2023,9,Hyundai-Accent,2
+2023,9,Hyundai-Elantra,4
+2023,9,Hyundai-Sonata,14
+2023,9,Infiniti-I30,11
+2023,9,Jaguar-S-Type,17
+2023,9,Jeep-Cherokee,4
+2023,9,Jeep-Grand Cherokee,14
+2023,9,Jeep-Wrangler,15
+2023,9,Lexus-ES300,7
+2023,9,Lexus-GS300,2
+2023,9,Lexus-GS400,18
+2023,9,Lexus-LS400,35
+2023,9,Lexus-LX470,12
+2023,9,Lexus-RX300,1
+2023,9,Lincoln-Continental,15
+2023,9,Lincoln-Navigator,7
+2023,9,Lincoln-Town car,6
+2023,9,Mercedes-B-C-Class,10
+2023,9,Mercedes-B-CL500,9
+2023,9,Mercedes-B-CLK Coupe,4
+2023,9,Mercedes-B-E-Class,6
+2023,9,Mercedes-B-M-Class,7
+2023,9,Mercedes-B-S-Class,14
+2023,9,Mercedes-B-SL-Class,6
+2023,9,Mercedes-B-SLK,18
+2023,9,Mercedes-B-SLK230,12
+2023,9,Mercury-Cougar,11
+2023,9,Mercury-Grand Marquis,15
+2023,9,Mercury-Mountaineer,6
+2023,9,Mercury-Mystique,5
+2023,9,Mercury-Sable,12
+2023,9,Mercury-Villager,10
+2023,9,Mitsubishi-3000GT,23
+2023,9,Mitsubishi-Diamante,28
+2023,9,Mitsubishi-Eclipse,6
+2023,9,Mitsubishi-Galant,4
+2023,9,Mitsubishi-Mirage,2
+2023,9,Mitsubishi-Montero,5
+2023,9,Mitsubishi-Montero Sport,14
+2023,9,Nissan-Altima,7
+2023,9,Nissan-Frontier,16
+2023,9,Nissan-Maxima,12
+2023,9,Nissan-Pathfinder,21
+2023,9,Nissan-Quest,6
+2023,9,Nissan-Sentra,7
+2023,9,Nissan-Xterra,13
+2023,9,Oldsmobile-Alero,2
+2023,9,Oldsmobile-Aurora,12
+2023,9,Oldsmobile-Bravada,14
+2023,9,Oldsmobile-Cutlass,10
+2023,9,Oldsmobile-Intrigue,9
+2023,9,Oldsmobile-Silhouette,28
+2023,9,Plymouth-Breeze,7
+2023,9,Plymouth-Neon,13
+2023,9,Plymouth-Prowler,11
+2023,9,Plymouth-Voyager,9
+2023,9,Pontiac-Bonneville,15
+2023,9,Pontiac-Firebird,5
+2023,9,Pontiac-Grand Am,13
+2023,9,Pontiac-Grand Prix,9
+2023,9,Pontiac-Sunfire,16
+2023,9,Porsche-Boxter,4
+2023,9,Porsche-Carrera Cabrio,10
+2023,9,Porsche-Carrera Coupe,16
+2023,9,Saab-3-Sep,11
+2023,9,Saab-5-Sep,3
+2023,9,Saturn-LS,12
+2023,9,Saturn-LW,11
+2023,9,Saturn-SC,7
+2023,9,Saturn-SL,1
+2023,9,Saturn-SW,5
+2023,9,Subaru-Forester,20
+2023,9,Subaru-Outback,11
+2023,9,Toyota-4Runner,3
+2023,9,Toyota-Avalon,3
+2023,9,Toyota-Camry,17
+2023,9,Toyota-Celica,10
+2023,9,Toyota-Corolla,11
+2023,9,Toyota-Land Cruiser,5
+2023,9,Toyota-RAV4,12
+2023,9,Toyota-Sienna,16
+2023,9,Toyota-Tacoma,14
+2023,9,Volkswagen-Beetle,8
+2023,9,Volkswagen-Cabrio,12
+2023,9,Volkswagen-GTI,13
+2023,9,Volkswagen-Golf,8
+2023,9,Volkswagen-Jetta,41
+2023,9,Volkswagen-Passat,22
+2023,9,Volvo-C70,18
+2023,9,Volvo-S40,22
+2023,9,Volvo-S70,6
+2023,9,Volvo-S80,6
+2023,9,Volvo-V40,1
+2023,9,Volvo-V70,0
+2023,10,Acura-Integra,4
+2023,10,Acura-RL,12
+2023,10,Acura-TL,9
+2023,10,Audi-A4,2
+2023,10,Audi-A6,15
+2023,10,Audi-A8,2
+2023,10,BMW-323i,11
+2023,10,BMW-328i,10
+2023,10,BMW-528i,20
+2023,10,Buick-Century,2
+2023,10,Buick-LeSabre,1
+2023,10,Buick-Park Avenue,12
+2023,10,Buick-Regal,7
+2023,10,Cadillac-Catera,3
+2023,10,Cadillac-DeVille,3
+2023,10,Cadillac-Eldorado,15
+2023,10,Cadillac-Escalade,2
+2023,10,Cadillac-Seville,5
+2023,10,Chevrolet-Camaro,5
+2023,10,Chevrolet-Cavalier,9
+2023,10,Chevrolet-Corvette,11
+2023,10,Chevrolet-Impala,2
+2023,10,Chevrolet-Lumina,4
+2023,10,Chevrolet-Malibu,7
+2023,10,Chevrolet-Metro,7
+2023,10,Chevrolet-Monte Carlo,9
+2023,10,Chevrolet-Prizm,14
+2023,10,Chrysler-300M,10
+2023,10,Chrysler-Cirrus,1
+2023,10,Chrysler-Concorde,10
+2023,10,Chrysler-LHS,16
+2023,10,Chrysler-Sebring Conv.,1
+2023,10,Chrysler-Sebring Coupe,12
+2023,10,Chrysler-Town & Country,0
+2023,10,Dodge-Avenger,5
+2023,10,Dodge-Caravan,4
+2023,10,Dodge-Dakota,4
+2023,10,Dodge-Durango,8
+2023,10,Dodge-Intrepid,5
+2023,10,Dodge-Neon,0
+2023,10,Dodge-Ram Pickup,21
+2023,10,Dodge-Ram Van,2
+2023,10,Dodge-Ram Wagon,4
+2023,10,Dodge-Stratus,3
+2023,10,Dodge-Viper,16
+2023,10,Ford-Contour,5
+2023,10,Ford-Crown Victoria,8
+2023,10,Ford-Escort,3
+2023,10,Ford-Expedition,6
+2023,10,Ford-Explorer,7
+2023,10,Ford-F-Series,5
+2023,10,Ford-Focus,6
+2023,10,Ford-Mustang,6
+2023,10,Ford-Ranger,6
+2023,10,Ford-Taurus,10
+2023,10,Ford-Windstar,2
+2023,10,Honda-Accord,13
+2023,10,Honda-CR-V,4
+2023,10,Honda-Civic,4
+2023,10,Honda-Odyssey,3
+2023,10,Honda-Passport,5
+2023,10,Hyundai-Accent,1
+2023,10,Hyundai-Elantra,1
+2023,10,Hyundai-Sonata,9
+2023,10,Infiniti-I30,10
+2023,10,Jaguar-S-Type,8
+2023,10,Jeep-Cherokee,1
+2023,10,Jeep-Grand Cherokee,4
+2023,10,Jeep-Wrangler,5
+2023,10,Lexus-ES300,6
+2023,10,Lexus-GS300,1
+2023,10,Lexus-GS400,8
+2023,10,Lexus-LS400,6
+2023,10,Lexus-LX470,5
+2023,10,Lexus-RX300,0
+2023,10,Lincoln-Continental,11
+2023,10,Lincoln-Navigator,6
+2023,10,Lincoln-Town car,5
+2023,10,Mercedes-B-C-Class,8
+2023,10,Mercedes-B-CL500,5
+2023,10,Mercedes-B-CLK Coupe,1
+2023,10,Mercedes-B-E-Class,3
+2023,10,Mercedes-B-M-Class,4
+2023,10,Mercedes-B-S-Class,12
+2023,10,Mercedes-B-SL-Class,6
+2023,10,Mercedes-B-SLK,14
+2023,10,Mercedes-B-SLK230,2
+2023,10,Mercury-Cougar,6
+2023,10,Mercury-Grand Marquis,11
+2023,10,Mercury-Mountaineer,7
+2023,10,Mercury-Mystique,1
+2023,10,Mercury-Sable,4
+2023,10,Mercury-Villager,4
+2023,10,Mitsubishi-3000GT,14
+2023,10,Mitsubishi-Diamante,21
+2023,10,Mitsubishi-Eclipse,3
+2023,10,Mitsubishi-Galant,6
+2023,10,Mitsubishi-Mirage,0
+2023,10,Mitsubishi-Montero,0
+2023,10,Mitsubishi-Montero Sport,13
+2023,10,Nissan-Altima,5
+2023,10,Nissan-Frontier,6
+2023,10,Nissan-Maxima,6
+2023,10,Nissan-Pathfinder,12
+2023,10,Nissan-Quest,5
+2023,10,Nissan-Sentra,2
+2023,10,Nissan-Xterra,1
+2023,10,Oldsmobile-Alero,0
+2023,10,Oldsmobile-Aurora,6
+2023,10,Oldsmobile-Bravada,5
+2023,10,Oldsmobile-Cutlass,7
+2023,10,Oldsmobile-Intrigue,10
+2023,10,Oldsmobile-Silhouette,16
+2023,10,Plymouth-Breeze,5
+2023,10,Plymouth-Neon,5
+2023,10,Plymouth-Prowler,6
+2023,10,Plymouth-Voyager,8
+2023,10,Pontiac-Bonneville,10
+2023,10,Pontiac-Firebird,3
+2023,10,Pontiac-Grand Am,3
+2023,10,Pontiac-Grand Prix,2
+2023,10,Pontiac-Sunfire,8
+2023,10,Porsche-Boxter,7
+2023,10,Porsche-Carrera Cabrio,2
+2023,10,Porsche-Carrera Coupe,11
+2023,10,Saab-3-Sep,4
+2023,10,Saab-5-Sep,2
+2023,10,Saturn-LS,5
+2023,10,Saturn-LW,6
+2023,10,Saturn-SC,3
+2023,10,Saturn-SL,3
+2023,10,Saturn-SW,2
+2023,10,Subaru-Forester,14
+2023,10,Subaru-Outback,5
+2023,10,Toyota-4Runner,3
+2023,10,Toyota-Avalon,0
+2023,10,Toyota-Camry,5
+2023,10,Toyota-Celica,9
+2023,10,Toyota-Corolla,6
+2023,10,Toyota-Land Cruiser,7
+2023,10,Toyota-RAV4,10
+2023,10,Toyota-Sienna,8
+2023,10,Toyota-Tacoma,5
+2023,10,Volkswagen-Beetle,7
+2023,10,Volkswagen-Cabrio,3
+2023,10,Volkswagen-GTI,7
+2023,10,Volkswagen-Golf,5
+2023,10,Volkswagen-Jetta,13
+2023,10,Volkswagen-Passat,23
+2023,10,Volvo-C70,13
+2023,10,Volvo-S40,10
+2023,10,Volvo-S70,6
+2023,10,Volvo-S80,6
+2023,10,Volvo-V40,0
+2023,10,Volvo-V70,4
+2023,11,Acura-Integra,2
+2023,11,Acura-RL,39
+2023,11,Acura-TL,18
+2023,11,Audi-A4,9
+2023,11,Audi-A6,29
+2023,11,Audi-A8,1
+2023,11,BMW-323i,22
+2023,11,BMW-328i,16
+2023,11,BMW-528i,30
+2023,11,Buick-Century,3
+2023,11,Buick-LeSabre,5
+2023,11,Buick-Park Avenue,11
+2023,11,Buick-Regal,10
+2023,11,Cadillac-Catera,6
+2023,11,Cadillac-DeVille,8
+2023,11,Cadillac-Eldorado,11
+2023,11,Cadillac-Escalade,13
+2023,11,Cadillac-Seville,6
+2023,11,Chevrolet-Camaro,9
+2023,11,Chevrolet-Cavalier,15
+2023,11,Chevrolet-Corvette,17
+2023,11,Chevrolet-Impala,7
+2023,11,Chevrolet-Lumina,11
+2023,11,Chevrolet-Malibu,21
+2023,11,Chevrolet-Metro,20
+2023,11,Chevrolet-Monte Carlo,12
+2023,11,Chevrolet-Prizm,35
+2023,11,Chrysler-300M,17
+2023,11,Chrysler-Cirrus,3
+2023,11,Chrysler-Concorde,13
+2023,11,Chrysler-LHS,29
+2023,11,Chrysler-Sebring Conv.,1
+2023,11,Chrysler-Sebring Coupe,17
+2023,11,Chrysler-Town & Country,3
+2023,11,Dodge-Avenger,8
+2023,11,Dodge-Caravan,13
+2023,11,Dodge-Dakota,5
+2023,11,Dodge-Durango,20
+2023,11,Dodge-Intrepid,5
+2023,11,Dodge-Neon,2
+2023,11,Dodge-Ram Pickup,22
+2023,11,Dodge-Ram Van,14
+2023,11,Dodge-Ram Wagon,11
+2023,11,Dodge-Stratus,4
+2023,11,Dodge-Viper,15
+2023,11,Ford-Contour,11
+2023,11,Ford-Crown Victoria,8
+2023,11,Ford-Escort,5
+2023,11,Ford-Expedition,22
+2023,11,Ford-Explorer,16
+2023,11,Ford-F-Series,6
+2023,11,Ford-Focus,8
+2023,11,Ford-Mustang,8
+2023,11,Ford-Ranger,10
+2023,11,Ford-Taurus,10
+2023,11,Ford-Windstar,10
+2023,11,Honda-Accord,18
+2023,11,Honda-CR-V,13
+2023,11,Honda-Civic,8
+2023,11,Honda-Odyssey,4
+2023,11,Honda-Passport,7
+2023,11,Hyundai-Accent,2
+2023,11,Hyundai-Elantra,7
+2023,11,Hyundai-Sonata,12
+2023,11,Infiniti-I30,18
+2023,11,Jaguar-S-Type,12
+2023,11,Jeep-Cherokee,8
+2023,11,Jeep-Grand Cherokee,7
+2023,11,Jeep-Wrangler,10
+2023,11,Lexus-ES300,8
+2023,11,Lexus-GS300,7
+2023,11,Lexus-GS400,9
+2023,11,Lexus-LS400,31
+2023,11,Lexus-LX470,9
+2023,11,Lexus-RX300,1
+2023,11,Lincoln-Continental,15
+2023,11,Lincoln-Navigator,7
+2023,11,Lincoln-Town car,15
+2023,11,Mercedes-B-C-Class,9
+2023,11,Mercedes-B-CL500,12
+2023,11,Mercedes-B-CLK Coupe,3
+2023,11,Mercedes-B-E-Class,12
+2023,11,Mercedes-B-M-Class,14
+2023,11,Mercedes-B-S-Class,21
+2023,11,Mercedes-B-SL-Class,7
+2023,11,Mercedes-B-SLK,13
+2023,11,Mercedes-B-SLK230,10
+2023,11,Mercury-Cougar,14
+2023,11,Mercury-Grand Marquis,25
+2023,11,Mercury-Mountaineer,8
+2023,11,Mercury-Mystique,3
+2023,11,Mercury-Sable,17
+2023,11,Mercury-Villager,13
+2023,11,Mitsubishi-3000GT,32
+2023,11,Mitsubishi-Diamante,36
+2023,11,Mitsubishi-Eclipse,7
+2023,11,Mitsubishi-Galant,8
+2023,11,Mitsubishi-Mirage,2
+2023,11,Mitsubishi-Montero,8
+2023,11,Mitsubishi-Montero Sport,24
+2023,11,Nissan-Altima,6
+2023,11,Nissan-Frontier,12
+2023,11,Nissan-Maxima,4
+2023,11,Nissan-Pathfinder,22
+2023,11,Nissan-Quest,4
+2023,11,Nissan-Sentra,2
+2023,11,Nissan-Xterra,2
+2023,11,Oldsmobile-Alero,0
+2023,11,Oldsmobile-Aurora,6
+2023,11,Oldsmobile-Bravada,18
+2023,11,Oldsmobile-Cutlass,19
+2023,11,Oldsmobile-Intrigue,11
+2023,11,Oldsmobile-Silhouette,33
+2023,11,Plymouth-Breeze,8
+2023,11,Plymouth-Neon,16
+2023,11,Plymouth-Prowler,12
+2023,11,Plymouth-Voyager,16
+2023,11,Pontiac-Bonneville,14
+2023,11,Pontiac-Firebird,2
+2023,11,Pontiac-Grand Am,17
+2023,11,Pontiac-Grand Prix,16
+2023,11,Pontiac-Sunfire,25
+2023,11,Porsche-Boxter,7
+2023,11,Porsche-Carrera Cabrio,8
+2023,11,Porsche-Carrera Coupe,14
+2023,11,Saab-3-Sep,12
+2023,11,Saab-5-Sep,2
+2023,11,Saturn-LS,10
+2023,11,Saturn-LW,16
+2023,11,Saturn-SC,14
+2023,11,Saturn-SL,3
+2023,11,Saturn-SW,10
+2023,11,Subaru-Forester,17
+2023,11,Subaru-Outback,15
+2023,11,Toyota-4Runner,1
+2023,11,Toyota-Avalon,1
+2023,11,Toyota-Camry,9
+2023,11,Toyota-Celica,15
+2023,11,Toyota-Corolla,6
+2023,11,Toyota-Land Cruiser,5
+2023,11,Toyota-RAV4,9
+2023,11,Toyota-Sienna,9
+2023,11,Toyota-Tacoma,10
+2023,11,Volkswagen-Beetle,5
+2023,11,Volkswagen-Cabrio,13
+2023,11,Volkswagen-GTI,15
+2023,11,Volkswagen-Golf,9
+2023,11,Volkswagen-Jetta,24
+2023,11,Volkswagen-Passat,31
+2023,11,Volvo-C70,17
+2023,11,Volvo-S40,25
+2023,11,Volvo-S70,13
+2023,11,Volvo-S80,6
+2023,11,Volvo-V40,2
+2023,11,Volvo-V70,4
+2023,12,Acura-Integra,4
+2023,12,Acura-RL,31
+2023,12,Acura-TL,23
+2023,12,Audi-A4,9
+2023,12,Audi-A6,23
+2023,12,Audi-A8,3
+2023,12,BMW-323i,22
+2023,12,BMW-328i,13
+2023,12,BMW-528i,25
+2023,12,Buick-Century,2
+2023,12,Buick-LeSabre,3
+2023,12,Buick-Park Avenue,13
+2023,12,Buick-Regal,14
+2023,12,Cadillac-Catera,8
+2023,12,Cadillac-DeVille,6
+2023,12,Cadillac-Eldorado,18
+2023,12,Cadillac-Escalade,14
+2023,12,Cadillac-Seville,6
+2023,12,Chevrolet-Camaro,10
+2023,12,Chevrolet-Cavalier,12
+2023,12,Chevrolet-Corvette,17
+2023,12,Chevrolet-Impala,6
+2023,12,Chevrolet-Lumina,16
+2023,12,Chevrolet-Malibu,25
+2023,12,Chevrolet-Metro,24
+2023,12,Chevrolet-Monte Carlo,8
+2023,12,Chevrolet-Prizm,33
+2023,12,Chrysler-300M,21
+2023,12,Chrysler-Cirrus,3
+2023,12,Chrysler-Concorde,11
+2023,12,Chrysler-LHS,25
+2023,12,Chrysler-Sebring Conv.,1
+2023,12,Chrysler-Sebring Coupe,19
+2023,12,Chrysler-Town & Country,2
+2023,12,Dodge-Avenger,5
+2023,12,Dodge-Caravan,21
+2023,12,Dodge-Dakota,6
+2023,12,Dodge-Durango,22
+2023,12,Dodge-Intrepid,4
+2023,12,Dodge-Neon,3
+2023,12,Dodge-Ram Pickup,29
+2023,12,Dodge-Ram Van,12
+2023,12,Dodge-Ram Wagon,10
+2023,12,Dodge-Stratus,5
+2023,12,Dodge-Viper,17
+2023,12,Ford-Contour,10
+2023,12,Ford-Crown Victoria,13
+2023,12,Ford-Escort,7
+2023,12,Ford-Expedition,20
+2023,12,Ford-Explorer,20
+2023,12,Ford-F-Series,8
+2023,12,Ford-Focus,16
+2023,12,Ford-Mustang,11
+2023,12,Ford-Ranger,8
+2023,12,Ford-Taurus,13
+2023,12,Ford-Windstar,9
+2023,12,Honda-Accord,20
+2023,12,Honda-CR-V,12
+2023,12,Honda-Civic,10
+2023,12,Honda-Odyssey,8
+2023,12,Honda-Passport,11
+2023,12,Hyundai-Accent,4
+2023,12,Hyundai-Elantra,5
+2023,12,Hyundai-Sonata,13
+2023,12,Infiniti-I30,19
+2023,12,Jaguar-S-Type,13
+2023,12,Jeep-Cherokee,6
+2023,12,Jeep-Grand Cherokee,11
+2023,12,Jeep-Wrangler,11
+2023,12,Lexus-ES300,10
+2023,12,Lexus-GS300,7
+2023,12,Lexus-GS400,10
+2023,12,Lexus-LS400,29
+2023,12,Lexus-LX470,12
+2023,12,Lexus-RX300,1
+2023,12,Lincoln-Continental,18
+2023,12,Lincoln-Navigator,10
+2023,12,Lincoln-Town car,15
+2023,12,Mercedes-B-C-Class,10
+2023,12,Mercedes-B-CL500,13
+2023,12,Mercedes-B-CLK Coupe,2
+2023,12,Mercedes-B-E-Class,7
+2023,12,Mercedes-B-M-Class,8
+2023,12,Mercedes-B-S-Class,20
+2023,12,Mercedes-B-SL-Class,21
+2023,12,Mercedes-B-SLK,17
+2023,12,Mercedes-B-SLK230,9
+2023,12,Mercury-Cougar,13
+2023,12,Mercury-Grand Marquis,26
+2023,12,Mercury-Mountaineer,7
+2023,12,Mercury-Mystique,5
+2023,12,Mercury-Sable,15
+2023,12,Mercury-Villager,11
+2023,12,Mitsubishi-3000GT,26
+2023,12,Mitsubishi-Diamante,33
+2023,12,Mitsubishi-Eclipse,9
+2023,12,Mitsubishi-Galant,9
+2023,12,Mitsubishi-Mirage,1
+2023,12,Mitsubishi-Montero,5
+2023,12,Mitsubishi-Montero Sport,30
+2023,12,Nissan-Altima,6
+2023,12,Nissan-Frontier,14
+2023,12,Nissan-Maxima,4
+2023,12,Nissan-Pathfinder,19
+2023,12,Nissan-Quest,5
+2023,12,Nissan-Sentra,3
+2023,12,Nissan-Xterra,3
+2023,12,Oldsmobile-Alero,3
+2023,12,Oldsmobile-Aurora,9
+2023,12,Oldsmobile-Bravada,12
+2023,12,Oldsmobile-Cutlass,19
+2023,12,Oldsmobile-Intrigue,14
+2023,12,Oldsmobile-Silhouette,36
+2023,12,Plymouth-Breeze,7
+2023,12,Plymouth-Neon,15
+2023,12,Plymouth-Prowler,11
+2023,12,Plymouth-Voyager,16
+2023,12,Pontiac-Bonneville,14
+2023,12,Pontiac-Firebird,6
+2023,12,Pontiac-Grand Am,14
+2023,12,Pontiac-Grand Prix,13
+2023,12,Pontiac-Sunfire,19
+2023,12,Porsche-Boxter,7
+2023,12,Porsche-Carrera Cabrio,6
+2023,12,Porsche-Carrera Coupe,11
+2023,12,Saab-3-Sep,15
+2023,12,Saab-5-Sep,2
+2023,12,Saturn-LS,12
+2023,12,Saturn-LW,14
+2023,12,Saturn-SC,16
+2023,12,Saturn-SL,4
+2023,12,Saturn-SW,4
+2023,12,Subaru-Forester,20
+2023,12,Subaru-Outback,15
+2023,12,Toyota-4Runner,5
+2023,12,Toyota-Avalon,1
+2023,12,Toyota-Camry,14
+2023,12,Toyota-Celica,14
+2023,12,Toyota-Corolla,9
+2023,12,Toyota-Land Cruiser,8
+2023,12,Toyota-RAV4,11
+2023,12,Toyota-Sienna,9
+2023,12,Toyota-Tacoma,17
+2023,12,Volkswagen-Beetle,7
+2023,12,Volkswagen-Cabrio,13
+2023,12,Volkswagen-GTI,16
+2023,12,Volkswagen-Golf,4
+2023,12,Volkswagen-Jetta,22
+2023,12,Volkswagen-Passat,31
+2023,12,Volvo-C70,15
+2023,12,Volvo-S40,23
+2023,12,Volvo-S70,12
+2023,12,Volvo-S80,6
+2023,12,Volvo-V40,2
+2023,12,Volvo-V70,3

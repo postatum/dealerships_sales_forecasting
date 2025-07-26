@@ -20,7 +20,7 @@
 
 ## Team members: 
 
-- [Artem Kostiuk](https://github.com/postatum)
+- [Artem Kostiuk](https://github.com/postatum) ([video](https://youtu.be/10K-kLKbUek))
 - [Julio Socher](https://github.com/juliosocher) ([video](https://www.loom.com/share/951764f8f44f42a8b56aaf4fe1f4a569))
 - [Palash Bose](https://github.com/pala2003) ([video](https://www.loom.com/share/3b374e0a7cb94456a7008cbdb84b5f77))
 - [Sakibal Sadat](https://github.com/ssadat92)

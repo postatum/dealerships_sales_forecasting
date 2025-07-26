@@ -17,6 +17,7 @@
 6. [Key Findings](#key-findings)
 7. [Visualization and Observation](#visualization-and-observation)
 8. [Conclusion](#conclusion)
+9. [Final Presentation](#final-presentation)
 
 ## Team members: 
 
@@ -24,7 +25,7 @@
 - [Julio Socher](https://github.com/juliosocher) ([video](https://www.loom.com/share/951764f8f44f42a8b56aaf4fe1f4a569))
 - [Palash Bose](https://github.com/pala2003) ([video](https://www.loom.com/share/3b374e0a7cb94456a7008cbdb84b5f77))
 - [Sakibal Sadat](https://github.com/ssadat92) ([video](https://www.loom.com/share/da1101a3f0464524ae40757e5093c7c6?sid=df905d06-7ffc-4fb3-ac94-1a8e4d491699))
-- [Victor Lopez](https://github.com/vhlopezch)
+- [Victor Lopez](https://github.com/vhlopezch) ([video](https://www.youtube.com/watch?v=nKdEQIJYeBk))
 - [Zoe Ackah](https://github.com/zoeackah)
 
 ## Business Problem and Objective 
@@ -186,12 +187,12 @@ Enhanced Methodology Development
 To address these findings and provide additional business value, we developed a supplementary Linear Regression approach
 
 ## Visualization and Observation 
-![Confusion matrix of our ML Model](model_eval.png)
-![ML model accuracy by car](ML_model_accuracy_by_car.png)
-![Here are the ML volume predictions and confidence levels against our traditional linear regression](ml_confidence_vs_lr_volume_rankings.png)
-![2024 annual forecast for top car models](2024_top_cars_forecast.png)
-![Example 2024 Q4 Top 3 Cars Forecast](Q4_2024_forecast.png)
-![Additional 2024 Forecast Vis](top_models_2024_forecast.png)
+![Confusion matrix of our ML Model](./images/model_eval.png)
+![ML model accuracy by car](./images/ML_model_accuracy_by_car.png)
+![Here are the ML volume predictions and confidence levels against our traditional linear regression](./images/ml_confidence_vs_lr_volume_rankings.png)
+![2024 annual forecast for top car models](./images/2024_top_cars_forecast.png)
+![Example 2024 Q4 Top 3 Cars Forecast](./images/Q4_2024_forecast.png)
+![Additional 2024 Forecast Vis](./images/top_models_2024_forecast.png)
 
 
 ## Conclusion 
@@ -216,3 +217,11 @@ Improved Profitability: Optimized inventory levels reduce carrying costs while m
 Enhanced Customer Satisfaction: Reliable stock availability of top-performing models improves customer experience.
 
 #MLTeam3 has delivered a scalable, data-driven solution that transforms automotive inventory management from reactive to predictive, positioning the dealership network for sustained market leader
+
+## Final Presentation
+
+Click the image below to view the final interactive presentation:
+
+[![Final Presentation](./images/presentation-cover.png)](https://gamma.app/docs/Car-Sales-Forecasting-nrpcjim4fkuiu22?mode=doc)
+
+📄 You can also [download the PDF version](./docs/ML3_Team-Presentation-Car-Sales-Forecasting.pdf) of the presentation.

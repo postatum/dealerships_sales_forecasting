@@ -23,7 +23,7 @@
 - [Artem Kostiuk](https://github.com/postatum) ([video](https://youtu.be/10K-kLKbUek))
 - [Julio Socher](https://github.com/juliosocher) ([video](https://www.loom.com/share/951764f8f44f42a8b56aaf4fe1f4a569))
 - [Palash Bose](https://github.com/pala2003) ([video](https://www.loom.com/share/3b374e0a7cb94456a7008cbdb84b5f77))
-- [Sakibal Sadat](https://github.com/ssadat92)
+- [Sakibal Sadat](https://github.com/ssadat92) ([video](https://www.loom.com/share/da1101a3f0464524ae40757e5093c7c6?sid=df905d06-7ffc-4fb3-ac94-1a8e4d491699))
 - [Victor Lopez](https://github.com/vhlopezch)
 - [Zoe Ackah](https://github.com/zoeackah)
 

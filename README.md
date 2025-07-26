@@ -21,7 +21,7 @@
 ## Team members: 
 
 - [Artem Kostiuk](https://github.com/postatum)
-- [Julio Socher](https://github.com/juliosocher)
+- [Julio Socher](https://github.com/juliosocher) ([video](https://www.loom.com/share/951764f8f44f42a8b56aaf4fe1f4a569))
 - [Palash Bose](https://github.com/pala2003)
 - [Sakibal Sadat](https://github.com/ssadat92)
 - [Victor Lopez](https://github.com/vhlopezch)

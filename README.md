@@ -26,7 +26,7 @@
 - [Palash Bose](https://github.com/pala2003) ([video](https://www.loom.com/share/3b374e0a7cb94456a7008cbdb84b5f77))
 - [Sakibal Sadat](https://github.com/ssadat92) ([video](https://www.loom.com/share/da1101a3f0464524ae40757e5093c7c6?sid=df905d06-7ffc-4fb3-ac94-1a8e4d491699))
 - [Victor Lopez](https://github.com/vhlopezch) ([video](https://www.youtube.com/watch?v=nKdEQIJYeBk))
-- [Zoe Ackah](https://github.com/zoeackah)
+- [Zoe Ackah](https://github.com/zoeackah) ([video](https://youtu.be/7vbVUv8O7HE))
 
 ## Business Problem and Objective 
 #MLTeam3 is a market leading research group focused on automotive supply chain with data backed reporting and forecasting services for auto manufacturers, parts suppliers and dealership groups across the globe. #MLTeam3 provides AI backed market predictions and forecasts to optimize demand based decision making for all vehicles in the industry. 
